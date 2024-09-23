@@ -11,7 +11,7 @@ dateread:
 > Endo, K., Tsuchida, S., Fukusato, T., & Igarashi, T. (2024). ‘Automatic Dance Video Segmentation for Understanding Choreography’. _Proceedings of the 9th International Conference on Movement and Computing_, pp. 1–9. Presented at the MOCO ’24: 9th International Conference on Movement and Computing, May 30, Utrecht Netherlands: ACM. DOI: [10.1145/3658852.3659076](https://doi.org/10.1145/3658852.3659076)
 
 >[!Synth]
->**Contribution**:: 
+>**Contribution**:: The main contribution of this paper is an automated system for the segmentation of audiovisual dance recordings corresponding to individual dance moves. This is achieved through the use of a [[Temporal Convolutional Network|TCN]], which is passed a [[Multimodality|multimodal]] feature vector consisting of extracted bone vectors from the [[Digital Video Signal|video]] and [[Mel Spectrogram|mel spectrogram]] for the corresponding frame from the [[Digital Audio Signal|audio]]. Through an [[Ablation Study|ablation study]], they show that the [[Multimodal Machine Learning|multimodal modal]] performs [[Statistical Significance|statistically significantly]] better than the audio or video model alone. In addition they prepare a subset of the 
 >
 >**Related**:: 
 >
