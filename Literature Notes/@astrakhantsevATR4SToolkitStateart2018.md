@@ -1,9 +1,9 @@
 
 ---
-category: literaturenote
-tags: 
-citekey: astrakhantsevATR4SToolkitStateart2018
-status: unread
+category:: literaturenote
+tags:: 
+citekey:: astrakhantsevATR4SToolkitStateart2018
+status:: unread
 dateread:
 ---
 
@@ -31,7 +31,7 @@ dateread:
 
 > [!LINK] 
 >
-> [[Astrakhantsev_2018_ATR4S.pdf]].
+> [[Astrakhantsev_2018_ATR4S toolkit with state-of-the-art automatic terms recognition methods in Scala.pdf]].
 
 > [!Abstract]
 >
@@ -45,6 +45,17 @@ dateread:
 # Annotations%% begin annotations %%
 
 
+### Imported: 2024-09-24 10:20 am
+
+
+
+<mark style="background-color: #000000">Quote</mark>
+> Automatic terminology recognition (ATR) aims at extraction of terms—words and collocations designating domain-specific concepts—from a collection of text documents belonging to that domain.
+
+<mark style="background-color: #000000">Quote</mark>
+> Finally, the most recent survey by Astrakhantsev et al. (2015) identified the general pipeline of ATR methods: preprocessing, term candidates collection, term candidate scoring, and term candidate ranking.
+
+
 %% end annotations %%
 
-%% Import Date: 2024-09-23T18:44:30.942+02:00 %%
+%% Import Date: 2024-09-24T10:20:34.546+02:00 %%
