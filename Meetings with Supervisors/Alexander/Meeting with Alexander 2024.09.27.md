@@ -2,9 +2,29 @@
 
 Previous meeting on [[Meeting with Alexander 2024.09.18|18.09.2024]]
 
-# **To Discuss:**
+# **To Discuss**
 
-- Paper idea - "Whose Time is it Anyway?". Looking at the synchronisation and alignment of multiple data modalities. When we synchronise and/or align multiple time-series signals, what are the underlying assumptions we are making about the temporality of the event? How does this relate to the spatial characteristics of the sensor placement and recording space? How does this relate to the human perception of the event? And how does this influence the analysis of the data?
+- Paper idea - "Whose Time is it Anyway?". Looking at the synchronisation and alignment of multiple data modalities. When we synchronise and/or align multiple time-series signals, what are the underlying assumptions we are making about the temporality of the event? How does this relate to the spatial characteristics of the sensor placement and recording space? How does this relate to the human perception of the event? And how does this influence the analysis of the data? Main question: Whose or what's perspective are we taking when we synchronise, align, and trim data, how does this relate to the task being performed, and what does this imply about the analysis being performed on the synchronised data?
 - Open-sourcing of the thesis writing on GitHub. Attempt at [[Open Science|open science]]. Not just sharing results and data, but also the process of research. Can share this Obsidian vault through GitHub integration.
-# **Notes:**
+# **Notes**
+
+- Synchronisation paper, the here and now of the data - Husserlian phenomenology in reference to the here and now, what about the there and then
+- Kork data - 48 mics, smaller hall than Stavanger - whose position are we listening too
+- Human perceptual system both precise and sloppy in terms of time
+- Average data - synch doesn't matter, trim does
+- Method for paper - prototyping rapid iterations of examples
+- Take one dataset - see what problems are
+- Methodological papers difficult for journals
+- Submit SMC - to get started - theory driven
+- Iterative, user-centred
+- Include potential end-users - extremes (Microtiming researchers timing important, others timing not important) - what do they need - present prototype back
+
+# **Minutes**
+
+- 
+
+# **Next Meeting**
+
+Next meeting on [[Meeting with Alexander 2024.10.16|16.10.2024]]
+
 
