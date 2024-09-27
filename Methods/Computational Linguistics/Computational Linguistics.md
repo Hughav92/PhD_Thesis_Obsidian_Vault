@@ -3,4 +3,4 @@
 The field of computational linguistics has several subfields. These include
 
 - [[Text Mining]]
-- [[Automatic Termin]]
+- [[Automatic Terminology Recognition]] 
