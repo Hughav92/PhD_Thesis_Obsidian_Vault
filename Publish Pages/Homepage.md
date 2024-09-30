@@ -1,0 +1,4 @@
+
+I'm Hugh and this is the open-source site for my PhD thesis. My project is preliminarily titled "Data Fusion for the Analysis of Multimodal Musicking Datasets" and is centred on developing a [[Methods vs Methodology|methodological]] framework for the analysis of [[Music Datasets vs Musicking Datasets|musicking datasets]] consisting of multiple data modalities, with focus on the representation of spatial and temporal information in fused data. The project began on 01.09.2024 and is intended to run until 01.09.2027.
+
+This site encompasses everything that I am writing as part of the project, including everything from the thesis and article manuscripts to memos, notes, reflections, and literature overview. This is intended to function as a knowl
