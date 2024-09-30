@@ -8,6 +8,6 @@ The paradigm of processing methods for [[Analog Signal|analog signals]]. #analog
 
 
 ![[analog_signal_processing.png]]
-
+Image from [[@holtonDigitalSignalProcessing2020]].
 
 

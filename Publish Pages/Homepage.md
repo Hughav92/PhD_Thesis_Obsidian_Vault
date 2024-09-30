@@ -15,4 +15,9 @@ The contents of this site is released under a [Creative Commons BY-NC-SA 4.0](ht
 - [Google Scholar](https://scholar.google.com/citations?user=1H848AwAAAAJ&hl=en)
 - [Github](https://github.com/Hughav92)
 
+# Attributions
+
+The literature notes and overviews that I use as part of this vault are a lightly modified version of the template provided by [Alexandra Phelan](https://medium.com/@alexandraphelan/an-updated-academic-workflow-zotero-obsidian-cffef080addd).
+
+All images taken from the literature are attributed in the corresponding note.
 

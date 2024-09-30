@@ -4,6 +4,8 @@
 
 # Methods Based on Occurrences Frequencies
 
+These methods are fundamentally based upon the [[Term Frequency (TF)|frequency that certain terms occur within a corpus]], with the assumption that the more frequently a word or n-gram appears within a domain specific corpus, the more relevant it is to that domain.
+
 - [[Term Frequency (TF)]]
 - [[Average Term Frequency]]
 - [[Inverse Document Frequency (IDF)]]
@@ -13,11 +15,12 @@
 - [[Basic Score]]
 - [[Combo Basic Score]]
 
+# Methods Based on Occurrences Contexts
 
-
-
+These methods are based upon the assumption that the context within which a term candidate appears can be useful to determine domain specific terms and non-terms.
 
 - [[Normalised Contextual Value (NC-Value)]]
+- [[Domain Coherence]]
 
 
 - [[Mutual Information (MI)]]
