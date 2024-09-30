@@ -21,8 +21,7 @@ Previous meeting on [[Meeting with Alexander 2024.09.18|18.09.2024]]
 
 # **Minutes**
 
-- 
-
+- We discussed the potential of writing a paper on [[Data Synchronisation|synchronisation]] and [[Data Alignment|alignment]]. This paper will focus on the temporal and spatial perspective taken by a given analysis method, i.e. alignment of multiple modalities is not the same when performed using an external trigger, computer timestamps, properties of the signal, or with respective to perceptual qualities of the signal. Alexander framed this idea in relation to the experience of latency in [[Telematic Performance|telematic performance]]. He related this to Husserl's [[Phenomenology|phenomenology]] (in particular the idea of the "here and now") and relates it to the idea of the "there and then". He recommended looking at the [[KORK 2024]] dataset, which contains 48 microphone signals, as a 
 # **Next Meeting**
 
 Next meeting on [[Meeting with Alexander 2024.10.16|16.10.2024]]
