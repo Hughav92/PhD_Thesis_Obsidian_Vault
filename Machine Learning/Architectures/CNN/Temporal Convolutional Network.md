@@ -14,7 +14,7 @@ An overview of the TCN architecture with [[Dilated Convolution|dilated convoluti
 
 ![[Pasted image 20240902162837.png]]
 
-[[Multimodal Machine Learning|Multimodal]] TCNs have been used for tasks such as dance video segmentation [[Endo et al_2024_Automatic Dance Video Segmentation for Understanding Choreography.pdf|(Endo et al., 2024)]], 
+[[Multimodal Machine Learning|Multimodal]] TCNs have been used for tasks such as dance video segmentation [[@endoAutomaticDanceVideo2024]], 
 
 # **Papers Using Temporal Convolutional Networks**
 
