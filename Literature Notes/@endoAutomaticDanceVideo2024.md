@@ -1,7 +1,7 @@
 
 ---
 category: literaturenote
-tags: 
+tags: #temporal-convolutional-network #TCN #dance #multimodal #multimodal-learning #ablation #video #audio #AIST
 citekey: endoAutomaticDanceVideo2024
 status:: read
 dateread:

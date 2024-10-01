@@ -22,5 +22,10 @@ These methods are based upon the assumption that the context within which a term
 - [[Normalised Contextual Value (NC-Value)]]
 - [[Domain Coherence]]
 
+# Methods Based on Reference Corpora
 
-- [[Mutual Information (MI)]]
+These methods are based upon the comparing the statistics relating to the occurrence of term candidates in a domain corpus against the statistics relating to the same terms in a reference corpus or corpora. The reference corpus is usually taken from a general domain.
+
+- [[Domain Pertinence]]
+- [[Weirdness]]
+- [[Relevance]]

@@ -17,7 +17,7 @@ where $a$ is the candidate string, $f(a)$ the frequency of the candidate term in
 $$
 \text{C-value}(t) = 
 \begin{cases} 
-\log_2  (\left|t\right| + \alpha) \cdot TF(t), & \textit{if } \{ s:t \subset s \} = \varnothing ; \\
+\log_2  (\left|t\right| + \alpha) \cdot TF(t), & \textit{if } \{ s:t \subset s \} = \emptyset ; \\
 \log_2 (\left|t\right| + \alpha) \cdot (TF(t)-\frac{\sum_sTF(s)}{\{s:t \subset s\}}), & \textit{else.}
 \end{cases}
 $$

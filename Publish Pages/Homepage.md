@@ -15,15 +15,23 @@ The contents of this site is released under a [Creative Commons BY-NC-SA 4.0](ht
 %% DATAVIEW_PUBLISHER: start
 ```dataview
 TABLE file.mtime AS "Updated"
-WHERE file.cday = date(today) OR file.mday = date(today)
+SORT file.mtime DESC
+LIMIT 10
 ```
 %%
 
-| File                                                                                                                        | Updated                    |
-| --------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
-| [[Literature Overview/All.md\|All]]                                                                                         | 3:59 PM - October 01, 2024 |
-| [[Methods/Computational Linguistics/Automatic Terminology Recognition (ATR)/Methods/Domain Coherence.md\|Domain Coherence]] | 3:43 PM - October 01, 2024 |
-| [[Publish Pages/Homepage.md\|Homepage]]                                                                                     | 4:00 PM - October 01, 2024 |
+| File                                                                                                                                                                          | Updated                      |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
+| [[Publish Pages/Homepage.md\|Homepage]]                                                                                                                                       | 5:19 PM - October 01, 2024   |
+| [[Methods/Computational Linguistics/Automatic Terminology Recognition (ATR)/Methods/Automatic Terminology Recognition Methods.md\|Automatic Terminology Recognition Methods]] | 5:14 PM - October 01, 2024   |
+| [[Literature Notes/@endoAutomaticDanceVideo2024.md\|@endoAutomaticDanceVideo2024]]                                                                                            | 5:09 PM - October 01, 2024   |
+| [[Methods/Computational Linguistics/Automatic Terminology Recognition (ATR)/Methods/Domain Coherence.md\|Domain Coherence]]                                                   | 5:05 PM - October 01, 2024   |
+| [[Methods/Computational Linguistics/Automatic Terminology Recognition (ATR)/Methods/Contextual Value (C-Value).md\|Contextual Value (C-Value)]]                               | 4:46 PM - October 01, 2024   |
+| [[Pointwise Mutual Information.md\|Pointwise Mutual Information]]                                                                                                             | 4:44 PM - October 01, 2024   |
+| [[Literature Overview/All.md\|All]]                                                                                                                                           | 3:59 PM - October 01, 2024   |
+| [[Multimodality/Multimodal Representation Levels.md\|Multimodal Representation Levels]]                                                                                       | 4:45 PM - September 30, 2024 |
+| [[Signal Processing/Signal Processing Paradigms/Analog Signal Processing.md\|Analog Signal Processing]]                                                                       | 4:44 PM - September 30, 2024 |
+| [[Literature Notes/@holtonDigitalSignalProcessing2020.md\|@holtonDigitalSignalProcessing2020]]                                                                                | 4:43 PM - September 30, 2024 |
 
 %% DATAVIEW_PUBLISHER: end %%
 
