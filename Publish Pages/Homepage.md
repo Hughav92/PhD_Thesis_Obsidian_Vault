@@ -9,6 +9,25 @@ I aim to share as much as I can. However, some of the contents of my personal ve
 
 The contents of this site is released under a [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license. This means that you are free to share and adapt the content here, as long as you properly attribute it, do not use it for any commercial purposes, and share any work you do to build upon it under the same license.
 
+# Latest Updated Pages
+
+
+%% DATAVIEW_PUBLISHER: start
+```dataview
+TABLE file.mtime AS "Updated"
+WHERE file.cday = date(today) OR file.mday = date(today)
+```
+%%
+
+| File                                                                                                                        | Updated                    |
+| --------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
+| [[Literature Overview/All.md\|All]]                                                                                         | 3:59 PM - October 01, 2024 |
+| [[Methods/Computational Linguistics/Automatic Terminology Recognition (ATR)/Methods/Domain Coherence.md\|Domain Coherence]] | 3:43 PM - October 01, 2024 |
+| [[Publish Pages/Homepage.md\|Homepage]]                                                                                     | 4:00 PM - October 01, 2024 |
+
+%% DATAVIEW_PUBLISHER: end %%
+
+
 # Links
 
 - [University of Oslo employee page](https://www.uio.no/ritmo/english/people/phd-fellows/hughav/index.html)

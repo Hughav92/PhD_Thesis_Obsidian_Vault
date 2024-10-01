@@ -5,4 +5,11 @@ Domain Coherence is an [[Automatic Terminology Recognition|ATR]] method which is
 > 2. **Length**
 > 	Only single-word candidates are considered, as longer terms are more specific
 > 3. **Content**
-> 	Only content-bearing words are of interest (i.e. non)
+> 	Only content-bearing words are of interest (i.e. nouns, verbs, adjectives)
+> 4. **Semantic Relatedness**
+> 	A term is more general if it is semantically related to many specific terms (p. 4)
+
+The first three steps are used to select candidate terms. [[@astrakhantsevATR4SToolkitStateart2018]] provides the concrete parameters of extracting 
+
+1. Multi-word terms are extracted using a [[Contextual Value (C-Value)|a standard term extraction technique]].
+2. 
