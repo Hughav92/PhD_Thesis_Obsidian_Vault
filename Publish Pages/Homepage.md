@@ -19,7 +19,7 @@ The contents of this site that are my own are released under a [Creative Commons
 ```dataview
 TABLE file.cday as "Date"
 FROM "Daily Notes"
-WHERE file.cday = date(today)
+WHERE file.cday = date(today) AND file.name != "Daily Notes"
 ```
 %%
 
@@ -28,6 +28,8 @@ WHERE file.cday = date(today)
 | [[Daily Notes/2024-10-02.md\|2024-10-02]] | October 02, 2024 |
 
 %% DATAVIEW_PUBLISHER: end %%
+
+Previous daily notes can be found [[Daily Notes|here]].
 
 # Latest Updated Pages
 
@@ -41,16 +43,16 @@ LIMIT 10
 
 | File                                                                                                                                                                          | Updated                    |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
-| [[Methods/Computational Linguistics/Automatic Terminology Recognition (ATR)/Methods/i-SWB.md\|i-SWB]]                                                                         | 4:30 PM - October 02, 2024 |
-| [[Daily Notes/2024-10-02.md\|2024-10-02]]                                                                                                                                     | 4:13 PM - October 02, 2024 |
+| [[Publish Pages/Homepage.md\|Homepage]]                                                                                                                                       | 5:46 PM - October 02, 2024 |
+| [[Daily Notes/Daily Notes.md\|Daily Notes]]                                                                                                                                   | 5:45 PM - October 02, 2024 |
+| [[Daily Notes/2024-10-02.md\|2024-10-02]]                                                                                                                                     | 5:45 PM - October 02, 2024 |
+| [[BVH.md\|BVH]]                                                                                                                                                               | 5:24 PM - October 02, 2024 |
+| [[Methods/Computational Linguistics/Automatic Terminology Recognition (ATR)/Methods/i-SWB.md\|i-SWB]]                                                                         | 5:21 PM - October 02, 2024 |
+| [[Distributions/Dirichlet Distribution.md\|Dirichlet Distribution]]                                                                                                           | 5:15 PM - October 02, 2024 |
 | [[Entropy.md\|Entropy]]                                                                                                                                                       | 4:13 PM - October 02, 2024 |
-| [[Publish Pages/Homepage.md\|Homepage]]                                                                                                                                       | 4:09 PM - October 02, 2024 |
 | [[Obsidian Templates/Create Daily Note.md\|Create Daily Note]]                                                                                                                | 4:07 PM - October 02, 2024 |
 | [[Methods/Computational Linguistics/Automatic Terminology Recognition (ATR)/Methods/Automatic Terminology Recognition Methods.md\|Automatic Terminology Recognition Methods]] | 3:58 PM - October 02, 2024 |
 | [[Literature Overview/All.md\|All]]                                                                                                                                           | 3:58 PM - October 02, 2024 |
-| [[Literature Notes/@liNovelTopicModel2013.md\|@liNovelTopicModel2013]]                                                                                                        | 3:57 PM - October 02, 2024 |
-| [[Signal to Noise Ratio (SNR).md\|Signal to Noise Ratio (SNR)]]                                                                                                               | 3:50 PM - October 02, 2024 |
-| [[Methods/Computational Linguistics/Topic Modelling.md\|Topic Modelling]]                                                                                                     | 3:48 PM - October 02, 2024 |
 
 %% DATAVIEW_PUBLISHER: end %%
 
