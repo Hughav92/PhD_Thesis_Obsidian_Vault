@@ -24,6 +24,7 @@ LIMIT 10
 
 | File                                                                                                                                                                          | Updated                    |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
+| [[Obsidian Templates/Create Daily Note.md\|Create Daily Note]]                                                                                                                | 1:48 PM - October 02, 2024 |
 | [[Publish Pages/Homepage.md\|Homepage]]                                                                                                                                       | 7:14 PM - October 01, 2024 |
 | [[Methods/Computational Linguistics/Automatic Terminology Recognition (ATR)/Methods/Domain Pertinence.md\|Domain Pertinence]]                                                 | 5:56 PM - October 01, 2024 |
 | [[Literature Overview/All.md\|All]]                                                                                                                                           | 5:50 PM - October 01, 2024 |
@@ -33,7 +34,6 @@ LIMIT 10
 | [[Methods/Computational Linguistics/Automatic Terminology Recognition (ATR)/Methods/Relevance.md\|Relevance]]                                                                 | 5:23 PM - October 01, 2024 |
 | [[Methods/Computational Linguistics/Automatic Terminology Recognition (ATR)/Methods/Weirdness.md\|Weirdness]]                                                                 | 5:22 PM - October 01, 2024 |
 | [[Literature Notes/@endoAutomaticDanceVideo2024.md\|@endoAutomaticDanceVideo2024]]                                                                                            | 5:09 PM - October 01, 2024 |
-| [[Methods/Computational Linguistics/Automatic Terminology Recognition (ATR)/Methods/Domain Coherence.md\|Domain Coherence]]                                                   | 5:05 PM - October 01, 2024 |
 
 %% DATAVIEW_PUBLISHER: end %%
 
