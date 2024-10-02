@@ -39,18 +39,18 @@ LIMIT 10
 ```
 %%
 
-| File                                                                                                                                                                                                                   | Updated                    |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
-| [[Publish Pages/Homepage.md\|Homepage]]                                                                                                                                                                                | 2:29 PM - October 02, 2024 |
-| [[Daily Notes/2024-10-02.md\|2024-10-02]]                                                                                                                                                                              | 2:26 PM - October 02, 2024 |
-| [[Datasets/UTH-MHAD.md\|UTH-MHAD]]                                                                                                                                                                                     | 2:18 PM - October 02, 2024 |
-| [[Spectrogram.md\|Spectrogram]]                                                                                                                                                                                        | 2:16 PM - October 02, 2024 |
-| [[Obsidian Templates/Create Daily Note.md\|Create Daily Note]]                                                                                                                                                         | 2:14 PM - October 02, 2024 |
-| [[Manuscript Writing/Time and Space in Synchronisation and Alignment/Relevant Literature - Time and Space in Synchronisation and Alignment.md\|Relevant Literature - Time and Space in Synchronisation and Alignment]] | 2:12 PM - October 02, 2024 |
-| [[Manuscript Writing/Multimodal Learning HAR/Relevant Literature - Multimodal Learning HAR.md\|Relevant Literature - Multimodal Learning HAR]]                                                                         | 2:12 PM - October 02, 2024 |
-| [[Manuscript Writing/MoCap Latency Perception/Relevant Literature - MoCap Latency Perception.md\|Relevant Literature - MoCap Latency Perception]]                                                                      | 2:11 PM - October 02, 2024 |
-| [[Manuscript Writing/Multimodal Methods Systematic Review/Methods/Methodology.md\|Methodology]]                                                                                                                        | 2:10 PM - October 02, 2024 |
-| [[Manuscript Writing/Multimodal Methods Systematic Review/Relevant Literature - Multimodal Methods Systematic Review.md\|Relevant Literature - Multimodal Methods Systematic Review]]                                  | 2:09 PM - October 02, 2024 |
+| File                                                                                                           | Updated                    |
+| -------------------------------------------------------------------------------------------------------------- | -------------------------- |
+| [[Literature Overview/All.md\|All]]                                                                            | 3:37 PM - October 02, 2024 |
+| [[Publish Pages/Homepage.md\|Homepage]]                                                                        | 3:35 PM - October 02, 2024 |
+| [[Methods/Computational Linguistics/Automatic Terminology Recognition (ATR)/Methods/Relevance.md\|Relevance]]  | 3:35 PM - October 02, 2024 |
+| [[Methods/Computational Linguistics/Automatic Terminology Recognition (ATR)/Methods/Weirdness.md\|Weirdness]]  | 3:34 PM - October 02, 2024 |
+| [[Daily Notes/2024-10-02.md\|2024-10-02]]                                                                      | 3:33 PM - October 02, 2024 |
+| [[Literature Notes/@penasCorpusbasedTerminologyExtraction2001.md\|@penasCorpusbasedTerminologyExtraction2001]] | 3:22 PM - October 02, 2024 |
+| [[Literature Notes/@ahmadUniversitySurreyParticipation1999.md\|@ahmadUniversitySurreyParticipation1999]]       | 3:00 PM - October 02, 2024 |
+| [[Datasets/UTH-MHAD.md\|UTH-MHAD]]                                                                             | 2:18 PM - October 02, 2024 |
+| [[Spectrogram.md\|Spectrogram]]                                                                                | 2:16 PM - October 02, 2024 |
+| [[Obsidian Templates/Create Daily Note.md\|Create Daily Note]]                                                 | 2:14 PM - October 02, 2024 |
 
 %% DATAVIEW_PUBLISHER: end %%
 
