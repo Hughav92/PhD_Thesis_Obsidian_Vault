@@ -12,6 +12,23 @@ I aim to share as much as I can. However, some of the contents of my personal ve
 
 The contents of this site are released under a [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license. This means that you are free to share and adapt the content here, as long as you properly attribute it, do not use it for any commercial purposes, and share any work you do to build upon it under the same license.
 
+# Daily Note
+
+
+%% DATAVIEW_PUBLISHER: start
+```dataview
+TABLE file.cday as "Date"
+FROM "Daily Notes"
+WHERE file.cday = date(today)
+```
+%%
+
+| File                                      | Date             |
+| ----------------------------------------- | ---------------- |
+| [[Daily Notes/2024-10-02.md\|2024-10-02]] | October 02, 2024 |
+
+%% DATAVIEW_PUBLISHER: end %%
+
 # Latest Updated Pages
 
 %% DATAVIEW_PUBLISHER: start
@@ -22,18 +39,18 @@ LIMIT 10
 ```
 %%
 
-| File                                                                                                                                                                          | Updated                    |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
-| [[Obsidian Templates/Create Daily Note.md\|Create Daily Note]]                                                                                                                | 1:48 PM - October 02, 2024 |
-| [[Publish Pages/Homepage.md\|Homepage]]                                                                                                                                       | 7:14 PM - October 01, 2024 |
-| [[Methods/Computational Linguistics/Automatic Terminology Recognition (ATR)/Methods/Domain Pertinence.md\|Domain Pertinence]]                                                 | 5:56 PM - October 01, 2024 |
-| [[Literature Overview/All.md\|All]]                                                                                                                                           | 5:50 PM - October 01, 2024 |
-| [[Methods/Computational Linguistics/Automatic Terminology Recognition (ATR)/Methods/Automatic Terminology Recognition Methods.md\|Automatic Terminology Recognition Methods]] | 5:49 PM - October 01, 2024 |
-| [[Literature Notes/@meijerSemanticApproachExtracting2014.md\|@meijerSemanticApproachExtracting2014]]                                                                          | 5:42 PM - October 01, 2024 |
-| [[Methods/Motion Analysis/Quantity of Motion.md\|Quantity of Motion]]                                                                                                         | 5:28 PM - October 01, 2024 |
-| [[Methods/Computational Linguistics/Automatic Terminology Recognition (ATR)/Methods/Relevance.md\|Relevance]]                                                                 | 5:23 PM - October 01, 2024 |
-| [[Methods/Computational Linguistics/Automatic Terminology Recognition (ATR)/Methods/Weirdness.md\|Weirdness]]                                                                 | 5:22 PM - October 01, 2024 |
-| [[Literature Notes/@endoAutomaticDanceVideo2024.md\|@endoAutomaticDanceVideo2024]]                                                                                            | 5:09 PM - October 01, 2024 |
+| File                                                                                                                                                                                                                   | Updated                    |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
+| [[Publish Pages/Homepage.md\|Homepage]]                                                                                                                                                                                | 2:29 PM - October 02, 2024 |
+| [[Daily Notes/2024-10-02.md\|2024-10-02]]                                                                                                                                                                              | 2:26 PM - October 02, 2024 |
+| [[Datasets/UTH-MHAD.md\|UTH-MHAD]]                                                                                                                                                                                     | 2:18 PM - October 02, 2024 |
+| [[Spectrogram.md\|Spectrogram]]                                                                                                                                                                                        | 2:16 PM - October 02, 2024 |
+| [[Obsidian Templates/Create Daily Note.md\|Create Daily Note]]                                                                                                                                                         | 2:14 PM - October 02, 2024 |
+| [[Manuscript Writing/Time and Space in Synchronisation and Alignment/Relevant Literature - Time and Space in Synchronisation and Alignment.md\|Relevant Literature - Time and Space in Synchronisation and Alignment]] | 2:12 PM - October 02, 2024 |
+| [[Manuscript Writing/Multimodal Learning HAR/Relevant Literature - Multimodal Learning HAR.md\|Relevant Literature - Multimodal Learning HAR]]                                                                         | 2:12 PM - October 02, 2024 |
+| [[Manuscript Writing/MoCap Latency Perception/Relevant Literature - MoCap Latency Perception.md\|Relevant Literature - MoCap Latency Perception]]                                                                      | 2:11 PM - October 02, 2024 |
+| [[Manuscript Writing/Multimodal Methods Systematic Review/Methods/Methodology.md\|Methodology]]                                                                                                                        | 2:10 PM - October 02, 2024 |
+| [[Manuscript Writing/Multimodal Methods Systematic Review/Relevant Literature - Multimodal Methods Systematic Review.md\|Relevant Literature - Multimodal Methods Systematic Review]]                                  | 2:09 PM - October 02, 2024 |
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -46,5 +63,13 @@ LIMIT 10
 # Attributions
 
 The literature notes and overviews that I use as part of this vault are a lightly modified version of the template provided by [Alexandra Phelan](https://medium.com/@alexandraphelan/an-updated-academic-workflow-zotero-obsidian-cffef080addd).
+
+Images in header image from:
+
+- [Video Data Shape](https://www.tensorflow.org/images/tutorials/video/video_data_shape.png)
+- [MoCap](https://www.researchgate.net/profile/Michal-Balazia/publication/308457587/figure/fig3/AS:641838260162560@1530037574587/Motion-capture-data-Skeleton-is-represented-by-a-stick-figure-of-17-joints-left-Seven.png)
+- [3D Tensor](https://tensorflow.rstudio.com/guides/tensorflow/images/tensor/3-axis_block.png)
+- [4D Tensor](https://www.tensorflow.org/static/guide/images/tensor/4-axis_block.png)
+- [3D Tensor with Values](https://www.tensorflow.org/static/guide/images/tensor/3-axis_front.png)
 
 All images taken from the literature are attributed in the corresponding note.

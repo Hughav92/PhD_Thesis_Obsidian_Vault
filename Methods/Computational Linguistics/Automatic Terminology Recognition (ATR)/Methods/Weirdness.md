@@ -1,0 +1,1 @@
+Weirdness is an [[Automatic Terminology Recognition|ATR]] method which can be used to extract terms from a domain corpus evaluated developed by [[[@ahmadUniversitySurreyParticipation1999]]]
