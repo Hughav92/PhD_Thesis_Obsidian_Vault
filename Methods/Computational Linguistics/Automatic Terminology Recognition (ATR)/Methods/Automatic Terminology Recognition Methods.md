@@ -32,7 +32,7 @@ These methods are based upon the comparing the statistics relating to the occurr
 
 # Methods Based on Topic Modelling
 
-These methods are based upon the assumption that the semantic information obtained through [[Topic Modelling|topic modelling]] can be used to extract terms. [[@astrakhantsevATR4SToolkitStateart2018]] notes that this is particularly relevant in that the [[Signa to Noise Ratio (SNR)|signal to noise ratio]] of the distribution of terms over topics is higher than that of the distribution of terms over an entire corpus.
+These methods are based upon the assumption that the semantic information obtained through [[Topic Modelling|topic modelling]] can be used to extract terms. [[@astrakhantsevATR4SToolkitStateart2018]] notes that this is particularly relevant in that the [[Signal to Noise Ratio (SNR)|signal to noise ratio]] of the distribution of terms over topics is higher than that of the distribution of terms over an entire corpus.
 
 - [[i-SWB]]
 

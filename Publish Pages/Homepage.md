@@ -10,7 +10,7 @@ The publishing of the process of writing a PhD thesis is intended to be part of 
 
 I aim to share as much as I can. However, some of the contents of my personal version of this vault contain copyrighted or sensitive material, which may account for several dead links in this site. Moreover, any mistakes and errors are my own and I welcome all corrections and general feedback at hughav "at" uio.no.
 
-The contents of this site are released under a [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license. This means that you are free to share and adapt the content here, as long as you properly attribute it, do not use it for any commercial purposes, and share any work you do to build upon it under the same license.
+The contents of this site that are my own are released under a [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license. This means that you are free to share and adapt the content here, as long as you properly attribute it, do not use it for any commercial purposes, and share any work you do to build upon it under the same license.
 
 # Daily Note
 
@@ -39,18 +39,18 @@ LIMIT 10
 ```
 %%
 
-| File                                                                                                           | Updated                    |
-| -------------------------------------------------------------------------------------------------------------- | -------------------------- |
-| [[Literature Overview/All.md\|All]]                                                                            | 3:37 PM - October 02, 2024 |
-| [[Publish Pages/Homepage.md\|Homepage]]                                                                        | 3:35 PM - October 02, 2024 |
-| [[Methods/Computational Linguistics/Automatic Terminology Recognition (ATR)/Methods/Relevance.md\|Relevance]]  | 3:35 PM - October 02, 2024 |
-| [[Methods/Computational Linguistics/Automatic Terminology Recognition (ATR)/Methods/Weirdness.md\|Weirdness]]  | 3:34 PM - October 02, 2024 |
-| [[Daily Notes/2024-10-02.md\|2024-10-02]]                                                                      | 3:33 PM - October 02, 2024 |
-| [[Literature Notes/@penasCorpusbasedTerminologyExtraction2001.md\|@penasCorpusbasedTerminologyExtraction2001]] | 3:22 PM - October 02, 2024 |
-| [[Literature Notes/@ahmadUniversitySurreyParticipation1999.md\|@ahmadUniversitySurreyParticipation1999]]       | 3:00 PM - October 02, 2024 |
-| [[Datasets/UTH-MHAD.md\|UTH-MHAD]]                                                                             | 2:18 PM - October 02, 2024 |
-| [[Spectrogram.md\|Spectrogram]]                                                                                | 2:16 PM - October 02, 2024 |
-| [[Obsidian Templates/Create Daily Note.md\|Create Daily Note]]                                                 | 2:14 PM - October 02, 2024 |
+| File                                                                                                                                                                          | Updated                    |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
+| [[Methods/Computational Linguistics/Automatic Terminology Recognition (ATR)/Methods/i-SWB.md\|i-SWB]]                                                                         | 4:30 PM - October 02, 2024 |
+| [[Daily Notes/2024-10-02.md\|2024-10-02]]                                                                                                                                     | 4:13 PM - October 02, 2024 |
+| [[Entropy.md\|Entropy]]                                                                                                                                                       | 4:13 PM - October 02, 2024 |
+| [[Publish Pages/Homepage.md\|Homepage]]                                                                                                                                       | 4:09 PM - October 02, 2024 |
+| [[Obsidian Templates/Create Daily Note.md\|Create Daily Note]]                                                                                                                | 4:07 PM - October 02, 2024 |
+| [[Methods/Computational Linguistics/Automatic Terminology Recognition (ATR)/Methods/Automatic Terminology Recognition Methods.md\|Automatic Terminology Recognition Methods]] | 3:58 PM - October 02, 2024 |
+| [[Literature Overview/All.md\|All]]                                                                                                                                           | 3:58 PM - October 02, 2024 |
+| [[Literature Notes/@liNovelTopicModel2013.md\|@liNovelTopicModel2013]]                                                                                                        | 3:57 PM - October 02, 2024 |
+| [[Signal to Noise Ratio (SNR).md\|Signal to Noise Ratio (SNR)]]                                                                                                               | 3:50 PM - October 02, 2024 |
+| [[Methods/Computational Linguistics/Topic Modelling.md\|Topic Modelling]]                                                                                                     | 3:48 PM - October 02, 2024 |
 
 %% DATAVIEW_PUBLISHER: end %%
 
