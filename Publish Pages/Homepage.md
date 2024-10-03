@@ -41,18 +41,18 @@ LIMIT 10
 ```
 %%
 
-| File                                                                                                                                                                          | Updated                     |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
-| [[Literature Notes/@zhangComparativeEvaluationTerm2008.md\|@zhangComparativeEvaluationTerm2008]]                                                                              | 12:32 PM - October 03, 2024 |
-| [[Daily Notes/2024-10-03.md\|2024-10-03]]                                                                                                                                     | 12:31 PM - October 03, 2024 |
-| [[Publish Pages/Homepage.md\|Homepage]]                                                                                                                                       | 12:31 PM - October 03, 2024 |
-| [[Literature Overview/All.md\|All]]                                                                                                                                           | 12:31 PM - October 03, 2024 |
-| [[Methods/Computational Linguistics/Automatic Terminology Recognition (ATR)/Methods/PU-ATR.md\|PU-ATR]]                                                                       | 12:30 PM - October 03, 2024 |
-| [[Methods/Computational Linguistics/Automatic Terminology Recognition (ATR)/Methods/Automatic Terminology Recognition Methods.md\|Automatic Terminology Recognition Methods]] | 12:07 PM - October 03, 2024 |
-| [[Methods/Computational Linguistics/Automatic Terminology Recognition (ATR)/Methods/Voting Algorithm (Zhang et al., 2008).md\|Voting Algorithm (Zhang et al., 2008)]]         | 12:06 PM - October 03, 2024 |
-| [[Methods/Computational Linguistics/Automatic Terminology Recognition (ATR)/Methods/GlossEx.md\|GlossEx]]                                                                     | 11:59 AM - October 03, 2024 |
-| [[Literature Notes/@parkAutomaticGlossaryExtraction2002.md\|@parkAutomaticGlossaryExtraction2002]]                                                                            | 11:59 AM - October 03, 2024 |
-| [[Methods/Computational Linguistics/Automatic Terminology Recognition (ATR)/Methods/PostRankDC.md\|PostRankDC]]                                                               | 11:48 AM - October 03, 2024 |
+| File                                                                                                                                 | Updated                    |
+| ------------------------------------------------------------------------------------------------------------------------------------ | -------------------------- |
+| [[Publish Pages/Homepage.md\|Homepage]]                                                                                              | 1:19 PM - October 03, 2024 |
+| [[Literature Notes/@astrakhantsevATR4SToolkitStateart2018.md\|@astrakhantsevATR4SToolkitStateart2018]]                               | 1:19 PM - October 03, 2024 |
+| [[Literature Notes/@frantziAutomaticRecognitionMultiword2000.md\|@frantziAutomaticRecognitionMultiword2000]]                         | 1:16 PM - October 03, 2024 |
+| [[Literature Overview/All.md\|All]]                                                                                                  | 1:15 PM - October 03, 2024 |
+| [[Literature Notes/@atreyMultimodalFusionMultimedia2010.md\|@atreyMultimodalFusionMultimedia2010]]                                   | 1:15 PM - October 03, 2024 |
+| [[Literature Notes/@omara-evesTechniquesIdentifyingCrossdisciplinary2013.md\|@omara-evesTechniquesIdentifyingCrossdisciplinary2013]] | 1:14 PM - October 03, 2024 |
+| [[Literature Notes/@vrigkasReviewHumanActivity2015.md\|@vrigkasReviewHumanActivity2015]]                                             | 1:14 PM - October 03, 2024 |
+| [[Literature Notes/@baiEmpiricalEvaluationGeneric2018.md\|@baiEmpiricalEvaluationGeneric2018]]                                       | 1:14 PM - October 03, 2024 |
+| [[Literature Notes/@tsuchidaAISTDanceVideo2019.md\|@tsuchidaAISTDanceVideo2019]]                                                     | 1:13 PM - October 03, 2024 |
+| [[Literature Notes/@weiTCNattentionHARHumanActivity2024.md\|@weiTCNattentionHARHumanActivity2024]]                                   | 1:13 PM - October 03, 2024 |
 
 %% DATAVIEW_PUBLISHER: end %%
 

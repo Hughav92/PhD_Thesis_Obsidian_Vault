@@ -1,9 +1,10 @@
 
 ---
-category: literaturenote
-tags: 
-citekey: christodoulouMultimodalMusicDatasets2024
-status: unread
+category:: literaturenote
+tags:: 
+citekey:: christodoulouMultimodalMusicDatasets2024
+status:: unread
+reference:: Christodoulou, A.-M., Lartillot, O., & Jensenius, A. R. (2024). ‘Multimodal music datasets? Challenges and future goals in music processing’, _International Journal of Multimedia Information Retrieval_, 13/3: 37. DOI: [10.1007/s13735-024-00344-6](https://doi.org/10.1007/s13735-024-00344-6)
 dateread:
 ---
 

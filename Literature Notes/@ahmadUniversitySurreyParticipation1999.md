@@ -4,11 +4,14 @@ category:: literaturenote
 tags:: 
 citekey:: ahmadUniversitySurreyParticipation1999
 status:: unread
+reference:: Ahmad, K., Gillam, L., & Tostevin, L. (1999). ‘University of Surrey Participation in TREC8: Weirdness Indexing for Logical Document Extrapolation and Retrieval (WILDER).’ _Proceedings of the Eigth Text Retrieval Conference_, pp. 1–8. Presented at the TREC.
 dateread:
 ---
 
 > [!Cite]
 > Ahmad, K., Gillam, L., & Tostevin, L. (1999). ‘University of Surrey Participation in TREC8: Weirdness Indexing for Logical Document Extrapolation and Retrieval (WILDER).’ _Proceedings of the Eigth Text Retrieval Conference_, pp. 1–8. Presented at the TREC.
+
+^df3595
 
 >[!Synth]
 >**Contribution**:: 
@@ -26,6 +29,8 @@ dateread:
 > **Citekey**:: ahmadUniversitySurreyParticipation1999  
 > **itemType**:: conferencePaper   
 > **Pages**:: 1-8    
+
+^dbcad6
 
 > [!LINK] 
 >

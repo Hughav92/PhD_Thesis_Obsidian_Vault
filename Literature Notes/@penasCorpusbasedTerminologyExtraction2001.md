@@ -4,11 +4,14 @@ category:: literaturenote
 tags:: 
 citekey:: penasCorpusbasedTerminologyExtraction2001
 status:: unread
+reference:: Peñas, A., Verdejo, F., & Gonzalo, J. (2001). ‘Corpus-based terminology extraction applied to information access’., Vol. 2001, p. 458. Presented at the Proceedings of corpus linguistics.
 dateread:
 ---
 
 > [!Cite]
 > Peñas, A., Verdejo, F., & Gonzalo, J. (2001). ‘Corpus-based terminology extraction applied to information access’., Vol. 2001, p. 458. Presented at the Proceedings of corpus linguistics.
+
+^d0d6d0
 
 >[!Synth]
 >**Contribution**:: 

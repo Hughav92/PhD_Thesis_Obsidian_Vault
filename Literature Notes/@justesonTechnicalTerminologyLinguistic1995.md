@@ -4,11 +4,14 @@ category:: literaturenote
 tags:: 
 citekey:: justesonTechnicalTerminologyLinguistic1995
 status:: unread
+reference:: Justeson, J. S., & Katz, S. M. (1995). ‘Technical terminology: some linguistic properties and an algorithm for identification in text’, _Natural language engineering_, 1/1: 9–27. Cambridge University Press.
 dateread:
 ---
 
 > [!Cite]
 > Justeson, J. S., & Katz, S. M. (1995). ‘Technical terminology: some linguistic properties and an algorithm for identification in text’, _Natural language engineering_, 1/1: 9–27. Cambridge University Press.
+
+^8f8387
 
 >[!Synth]
 >**Contribution**:: 

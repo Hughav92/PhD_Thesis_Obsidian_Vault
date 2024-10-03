@@ -1,9 +1,10 @@
 
 ---
-category: literaturenote
-tags: 
-citekey: vrigkasReviewHumanActivity2015
-status: unread
+category:: literaturenote
+tags:: 
+citekey:: vrigkasReviewHumanActivity2015
+status:: unread
+reference:: Vrigkas, M., Nikou, C., & Kakadiaris, I. A. (2015). ‘A Review of Human Activity Recognition Methods’, _Frontiers in Robotics and AI_, 2. DOI: [10.3389/frobt.2015.00028](https://doi.org/10.3389/frobt.2015.00028)
 dateread:
 ---
 

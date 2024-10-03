@@ -1,9 +1,10 @@
 
 ---
-category: literaturenote
-tags: 
-citekey: weiTCNattentionHARHumanActivity2024
-status: unread
+category:: literaturenote
+tags:: 
+citekey:: weiTCNattentionHARHumanActivity2024
+status:: unread
+reference:: Wei, X., & Wang, Z. (2024). ‘TCN-attention-HAR: human activity recognition based on attention mechanism time convolutional network’, _Scientific Reports_, 14/1: 7414. DOI: [10.1038/s41598-024-57912-3](https://doi.org/10.1038/s41598-024-57912-3)
 dateread:
 ---
 

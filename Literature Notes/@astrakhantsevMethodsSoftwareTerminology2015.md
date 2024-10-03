@@ -4,11 +4,14 @@ category:: literaturenote
 tags:: 
 citekey:: astrakhantsevMethodsSoftwareTerminology2015
 status:: unread
+reference:: Astrakhantsev, N. (2015). _Methods and software for terminology extraction from domain-specific text collection_ (Ph.D Thesis). Institute for System Programming of Russian Academy of Sciences, Moscow. Russia. Retrieved September 27, 2024, from [https://www.ispras.ru/en/publications/2015/methods_and_software_for_terminology_extraction_from_domain_specific_text_collection/](https://www.ispras.ru/en/publications/2015/methods_and_software_for_terminology_extraction_from_domain_specific_text_collection/)
 dateread:
 ---
 
 > [!Cite]
-> Astrakhantsev, N. (2015). _Methods and software for terminology extraction from domain-specific text collection_ (Ph.D Thesis). Institute for System Programming of Russian Academy of Sciences, Moscow. Russia. Retrieved September 27, 2024, from <[https://www.ispras.ru/en/publications/2015/methods_and_software_for_terminology_extraction_from_domain_specific_text_collection/](https://www.ispras.ru/en/publications/2015/methods_and_software_for_terminology_extraction_from_domain_specific_text_collection/)>
+> Astrakhantsev, N. (2015). _Methods and software for terminology extraction from domain-specific text collection_ (Ph.D Thesis). Institute for System Programming of Russian Academy of Sciences, Moscow. Russia. Retrieved September 27, 2024, from [https://www.ispras.ru/en/publications/2015/methods_and_software_for_terminology_extraction_from_domain_specific_text_collection/](https://www.ispras.ru/en/publications/2015/methods_and_software_for_terminology_extraction_from_domain_specific_text_collection/)
+
+^7148a9
 
 >[!Synth]
 >**Contribution**:: 

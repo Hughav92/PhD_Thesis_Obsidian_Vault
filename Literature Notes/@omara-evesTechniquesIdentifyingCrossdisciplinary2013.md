@@ -1,14 +1,17 @@
 
 ---
-category: literaturenote
-tags: 
-citekey: omara-evesTechniquesIdentifyingCrossdisciplinary2013
-status: unread
+category:: literaturenote
+tags:: 
+citekey:: omara-evesTechniquesIdentifyingCrossdisciplinary2013
+status:: unread
+reference:: O’Mara-Eves, A., Brunton, G., McDaid, D., Kavanagh, J., Oliver, S., & Thomas, J. (2013). ‘Techniques for identifying cross-disciplinary and “hard-to-detect” evidence for systematic review: Identifying Hard-to-Detect Evidence’, _Research Synthesis Methods_, 5/1: 50–9. DOI: [10.1002/jrsm.1094](https://doi.org/10.1002/jrsm.1094)
 dateread:
 ---
 
 > [!Cite]
 > O’Mara-Eves, A., Brunton, G., McDaid, D., Kavanagh, J., Oliver, S., & Thomas, J. (2013). ‘Techniques for identifying cross-disciplinary and “hard-to-detect” evidence for systematic review: Identifying Hard-to-Detect Evidence’, _Research Synthesis Methods_, 5/1: 50–9. DOI: [10.1002/jrsm.1094](https://doi.org/10.1002/jrsm.1094)
+
+^510779
 
 >[!Synth]
 >**Contribution**:: 

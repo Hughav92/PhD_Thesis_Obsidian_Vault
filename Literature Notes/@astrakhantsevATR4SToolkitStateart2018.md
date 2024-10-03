@@ -1,20 +1,39 @@
 
 ---
 category:: literaturenote
-tags:: 
+tags:: #automatic-terminology-recognition #atr #corpus #methods #toolbox #computational-linguistics 
 citekey:: astrakhantsevATR4SToolkitStateart2018
 status:: read
+reference:: Astrakhantsev, N. (2018). ‘ATR4S: toolkit with state-of-the-art automatic terms recognition methods in Scala’, _Language Resources and Evaluation_, 52/3: 853–72. DOI: [10.1007/s10579-017-9409-4](https://doi.org/10.1007/s10579-017-9409-4)
 dateread:
 ---
 
 > [!Cite]
 > Astrakhantsev, N. (2018). ‘ATR4S: toolkit with state-of-the-art automatic terms recognition methods in Scala’, _Language Resources and Evaluation_, 52/3: 853–72. DOI: [10.1007/s10579-017-9409-4](https://doi.org/10.1007/s10579-017-9409-4)
 
+^58f2b5
+
 >[!Synth]
->**Contribution**:: 
+>**Contribution**:: This paper presents a review of multiple methods for both [[Automatic Terminology Recognition|automatic terminology recognition]] and the [[Automatic Terminology Recognition Methods#Methods for Term Candidate Ranking|ranking of term candidates]]. In addition, this paper contributes a [Scala toolbox](https://github.com/ispras/atr4s) which implements 15 of these methods. Finally the authors evaluate theses methods in their implementation, and find that [[PU-ATR]] performs best for small datasets and corpora in cases where time complexity is not an issue, [[Basic Score]] or [[Combo Basic Score]] perform best for large datasets, and [[Key Concept Relatedness]] performs best for tasks requiring the recognition of few terms for domains well covered by Wikipedia.
 >
 >**Related**:: 
->
+>![[@ahmadUniversitySurreyParticipation1999#^df3595]]
+>![[@astrakhantsevMethodsSoftwareTerminology2015#^7148a9]]
+>![[@bordeaDomainindependentTermExtraction2013#^005332]]
+>![[@churchInverseDocumentFrequency1999#^0906bd]]
+>![[@evansCLARITTRECExperiments1995#^1a4cc3]]
+>![[@frantziAutomaticRecognitionMultiword2000#^f79158]]
+>![[@justesonTechnicalTerminologyLinguistic1995#^8f8387]]
+>![[@liNovelTopicModel2013#^a3b1e8]]
+>![[@lossio-venturaCombiningCvalueKeyword2013#^a99568]]
+>![[@meijerSemanticApproachExtracting2014#^eefea4]]
+>![[@omara-evesTechniquesIdentifyingCrossdisciplinary2013#^510779]]
+>![[@parkAutomaticGlossaryExtraction2002#^3da2ba]]
+>![[@penasCorpusbasedTerminologyExtraction2001#^d0d6d0]]
+>![[@sparckjonesStatisticalInterpretationTerm1972#^ddbe22]]
+>![[@zhangComparativeEvaluationTerm2008#^f864dd]]
+>![[@zhangJATE20Java2016#^29f77d]]]
+
 
 >[!md]
 > **FirstAuthor**:: Astrakhantsev, Nikita  
@@ -95,4 +114,4 @@ dateread:
 
 %% end annotations %%
 
-%% Import Date: 2024-09-27T16:56:43.109+02:00 %%
+%% Import Date: 2024-10-03T12:40:19.683+02:00 %%
