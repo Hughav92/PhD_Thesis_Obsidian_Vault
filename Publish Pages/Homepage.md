@@ -25,7 +25,7 @@ WHERE file.cday = date(today) AND file.name != "Daily Notes"
 
 | File                                      | Date             |
 | ----------------------------------------- | ---------------- |
-| [[Daily Notes/2024-10-02.md\|2024-10-02]] | October 02, 2024 |
+| [[Daily Notes/2024-10-03.md\|2024-10-03]] | October 03, 2024 |
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -41,18 +41,18 @@ LIMIT 10
 ```
 %%
 
-| File                                                                                                                                                                          | Updated                    |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
-| [[Publish Pages/Homepage.md\|Homepage]]                                                                                                                                       | 5:46 PM - October 02, 2024 |
-| [[Daily Notes/Daily Notes.md\|Daily Notes]]                                                                                                                                   | 5:45 PM - October 02, 2024 |
-| [[Daily Notes/2024-10-02.md\|2024-10-02]]                                                                                                                                     | 5:45 PM - October 02, 2024 |
-| [[BVH.md\|BVH]]                                                                                                                                                               | 5:24 PM - October 02, 2024 |
-| [[Methods/Computational Linguistics/Automatic Terminology Recognition (ATR)/Methods/i-SWB.md\|i-SWB]]                                                                         | 5:21 PM - October 02, 2024 |
-| [[Distributions/Dirichlet Distribution.md\|Dirichlet Distribution]]                                                                                                           | 5:15 PM - October 02, 2024 |
-| [[Entropy.md\|Entropy]]                                                                                                                                                       | 4:13 PM - October 02, 2024 |
-| [[Obsidian Templates/Create Daily Note.md\|Create Daily Note]]                                                                                                                | 4:07 PM - October 02, 2024 |
-| [[Methods/Computational Linguistics/Automatic Terminology Recognition (ATR)/Methods/Automatic Terminology Recognition Methods.md\|Automatic Terminology Recognition Methods]] | 3:58 PM - October 02, 2024 |
-| [[Literature Overview/All.md\|All]]                                                                                                                                           | 3:58 PM - October 02, 2024 |
+| File                                                                                                  | Updated                     |
+| ----------------------------------------------------------------------------------------------------- | --------------------------- |
+| [[Daily Notes/2024-10-02.md\|2024-10-02]]                                                             | 10:23 AM - October 03, 2024 |
+| [[Daily Notes/2024-10-03.md\|2024-10-03]]                                                             | 10:23 AM - October 03, 2024 |
+| [[Obsidian Templates/Create Daily Note.md\|Create Daily Note]]                                        | 10:23 AM - October 03, 2024 |
+| [[Publish Pages/Homepage.md\|Homepage]]                                                               | 10:22 AM - October 03, 2024 |
+| [[Data/Paradata.md\|Paradata]]                                                                        | 10:21 AM - October 03, 2024 |
+| [[Daily Notes/Daily Notes.md\|Daily Notes]]                                                           | 9:55 AM - October 03, 2024  |
+| [[Sensors/BioArmband.md\|BioArmband]]                                                                 | 9:43 AM - October 03, 2024  |
+| [[BVH.md\|BVH]]                                                                                       | 5:24 PM - October 02, 2024  |
+| [[Methods/Computational Linguistics/Automatic Terminology Recognition (ATR)/Methods/i-SWB.md\|i-SWB]] | 5:21 PM - October 02, 2024  |
+| [[Distributions/Dirichlet Distribution.md\|Dirichlet Distribution]]                                   | 5:15 PM - October 02, 2024  |
 
 %% DATAVIEW_PUBLISHER: end %%
 
