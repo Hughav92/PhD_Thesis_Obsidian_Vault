@@ -55,18 +55,18 @@ LIMIT 10
 ```
 %%
 
-| File                                                                                                                                      | Updated                    |
-| ----------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
-| [[Manuscript Writing/Multimodal Methods Systematic Review/Multimodal Methods Systematic Review.md\|Multimodal Methods Systematic Review]] | 4:54 PM - October 03, 2024 |
-| [[Data/Data Modality.md\|Data Modality]]                                                                                                  | 4:35 PM - October 03, 2024 |
-| [[Daily Notes/2024-10-03.md\|2024-10-03]]                                                                                                 | 4:34 PM - October 03, 2024 |
-| [[Publish Pages/Homepage.md\|Homepage]]                                                                                                   | 3:50 PM - October 03, 2024 |
-| [[Manuscript Writing/IR Light Level Compensation/IR Light Level Compensation.md\|IR Light Level Compensation]]                            | 3:44 PM - October 03, 2024 |
-| [[Methods/Computational Linguistics/Automatic Terminology Recognition (ATR)/Methods/Key Concept Relatedness.md\|Key Concept Relatedness]] | 1:44 PM - October 03, 2024 |
-| [[Literature Overview/Works Cited.md\|Works Cited]]                                                                                       | 1:40 PM - October 03, 2024 |
-| [[Literature Notes/@zhangJATE20Java2016.md\|@zhangJATE20Java2016]]                                                                        | 1:40 PM - October 03, 2024 |
-| [[Literature Notes/@zhangComparativeEvaluationTerm2008.md\|@zhangComparativeEvaluationTerm2008]]                                          | 1:39 PM - October 03, 2024 |
-| [[Literature Notes/@weiTCNattentionHARHumanActivity2024.md\|@weiTCNattentionHARHumanActivity2024]]                                        | 1:39 PM - October 03, 2024 |
+| File                                                                                                                                                                                                     | Updated                    |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
+| [[Daily Notes/Daily Notes.md\|Daily Notes]]                                                                                                                                                              | 6:17 PM - October 03, 2024 |
+| [[Publish Pages/Homepage.md\|Homepage]]                                                                                                                                                                  | 6:14 PM - October 03, 2024 |
+| [[Daily Notes/2024-10-03.md\|2024-10-03]]                                                                                                                                                                | 6:13 PM - October 03, 2024 |
+| [[Daily Notes/2024-10-02.md\|2024-10-02]]                                                                                                                                                                | 6:13 PM - October 03, 2024 |
+| [[Publication Venues/ISMIR.md\|ISMIR]]                                                                                                                                                                   | 6:02 PM - October 03, 2024 |
+| [[Publication Venues/TISMIR.md\|TISMIR]]                                                                                                                                                                 | 6:02 PM - October 03, 2024 |
+| [[Manuscript Writing/Multimodal Methods Systematic Review/Methods/Method - Multimodal Methods Systematic Review.md\|Method - Multimodal Methods Systematic Review]]                                      | 6:02 PM - October 03, 2024 |
+| [[Manuscript Writing/Multimodal Methods Systematic Review/Multimodal Methods Systematic Review.md\|Multimodal Methods Systematic Review]]                                                                | 5:48 PM - October 03, 2024 |
+| [[Manuscript Writing/Multimodal Methods Systematic Review/Data/Literature Review Overview - Multimodal Methods Systematic Review.md\|Literature Review Overview - Multimodal Methods Systematic Review]] | 5:47 PM - October 03, 2024 |
+| [[Meetings with Supervisors/Alexander/Meeting with Alexander 2024.09.13.md\|Meeting with Alexander 2024.09.13]]                                                                                          | 5:42 PM - October 03, 2024 |
 
 %% DATAVIEW_PUBLISHER: end %%
 
