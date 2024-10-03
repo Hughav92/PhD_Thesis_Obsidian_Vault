@@ -18,11 +18,16 @@ These are the sub-projects that I am currently working on, with the aim that the
 
 - A [[Multimodal Methods Systematic Review|systematic review of analytical methods]] used in various disciplines of music research for the analysis of multimodal datasets
 - An exploration of how different approaches towards the [[Time and Space in Synchronisation and Alignment|temporal synchronisation of time-series signals create a spatial perspective for further analysis methods]]
-- Analysing how well [[Multimodal Learning HAR|transfer learning can be applied to leverage large, pretrained models for Human Activity Recognition]] and how accelerometer and depth image data compare both with and without the support of RGB camera data in order to preserve privacy - this is part for the course [IN9490 – Advanced Topics in Artificial Intelligence for Intelligent Systems](https://www.uio.no/studier/emner/matnat/ifi/IN9490/)
-- A study of the [[MoCap Latency Perception|perception of latency]] in the visualisation of 
+- Analysing how well [[Multimodal Learning HAR|transfer learning can be applied to leverage large, pretrained models for Human Activity Recognition]] and how multimodal learning with accelerometer and depth image data, both with and without the support of RGB camera data, compare in order to preserve user privacy - this is for the course [IN9490 – Advanced Topics in Artificial Intelligence for Intelligent Systems](https://www.uio.no/studier/emner/matnat/ifi/IN9490/)
+- A study of the [[MoCap Latency Perception|perception of latency]] with respect to the visual representation of optical marker-based motion capture data and how this relates to the "human-ness" of the representation's form and the form's motion
+
+In addition, I am working on:
+
+- Developing a system to [[IR Light Level Compensation|compensate for varying levels of stage lighting]] in infra-red video recordings of audiences in live concert research, in order to streamline motion analysis
 
 # Daily Note
 
+Daily notes are where I document my goals and tasks for the day, log what I worked on and any literature that I have read, and reflect upon the ongoing status of the project.
 
 %% DATAVIEW_PUBLISHER: start
 ```dataview
@@ -52,20 +57,22 @@ LIMIT 10
 
 | File                                                                                                                                      | Updated                    |
 | ----------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
+| [[Publish Pages/Homepage.md\|Homepage]]                                                                                                   | 3:50 PM - October 03, 2024 |
+| [[Daily Notes/2024-10-03.md\|2024-10-03]]                                                                                                 | 3:48 PM - October 03, 2024 |
+| [[Manuscript Writing/IR Light Level Compensation/IR Light Level Compensation.md\|IR Light Level Compensation]]                            | 3:44 PM - October 03, 2024 |
 | [[Methods/Computational Linguistics/Automatic Terminology Recognition (ATR)/Methods/Key Concept Relatedness.md\|Key Concept Relatedness]] | 1:44 PM - October 03, 2024 |
-| [[Publish Pages/Homepage.md\|Homepage]]                                                                                                   | 1:43 PM - October 03, 2024 |
-| [[Daily Notes/2024-10-03.md\|2024-10-03]]                                                                                                 | 1:40 PM - October 03, 2024 |
 | [[Literature Overview/Works Cited.md\|Works Cited]]                                                                                       | 1:40 PM - October 03, 2024 |
 | [[Literature Notes/@zhangJATE20Java2016.md\|@zhangJATE20Java2016]]                                                                        | 1:40 PM - October 03, 2024 |
 | [[Literature Notes/@zhangComparativeEvaluationTerm2008.md\|@zhangComparativeEvaluationTerm2008]]                                          | 1:39 PM - October 03, 2024 |
 | [[Literature Notes/@weiTCNattentionHARHumanActivity2024.md\|@weiTCNattentionHARHumanActivity2024]]                                        | 1:39 PM - October 03, 2024 |
 | [[Literature Notes/@vrigkasReviewHumanActivity2015.md\|@vrigkasReviewHumanActivity2015]]                                                  | 1:39 PM - October 03, 2024 |
 | [[Literature Notes/@tsuchidaAISTDanceVideo2019.md\|@tsuchidaAISTDanceVideo2019]]                                                          | 1:39 PM - October 03, 2024 |
-| [[Literature Notes/@sparckjonesStatisticalInterpretationTerm1972.md\|@sparckjonesStatisticalInterpretationTerm1972]]                      | 1:39 PM - October 03, 2024 |
 
 %% DATAVIEW_PUBLISHER: end %%
 
 # Links
+
+I can be found at the following places:
 
 - [University of Oslo employee page](https://www.uio.no/ritmo/english/people/phd-fellows/hughav/index.html)
 - [Google Scholar](https://scholar.google.com/citations?user=1H848AwAAAAJ&hl=en)
