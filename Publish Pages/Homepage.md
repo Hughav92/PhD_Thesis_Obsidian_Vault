@@ -18,8 +18,8 @@ These are the sub-projects that I am currently working on, with the aim that the
 
 - A [[Multimodal Methods Systematic Review|systematic review of analytical methods]] used in various disciplines of music research for the analysis of multimodal datasets
 - An exploration of how different approaches towards the [[Time and Space in Synchronisation and Alignment|temporal synchronisation of time-series signals create a spatial perspective for further analysis methods]]
-- Analysing how well [[Multimodal Learning HAR|transfer learning can be applied to leverage large, pretrained models for Human Activity Recognition]] and how accelerometer and depth image data compare both with and without the support of RGB camera data in order to preserve privacy - this is part of the course [IN9490 – Advanced Topics in Artificial Intelligence for Intelligent Systems](https://www.uio.no/studier/emner/matnat/ifi/IN9490/)
-- 
+- Analysing how well [[Multimodal Learning HAR|transfer learning can be applied to leverage large, pretrained models for Human Activity Recognition]] and how accelerometer and depth image data compare both with and without the support of RGB camera data in order to preserve privacy - this is part for the course [IN9490 – Advanced Topics in Artificial Intelligence for Intelligent Systems](https://www.uio.no/studier/emner/matnat/ifi/IN9490/)
+- A study of the [[MoCap Latency Perception|perception of latency]] in the visualisation of 
 
 # Daily Note
 
