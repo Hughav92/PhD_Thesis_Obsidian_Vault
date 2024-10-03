@@ -1,6 +1,6 @@
 #methods #atr #automatic-terminology-recognition 
 
-[[@astrakhantsevATR4SToolkitStateart2018]] outlines several methods for ATR that they have included in their ATR4S toolbox. They group these into several categories:
+[[@astrakhantsevATR4SToolkitStateart2018]] outlines several methods for [[Automatic Terminology Recognition|ATR]] that they have included in their ATR4S toolbox. They group these into several categories:
 
 # Methods Based on Occurrences Frequencies
 
@@ -37,5 +37,23 @@ These methods are based upon the assumption that the semantic information obtain
 - [[i-SWB]]
 
 # Methods for Term Candidate Ranking
+
+After scoring term candidates through one or several of the methods outlined above, a following step is to rank the extracted candidates. As noted by [[@astrakhantsevATR4SToolkitStateart2018]], when several term candidate recognition methods have been used, term candidate ranking becomes a non-trivial problem. They provide several methods used for ranking.
+
+## Methods Based on Linear Combinations
+
+These methods are based upon linear combinations of term candidates scores (or features).
+
+- [[PostRankDC]]
+- [[GlossEx]]
+
+## Methods Based on Voting Algorithms
+
+- [[Voting Algorithm (Zhang et al., 2008)]]
+
+## Methods Based on Positive Unlabelled Learning
+
+- [[PU-ATR]]
+
 
 

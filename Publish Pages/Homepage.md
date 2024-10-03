@@ -41,18 +41,18 @@ LIMIT 10
 ```
 %%
 
-| File                                                                                                  | Updated                     |
-| ----------------------------------------------------------------------------------------------------- | --------------------------- |
-| [[Methods/Computational Linguistics/Automatic Terminology Recognition (ATR)/Methods/i-SWB.md\|i-SWB]] | 10:44 AM - October 03, 2024 |
-| [[Gibbs Sampler.md\|Gibbs Sampler]]                                                                   | 10:36 AM - October 03, 2024 |
-| [[Publish Pages/Homepage.md\|Homepage]]                                                               | 10:23 AM - October 03, 2024 |
-| [[Daily Notes/2024-10-02.md\|2024-10-02]]                                                             | 10:23 AM - October 03, 2024 |
-| [[Daily Notes/2024-10-03.md\|2024-10-03]]                                                             | 10:23 AM - October 03, 2024 |
-| [[Obsidian Templates/Create Daily Note.md\|Create Daily Note]]                                        | 10:23 AM - October 03, 2024 |
-| [[Data/Paradata.md\|Paradata]]                                                                        | 10:21 AM - October 03, 2024 |
-| [[Daily Notes/Daily Notes.md\|Daily Notes]]                                                           | 9:55 AM - October 03, 2024  |
-| [[Sensors/BioArmband.md\|BioArmband]]                                                                 | 9:43 AM - October 03, 2024  |
-| [[BVH.md\|BVH]]                                                                                       | 5:24 PM - October 02, 2024  |
+| File                                                                                                                                                                          | Updated                     |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
+| [[Literature Notes/@zhangComparativeEvaluationTerm2008.md\|@zhangComparativeEvaluationTerm2008]]                                                                              | 12:32 PM - October 03, 2024 |
+| [[Daily Notes/2024-10-03.md\|2024-10-03]]                                                                                                                                     | 12:31 PM - October 03, 2024 |
+| [[Publish Pages/Homepage.md\|Homepage]]                                                                                                                                       | 12:31 PM - October 03, 2024 |
+| [[Literature Overview/All.md\|All]]                                                                                                                                           | 12:31 PM - October 03, 2024 |
+| [[Methods/Computational Linguistics/Automatic Terminology Recognition (ATR)/Methods/PU-ATR.md\|PU-ATR]]                                                                       | 12:30 PM - October 03, 2024 |
+| [[Methods/Computational Linguistics/Automatic Terminology Recognition (ATR)/Methods/Automatic Terminology Recognition Methods.md\|Automatic Terminology Recognition Methods]] | 12:07 PM - October 03, 2024 |
+| [[Methods/Computational Linguistics/Automatic Terminology Recognition (ATR)/Methods/Voting Algorithm (Zhang et al., 2008).md\|Voting Algorithm (Zhang et al., 2008)]]         | 12:06 PM - October 03, 2024 |
+| [[Methods/Computational Linguistics/Automatic Terminology Recognition (ATR)/Methods/GlossEx.md\|GlossEx]]                                                                     | 11:59 AM - October 03, 2024 |
+| [[Literature Notes/@parkAutomaticGlossaryExtraction2002.md\|@parkAutomaticGlossaryExtraction2002]]                                                                            | 11:59 AM - October 03, 2024 |
+| [[Methods/Computational Linguistics/Automatic Terminology Recognition (ATR)/Methods/PostRankDC.md\|PostRankDC]]                                                               | 11:48 AM - October 03, 2024 |
 
 %% DATAVIEW_PUBLISHER: end %%
 

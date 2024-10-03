@@ -3,7 +3,7 @@
 category:: literaturenote
 tags:: 
 citekey:: astrakhantsevATR4SToolkitStateart2018
-status:: unread
+status:: read
 dateread:
 ---
 
