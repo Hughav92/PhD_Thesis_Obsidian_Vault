@@ -57,16 +57,16 @@ LIMIT 10
 
 | File                                                                                                                                      | Updated                    |
 | ----------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
+| [[Manuscript Writing/Multimodal Methods Systematic Review/Multimodal Methods Systematic Review.md\|Multimodal Methods Systematic Review]] | 4:54 PM - October 03, 2024 |
+| [[Data/Data Modality.md\|Data Modality]]                                                                                                  | 4:35 PM - October 03, 2024 |
+| [[Daily Notes/2024-10-03.md\|2024-10-03]]                                                                                                 | 4:34 PM - October 03, 2024 |
 | [[Publish Pages/Homepage.md\|Homepage]]                                                                                                   | 3:50 PM - October 03, 2024 |
-| [[Daily Notes/2024-10-03.md\|2024-10-03]]                                                                                                 | 3:48 PM - October 03, 2024 |
 | [[Manuscript Writing/IR Light Level Compensation/IR Light Level Compensation.md\|IR Light Level Compensation]]                            | 3:44 PM - October 03, 2024 |
 | [[Methods/Computational Linguistics/Automatic Terminology Recognition (ATR)/Methods/Key Concept Relatedness.md\|Key Concept Relatedness]] | 1:44 PM - October 03, 2024 |
 | [[Literature Overview/Works Cited.md\|Works Cited]]                                                                                       | 1:40 PM - October 03, 2024 |
 | [[Literature Notes/@zhangJATE20Java2016.md\|@zhangJATE20Java2016]]                                                                        | 1:40 PM - October 03, 2024 |
 | [[Literature Notes/@zhangComparativeEvaluationTerm2008.md\|@zhangComparativeEvaluationTerm2008]]                                          | 1:39 PM - October 03, 2024 |
 | [[Literature Notes/@weiTCNattentionHARHumanActivity2024.md\|@weiTCNattentionHARHumanActivity2024]]                                        | 1:39 PM - October 03, 2024 |
-| [[Literature Notes/@vrigkasReviewHumanActivity2015.md\|@vrigkasReviewHumanActivity2015]]                                                  | 1:39 PM - October 03, 2024 |
-| [[Literature Notes/@tsuchidaAISTDanceVideo2019.md\|@tsuchidaAISTDanceVideo2019]]                                                          | 1:39 PM - October 03, 2024 |
 
 %% DATAVIEW_PUBLISHER: end %%
 
