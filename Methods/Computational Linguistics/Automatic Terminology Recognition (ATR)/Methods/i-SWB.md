@@ -39,4 +39,4 @@ i-SWB is a topic model developed by [[@liNovelTopicModel2013]], used as part of 
 
 $$Termhood(c_i) = log(tf_i) \cdot \sum_{1 \leq j \leq L_i, w_j \in \cup \{V_t\}_{t \in T \cup \{B,D\}}} \phi_{w_j}^{mt_{w_j}}$$
 
-for $mt_{w_j} = \underset{t \in T \cup \{B,D\}}{argmax}(\phi_{w_j}^{t})$, where $c_i$ is a term candidate, $tf_i$ is the [[Term Frequency (TF)|frequency]] of $c_i$ within the corpus, $L_i$ is the set of words $\{w_{i1}, w_{i2}, \dots, w_{iL_i}\}$ contained in $c_i$, $V_t$, $V_B$, and $V_D$ 
+for $mt_{w_j} = \underset{t \in T \cup \{B,D\}}{argmax}(\phi_{w_j}^{t})$, where $c_i$ is a term candidate, $tf_i$ is the [[Term Frequency (TF)|frequency]] of $c_i$ within the corpus, $L_i$ is the set of words $\{w_{i1}, w_{i2}, \dots, w_{iL_i}\}$ contained in $c_i$, $V_t$, $V_B$, and $V_D$ are the top $H$ highest distributed words for each topic ([[@liNovelTopicModel2013]] report using the top 200 words) which correspond to the values of $\phi^t$, $\phi^B$, and $\phi^D$ respectively which are obtained through the [[Gibbs Sampler|Gibbs sampling]] of the i-SWB model, and $mt_{w_j}$ is the topic to which $w_j$ is most likely to be assigned.

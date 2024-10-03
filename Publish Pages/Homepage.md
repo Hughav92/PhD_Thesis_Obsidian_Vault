@@ -43,16 +43,16 @@ LIMIT 10
 
 | File                                                                                                  | Updated                     |
 | ----------------------------------------------------------------------------------------------------- | --------------------------- |
+| [[Methods/Computational Linguistics/Automatic Terminology Recognition (ATR)/Methods/i-SWB.md\|i-SWB]] | 10:44 AM - October 03, 2024 |
+| [[Gibbs Sampler.md\|Gibbs Sampler]]                                                                   | 10:36 AM - October 03, 2024 |
+| [[Publish Pages/Homepage.md\|Homepage]]                                                               | 10:23 AM - October 03, 2024 |
 | [[Daily Notes/2024-10-02.md\|2024-10-02]]                                                             | 10:23 AM - October 03, 2024 |
 | [[Daily Notes/2024-10-03.md\|2024-10-03]]                                                             | 10:23 AM - October 03, 2024 |
 | [[Obsidian Templates/Create Daily Note.md\|Create Daily Note]]                                        | 10:23 AM - October 03, 2024 |
-| [[Publish Pages/Homepage.md\|Homepage]]                                                               | 10:22 AM - October 03, 2024 |
 | [[Data/Paradata.md\|Paradata]]                                                                        | 10:21 AM - October 03, 2024 |
 | [[Daily Notes/Daily Notes.md\|Daily Notes]]                                                           | 9:55 AM - October 03, 2024  |
 | [[Sensors/BioArmband.md\|BioArmband]]                                                                 | 9:43 AM - October 03, 2024  |
 | [[BVH.md\|BVH]]                                                                                       | 5:24 PM - October 02, 2024  |
-| [[Methods/Computational Linguistics/Automatic Terminology Recognition (ATR)/Methods/i-SWB.md\|i-SWB]] | 5:21 PM - October 02, 2024  |
-| [[Distributions/Dirichlet Distribution.md\|Dirichlet Distribution]]                                   | 5:15 PM - October 02, 2024  |
 
 %% DATAVIEW_PUBLISHER: end %%
 
