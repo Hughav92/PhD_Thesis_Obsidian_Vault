@@ -12,6 +12,15 @@ I aim to share as much as I can. However, some of the contents of my personal ve
 
 The contents of this site that are my own are released under a [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license. This means that you are free to share and adapt the content here, as long as you properly attribute it, do not use it for any commercial purposes, and share any work you do to build upon it under the same license.
 
+# What I'm Working On
+
+These are the sub-projects that I am currently working on, with the aim that these eventually end up as a scientific paper:
+
+- A [[Multimodal Methods Systematic Review|systematic review of analytical methods]] used in various disciplines of music research for the analysis of multimodal datasets
+- An exploration of how different approaches towards the [[Time and Space in Synchronisation and Alignment|temporal synchronisation of time-series signals create a spatial perspective for further analysis methods]]
+- Analysing how well [[Multimodal Learning HAR|transfer learning can be applied to leverage large, pretrained models for Human Activity Recognition]] and how accelerometer and depth image data compare both with and without the support of RGB camera data in order to preserve privacy - this is part of the course [IN9490 – Advanced Topics in Artificial Intelligence for Intelligent Systems](https://www.uio.no/studier/emner/matnat/ifi/IN9490/)
+- 
+
 # Daily Note
 
 
@@ -41,18 +50,18 @@ LIMIT 10
 ```
 %%
 
-| File                                                                                                                                 | Updated                    |
-| ------------------------------------------------------------------------------------------------------------------------------------ | -------------------------- |
-| [[Publish Pages/Homepage.md\|Homepage]]                                                                                              | 1:19 PM - October 03, 2024 |
-| [[Literature Notes/@astrakhantsevATR4SToolkitStateart2018.md\|@astrakhantsevATR4SToolkitStateart2018]]                               | 1:19 PM - October 03, 2024 |
-| [[Literature Notes/@frantziAutomaticRecognitionMultiword2000.md\|@frantziAutomaticRecognitionMultiword2000]]                         | 1:16 PM - October 03, 2024 |
-| [[Literature Overview/All.md\|All]]                                                                                                  | 1:15 PM - October 03, 2024 |
-| [[Literature Notes/@atreyMultimodalFusionMultimedia2010.md\|@atreyMultimodalFusionMultimedia2010]]                                   | 1:15 PM - October 03, 2024 |
-| [[Literature Notes/@omara-evesTechniquesIdentifyingCrossdisciplinary2013.md\|@omara-evesTechniquesIdentifyingCrossdisciplinary2013]] | 1:14 PM - October 03, 2024 |
-| [[Literature Notes/@vrigkasReviewHumanActivity2015.md\|@vrigkasReviewHumanActivity2015]]                                             | 1:14 PM - October 03, 2024 |
-| [[Literature Notes/@baiEmpiricalEvaluationGeneric2018.md\|@baiEmpiricalEvaluationGeneric2018]]                                       | 1:14 PM - October 03, 2024 |
-| [[Literature Notes/@tsuchidaAISTDanceVideo2019.md\|@tsuchidaAISTDanceVideo2019]]                                                     | 1:13 PM - October 03, 2024 |
-| [[Literature Notes/@weiTCNattentionHARHumanActivity2024.md\|@weiTCNattentionHARHumanActivity2024]]                                   | 1:13 PM - October 03, 2024 |
+| File                                                                                                                                      | Updated                    |
+| ----------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
+| [[Methods/Computational Linguistics/Automatic Terminology Recognition (ATR)/Methods/Key Concept Relatedness.md\|Key Concept Relatedness]] | 1:44 PM - October 03, 2024 |
+| [[Publish Pages/Homepage.md\|Homepage]]                                                                                                   | 1:43 PM - October 03, 2024 |
+| [[Daily Notes/2024-10-03.md\|2024-10-03]]                                                                                                 | 1:40 PM - October 03, 2024 |
+| [[Literature Overview/Works Cited.md\|Works Cited]]                                                                                       | 1:40 PM - October 03, 2024 |
+| [[Literature Notes/@zhangJATE20Java2016.md\|@zhangJATE20Java2016]]                                                                        | 1:40 PM - October 03, 2024 |
+| [[Literature Notes/@zhangComparativeEvaluationTerm2008.md\|@zhangComparativeEvaluationTerm2008]]                                          | 1:39 PM - October 03, 2024 |
+| [[Literature Notes/@weiTCNattentionHARHumanActivity2024.md\|@weiTCNattentionHARHumanActivity2024]]                                        | 1:39 PM - October 03, 2024 |
+| [[Literature Notes/@vrigkasReviewHumanActivity2015.md\|@vrigkasReviewHumanActivity2015]]                                                  | 1:39 PM - October 03, 2024 |
+| [[Literature Notes/@tsuchidaAISTDanceVideo2019.md\|@tsuchidaAISTDanceVideo2019]]                                                          | 1:39 PM - October 03, 2024 |
+| [[Literature Notes/@sparckjonesStatisticalInterpretationTerm1972.md\|@sparckjonesStatisticalInterpretationTerm1972]]                      | 1:39 PM - October 03, 2024 |
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -61,6 +70,10 @@ LIMIT 10
 - [University of Oslo employee page](https://www.uio.no/ritmo/english/people/phd-fellows/hughav/index.html)
 - [Google Scholar](https://scholar.google.com/citations?user=1H848AwAAAAJ&hl=en)
 - [Github](https://github.com/Hughav92)
+
+# Works Cited
+
+The works cited in this site can be found on [[Works Cited|this page]].
 
 # Attributions
 
