@@ -55,18 +55,18 @@ LIMIT 10
 ```
 %%
 
-| File                                                                                                         | Updated                     |
-| ------------------------------------------------------------------------------------------------------------ | --------------------------- |
-| [[Daily Notes/2024-10-02.md\|2024-10-02]]                                                                    | 3:36 PM - October 04, 2024  |
-| [[Daily Notes/2024-10-04.md\|2024-10-04]]                                                                    | 3:36 PM - October 04, 2024  |
-| [[Literature Notes/@christodoulouMultimodalMusicDatasets2024.md\|@christodoulouMultimodalMusicDatasets2024]] | 12:18 PM - October 04, 2024 |
-| [[Publish Pages/Homepage.md\|Homepage]]                                                                      | 12:13 PM - October 04, 2024 |
-| [[Daily Notes/Daily Notes.md\|Daily Notes]]                                                                  | 12:13 PM - October 04, 2024 |
-| [[Daily Notes/2024-10-03.md\|2024-10-03]]                                                                    | 10:55 AM - October 04, 2024 |
-| [[Literature Overview/Works Cited.md\|Works Cited]]                                                          | 10:55 AM - October 04, 2024 |
-| [[Literature Overview/All.md\|All]]                                                                          | 10:55 AM - October 04, 2024 |
-| [[Publication Venues/SysMus.md\|SysMus]]                                                                     | 10:51 AM - October 04, 2024 |
-| [[Publication Venues/Publication Venues.md\|Publication Venues]]                                             | 10:51 AM - October 04, 2024 |
+| File                                                                                                                                                                | Updated                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
+| [[Manuscript Writing/Multimodal Methods Systematic Review/Methods/Method - Multimodal Methods Systematic Review.md\|Method - Multimodal Methods Systematic Review]] | 4:24 PM - October 04, 2024  |
+| [[Encoding.md\|Encoding]]                                                                                                                                           | 4:24 PM - October 04, 2024  |
+| [[RIS.md\|RIS]]                                                                                                                                                     | 4:23 PM - October 04, 2024  |
+| [[XML.md\|XML]]                                                                                                                                                     | 4:22 PM - October 04, 2024  |
+| [[Daily Notes/2024-10-04.md\|2024-10-04]]                                                                                                                           | 4:09 PM - October 04, 2024  |
+| [[Publish Pages/Homepage.md\|Homepage]]                                                                                                                             | 3:36 PM - October 04, 2024  |
+| [[Daily Notes/2024-10-02.md\|2024-10-02]]                                                                                                                           | 3:36 PM - October 04, 2024  |
+| [[Literature Notes/@christodoulouMultimodalMusicDatasets2024.md\|@christodoulouMultimodalMusicDatasets2024]]                                                        | 12:18 PM - October 04, 2024 |
+| [[Daily Notes/Daily Notes.md\|Daily Notes]]                                                                                                                         | 12:13 PM - October 04, 2024 |
+| [[Daily Notes/2024-10-03.md\|2024-10-03]]                                                                                                                           | 10:55 AM - October 04, 2024 |
 
 %% DATAVIEW_PUBLISHER: end %%
 
