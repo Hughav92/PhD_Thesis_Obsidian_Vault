@@ -38,8 +38,7 @@ dateread:
 
 > [!Abstract]
 >
-> Abstract
-            The term “multimodal music dataset” is often used to describe music-related datasets that represent music as a multimedia art form and multimodal experience. However, the term “multimodality” is often used differently in disciplines such as musicology, music psychology, and music technology. This paper proposes a definition of multimodality that works across different music disciplines. Many challenges are related to constructing, evaluating, and using multimodal music datasets. We provide a task-based categorization of multimodal datasets and suggest guidelines for their development. Diverse data pre-processing methods are illuminated, highlighting their contributions to transparent and reproducible music analysis. Additionally, evaluation metrics, methods, and benchmarks tailored for multimodal music processing tasks are scrutinized, empowering researchers to make informed decisions and facilitating cross-study comparisons.
+The term “multimodal music dataset” is often used to describe music-related datasets that represent music as a multimedia art form and multimodal experience. However, the term “multimodality” is often used differently in disciplines such as musicology, music psychology, and music technology. This paper proposes a definition of multimodality that works across different music disciplines. Many challenges are related to constructing, evaluating, and using multimodal music datasets. We provide a task-based categorization of multimodal datasets and suggest guidelines for their development. Diverse data pre-processing methods are illuminated, highlighting their contributions to transparent and reproducible music analysis. Additionally, evaluation metrics, methods, and benchmarks tailored for multimodal music processing tasks are scrutinized, empowering researchers to make informed decisions and facilitating cross-study comparisons.
 >.
 > 
 # Notes

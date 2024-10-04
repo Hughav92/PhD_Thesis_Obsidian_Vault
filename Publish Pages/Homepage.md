@@ -57,8 +57,8 @@ LIMIT 10
 
 | File                                                                                                                               | Updated                     |
 | ---------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
-| [[Publish Pages/Homepage.md\|Homepage]]                                                                                            | 10:56 AM - October 04, 2024 |
-| [[Daily Notes/Daily Notes.md\|Daily Notes]]                                                                                        | 10:56 AM - October 04, 2024 |
+| [[Daily Notes/Daily Notes.md\|Daily Notes]]                                                                                        | 12:13 PM - October 04, 2024 |
+| [[Publish Pages/Homepage.md\|Homepage]]                                                                                            | 12:12 PM - October 04, 2024 |
 | [[Daily Notes/2024-10-04.md\|2024-10-04]]                                                                                          | 10:55 AM - October 04, 2024 |
 | [[Daily Notes/2024-10-03.md\|2024-10-03]]                                                                                          | 10:55 AM - October 04, 2024 |
 | [[Literature Overview/Works Cited.md\|Works Cited]]                                                                                | 10:55 AM - October 04, 2024 |
