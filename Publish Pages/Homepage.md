@@ -39,7 +39,7 @@ WHERE file.cday = date(today) AND file.name != "Daily Notes"
 
 | File                                      | Date             |
 | ----------------------------------------- | ---------------- |
-| [[Daily Notes/2024-10-03.md\|2024-10-03]] | October 03, 2024 |
+| [[Daily Notes/2024-10-04.md\|2024-10-04]] | October 04, 2024 |
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -55,18 +55,18 @@ LIMIT 10
 ```
 %%
 
-| File                                                                                                                                                                                                     | Updated                    |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
-| [[Daily Notes/Daily Notes.md\|Daily Notes]]                                                                                                                                                              | 6:17 PM - October 03, 2024 |
-| [[Publish Pages/Homepage.md\|Homepage]]                                                                                                                                                                  | 6:14 PM - October 03, 2024 |
-| [[Daily Notes/2024-10-03.md\|2024-10-03]]                                                                                                                                                                | 6:13 PM - October 03, 2024 |
-| [[Daily Notes/2024-10-02.md\|2024-10-02]]                                                                                                                                                                | 6:13 PM - October 03, 2024 |
-| [[Publication Venues/ISMIR.md\|ISMIR]]                                                                                                                                                                   | 6:02 PM - October 03, 2024 |
-| [[Publication Venues/TISMIR.md\|TISMIR]]                                                                                                                                                                 | 6:02 PM - October 03, 2024 |
-| [[Manuscript Writing/Multimodal Methods Systematic Review/Methods/Method - Multimodal Methods Systematic Review.md\|Method - Multimodal Methods Systematic Review]]                                      | 6:02 PM - October 03, 2024 |
-| [[Manuscript Writing/Multimodal Methods Systematic Review/Multimodal Methods Systematic Review.md\|Multimodal Methods Systematic Review]]                                                                | 5:48 PM - October 03, 2024 |
-| [[Manuscript Writing/Multimodal Methods Systematic Review/Data/Literature Review Overview - Multimodal Methods Systematic Review.md\|Literature Review Overview - Multimodal Methods Systematic Review]] | 5:47 PM - October 03, 2024 |
-| [[Meetings with Supervisors/Alexander/Meeting with Alexander 2024.09.13.md\|Meeting with Alexander 2024.09.13]]                                                                                          | 5:42 PM - October 03, 2024 |
+| File                                                                                                                               | Updated                     |
+| ---------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
+| [[Publish Pages/Homepage.md\|Homepage]]                                                                                            | 10:56 AM - October 04, 2024 |
+| [[Daily Notes/Daily Notes.md\|Daily Notes]]                                                                                        | 10:56 AM - October 04, 2024 |
+| [[Daily Notes/2024-10-04.md\|2024-10-04]]                                                                                          | 10:55 AM - October 04, 2024 |
+| [[Daily Notes/2024-10-03.md\|2024-10-03]]                                                                                          | 10:55 AM - October 04, 2024 |
+| [[Literature Overview/Works Cited.md\|Works Cited]]                                                                                | 10:55 AM - October 04, 2024 |
+| [[Literature Overview/All.md\|All]]                                                                                                | 10:55 AM - October 04, 2024 |
+| [[Publication Venues/SysMus.md\|SysMus]]                                                                                           | 10:51 AM - October 04, 2024 |
+| [[Publication Venues/Publication Venues.md\|Publication Venues]]                                                                   | 10:51 AM - October 04, 2024 |
+| [[Datasets/PriMA-Care.md\|PriMA-Care]]                                                                                             | 10:48 AM - October 04, 2024 |
+| [[Literature Notes/@baselizadehPriMACarePrivacyPreservingMultimodal2024.md\|@baselizadehPriMACarePrivacyPreservingMultimodal2024]] | 10:47 AM - October 04, 2024 |
 
 %% DATAVIEW_PUBLISHER: end %%
 
