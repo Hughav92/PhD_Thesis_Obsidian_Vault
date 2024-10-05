@@ -37,9 +37,8 @@ WHERE file.cday = date(today) AND file.name != "Daily Notes"
 ```
 %%
 
-| File                                      | Date             |
-| ----------------------------------------- | ---------------- |
-| [[Daily Notes/2024-10-04.md\|2024-10-04]] | October 04, 2024 |
+| File | Date |
+| ---- | ---- |
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -57,8 +56,8 @@ LIMIT 10
 
 | File                                                                                                                                                                | Updated                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
+| [[Publish Pages/Homepage.md\|Homepage]]                                                                                                                             | 6:11 PM - October 04, 2024  |
 | [[Daily Notes/2024-10-04.md\|2024-10-04]]                                                                                                                           | 6:11 PM - October 04, 2024  |
-| [[Publish Pages/Homepage.md\|Homepage]]                                                                                                                             | 6:10 PM - October 04, 2024  |
 | [[Manuscript Writing/Multimodal Methods Systematic Review/Methods/Method - Multimodal Methods Systematic Review.md\|Method - Multimodal Methods Systematic Review]] | 5:50 PM - October 04, 2024  |
 | [[CSV.md\|CSV]]                                                                                                                                                     | 5:37 PM - October 04, 2024  |
 | [[Encoding.md\|Encoding]]                                                                                                                                           | 4:24 PM - October 04, 2024  |
