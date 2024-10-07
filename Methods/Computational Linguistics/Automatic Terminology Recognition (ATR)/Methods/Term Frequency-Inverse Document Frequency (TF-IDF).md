@@ -1,4 +1,4 @@
-#automatic-terminology-recognition #atr #tf-idf #tf #idf 
+#concept #automatic-terminology-recognition #atr #tf-idf #tf #idf 
 
 In [[Automatic Terminology Recognition|ATR]], Term Frequency-Inverse Document Frequency (TF-IDF) is a combination of [[Term Frequency (TF)|term frequency]] and [[Inverse Document Frequency (IDF)|inverse document frequency]]. As reported by [[@astrakhantsevATR4SToolkitStateart2018]], in reference to [[@evansCLARITTRECExperiments1995]], the method can be formulated as
 

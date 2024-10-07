@@ -1,1 +1,3 @@
+#concept 
+
 PU-ATR is an [[Automatic Terminology Recognition|ATR]] method for ranking term candidates that have been extracted using multiple prior [[Automatic Terminology Recognition Methods|term extraction methods]]. This method is based upon using a single term extraction method as a seed method and then using positive unlabelled learning to obtain the term candidate rankings. [[@astrakhantsevATR4SToolkitStateart2018]] asserts that the [[Combo Basic Score]] performs well as a seed method.

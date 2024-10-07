@@ -1,4 +1,4 @@
-#machine-learning #architecture
+#concept #machine-learning #architecture
 
 - [[Recurrent Neural Network]]
 - [[Convolutional Neural Network]]

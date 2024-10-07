@@ -1,4 +1,4 @@
-#atr #automatic-terminology-recognition #domain-coherence
+#concept #atr #automatic-terminology-recognition #domain-coherence
 
 Domain Coherence is an [[Automatic Terminology Recognition|ATR]] method which is based upon the occurrences contexts of term candidates to score terms. Defined by [[@bordeaDomainindependentTermExtraction2013]], the method is based upon the the following assumptions in order to construct a domain model from a corpus of domain texts:
 

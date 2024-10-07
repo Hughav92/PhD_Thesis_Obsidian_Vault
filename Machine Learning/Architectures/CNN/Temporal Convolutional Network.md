@@ -1,3 +1,5 @@
+#concept 
+
 # Overview
 
 The temporal convolutional network is an architecture (primarily, although with forerunners) introduced by [[@baiEmpiricalEvaluationGeneric2018]] as an alternative to the wider family of [[Recurrent Neural Network|RNN]] architectures to model sequential data, instead being based on the [[Convolutional Neural Network|CNN]]. #temporal-convolutional-network #TCN #RNN #CNN

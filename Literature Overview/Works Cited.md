@@ -1,3 +1,5 @@
+#literature-note #literature #literature-overview #works-cited
+
 This note contains the full references for all literature cited in the site.
 
 

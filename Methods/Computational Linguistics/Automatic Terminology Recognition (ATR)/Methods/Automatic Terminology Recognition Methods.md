@@ -1,4 +1,4 @@
-#methods #atr #automatic-terminology-recognition 
+#concept #methods #atr #automatic-terminology-recognition 
 
 [[@astrakhantsevATR4SToolkitStateart2018]] outlines several methods for [[Automatic Terminology Recognition|ATR]] that they have included in their ATR4S toolbox. They group these into several categories:
 

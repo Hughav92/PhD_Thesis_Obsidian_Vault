@@ -1,3 +1,4 @@
+#literature-note 
 
 ---
 category:: literaturenote

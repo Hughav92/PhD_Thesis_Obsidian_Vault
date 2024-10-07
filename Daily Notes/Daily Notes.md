@@ -1,3 +1,4 @@
+#procedural 
 
 These are the notes that I use to track my goals and tasks each day, and which I use to reflect upon the work that I have done each day.
 
@@ -13,10 +14,10 @@ FROM "Daily Notes"
 %% DATAVIEW_PUBLISHER: start
 ```dataview
 TABLE
-file.cday as "Day"
+date(file.name) as "Day"
 FROM "Daily Notes"
 WHERE file.name != "Daily Notes"
-SORT file.ctime DESC
+SORT date(file.name) DESC
 ```
 %%
 

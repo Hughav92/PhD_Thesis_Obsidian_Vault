@@ -1,4 +1,4 @@
-#atr #automatic-terminology-recognition #topic-modelling #i-SWB
+#concept #atr #automatic-terminology-recognition #topic-modelling #i-SWB
 
 i-SWB is a [[Topic Modelling|topic model]] and [[Automatic Terminology Recognition|ATR]] method based upon [[Topic Modelling|topic modelling]] introduced by [[@liNovelTopicModel2013]]. 
 

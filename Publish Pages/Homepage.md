@@ -25,6 +25,23 @@ In addition, I am working on:
 
 - Developing a system to [[IR Light Level Compensation|compensate for varying levels of stage lighting]] in infra-red video recordings of audiences in live concert research, in order to streamline motion analysis
 
+# Where to Start
+
+As this site represents a work in progress, consisting of many different types of writing (and eventually a non-linear presentation of my final thesis), there is no clear starting point for reading this site. In addition, there are and will be quite a number of pages without any writing at any given point, as my method for working in this way is to create an empty page for any concept, idea, or personal reflection that I will return to. Pages are also sorted into categories (the folders in the sidebar on the right) when I feel that the way that I am writing about the topic aligns with a category, so this is also a continually updating process. Therefore I would suggest the following ways of exploring this site:
+
+- Starting with the [[Homepage#What I'm Working On|What I'm Working On]] section to follow the progress on current sub-projects and papers.
+- Reading the [[Daily Notes]] to see what I am working on on any given day.
+- Looking at the [[Homepage#Latest Updated Pages|Latest Updated Pages]] to see which pages I have been writing recently.
+- Searching for the following tags:
+	- #concept - These pages and sections consist of the presentation of a concept from the literature without any reflection, synthesis or opinion. Think of these as "Wikipedia" style pages.
+	- #procedural - These pages are related to the process of carrying out the project. These include the daily notes, reflections on conferences and workshops, and reflections on the structure of the thesis, for example.
+	- #reflection - These pages are where I engage with the literature. I reflect on ideas and attempt to synthesise and contrast them, and give my thoughts on them.
+	- #my-work - These pages consist of the presentation of my work. This includes work in progress writing, brainstorming sessions, paper drafts, code snippets, and preliminary results, among others.
+	- #finished-work - These pages are the final submitted forms of my work. This includes, for example, published papers or thesis chapters.
+	- #literature-note - These pages contain metadata on and summaries of literature that I have read, as well as tabular summaries of relevant literature.
+- Picking a page that looks interesting from the sidebar to the left.
+- Exploring the graph view, which shows the links between individual pages, from the sidebar to the right. For each page there is a small graph view showing all the pages which are linked to the current page. However, if you click on the icon "Global Graph", this will show the links between all pages on this site. I'm currently working on colour-coding these nodes according to category.
+
 # Daily Note
 
 Daily notes are where I document my goals and tasks for the day, log what I worked on and any literature that I have read, and reflect upon the ongoing status of the project.
@@ -37,8 +54,11 @@ WHERE file.cday = date(today) AND file.name != "Daily Notes"
 ```
 %%
 
-| File | Date |
-| ---- | ---- |
+| File                                      | Date             |
+| ----------------------------------------- | ---------------- |
+| [[Daily Notes/2024-10-07.md\|2024-10-07]] | October 07, 2024 |
+| [[Daily Notes/2024-10-05.md\|2024-10-05]] | October 07, 2024 |
+| [[Daily Notes/2024-10-06.md\|2024-10-06]] | October 07, 2024 |
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -54,18 +74,18 @@ LIMIT 10
 ```
 %%
 
-| File                                                                                                                                                                | Updated                     |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
-| [[Publish Pages/Homepage.md\|Homepage]]                                                                                                                             | 6:11 PM - October 04, 2024  |
-| [[Daily Notes/2024-10-04.md\|2024-10-04]]                                                                                                                           | 6:11 PM - October 04, 2024  |
-| [[Manuscript Writing/Multimodal Methods Systematic Review/Methods/Method - Multimodal Methods Systematic Review.md\|Method - Multimodal Methods Systematic Review]] | 5:50 PM - October 04, 2024  |
-| [[CSV.md\|CSV]]                                                                                                                                                     | 5:37 PM - October 04, 2024  |
-| [[Encoding.md\|Encoding]]                                                                                                                                           | 4:24 PM - October 04, 2024  |
-| [[RIS.md\|RIS]]                                                                                                                                                     | 4:23 PM - October 04, 2024  |
-| [[XML.md\|XML]]                                                                                                                                                     | 4:22 PM - October 04, 2024  |
-| [[Daily Notes/2024-10-02.md\|2024-10-02]]                                                                                                                           | 3:36 PM - October 04, 2024  |
-| [[Literature Notes/@christodoulouMultimodalMusicDatasets2024.md\|@christodoulouMultimodalMusicDatasets2024]]                                                        | 12:18 PM - October 04, 2024 |
-| [[Daily Notes/Daily Notes.md\|Daily Notes]]                                                                                                                         | 12:13 PM - October 04, 2024 |
+| File                                                      | Updated                     |
+| --------------------------------------------------------- | --------------------------- |
+| [[Publish Pages/Homepage.md\|Homepage]]                   | 11:33 AM - October 07, 2024 |
+| [[Daily Notes/Daily Notes.md\|Daily Notes]]               | 11:33 AM - October 07, 2024 |
+| [[XML.md\|XML]]                                           | 11:29 AM - October 07, 2024 |
+| [[Visualisation.md\|Visualisation]]                       | 11:29 AM - October 07, 2024 |
+| [[Timeline.md\|Timeline]]                                 | 11:29 AM - October 07, 2024 |
+| [[Tensor.md\|Tensor]]                                     | 11:29 AM - October 07, 2024 |
+| [[Telematic Performance.md\|Telematic Performance]]       | 11:28 AM - October 07, 2024 |
+| [[Statistical Significance.md\|Statistical Significance]] | 11:28 AM - October 07, 2024 |
+| [[Spectrogram.md\|Spectrogram]]                           | 11:28 AM - October 07, 2024 |
+| [[Sonification.md\|Sonification]]                         | 11:28 AM - October 07, 2024 |
 
 %% DATAVIEW_PUBLISHER: end %%
 

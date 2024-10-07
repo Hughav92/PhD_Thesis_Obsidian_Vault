@@ -1,3 +1,5 @@
+#concept 
+
 The following is an overview of strategies, frameworks and methods for [[Data Fusion]].
 
 ![[Pasted image 20240821173038.png]]

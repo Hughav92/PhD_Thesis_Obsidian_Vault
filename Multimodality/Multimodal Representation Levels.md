@@ -1,3 +1,5 @@
+#concept #reflection 
+
 [[@christodoulouMultimodalMusicDatasets2024]] provide the following schematic of the relationship between [[Physical Quantity|physical signals]], their [[Digital Signal|digital representations]], and their [[Perceptual Modality|cognitive perception]]: 
 
 ![[Pasted image 20240904104625.png]]

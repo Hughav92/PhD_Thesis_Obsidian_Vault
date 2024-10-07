@@ -1,4 +1,4 @@
-#combo-basic #atr #automatic-terminology-recognition #basic #c-value 
+#concept #combo-basic #atr #automatic-terminology-recognition #basic #c-value 
 
 In [[Automatic Terminology Recognition|ATR]], Combo Basic is a method which builds upon the [[Basic Score]]. Similarly to the [[Basic Score]], the method promotes term candidates including term candidates which are substrings of other term candidates. However, Combo Basic includes an extra parameter which enables the customisation of the level of term specificity.
 

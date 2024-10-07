@@ -1,4 +1,4 @@
-#literature #literature-overview
+#literature #literature-overview #literature-note 
 
 This page provides and overview of all literature reviewed over the course of the project. My summary is provided in the column *Contribution*.
 

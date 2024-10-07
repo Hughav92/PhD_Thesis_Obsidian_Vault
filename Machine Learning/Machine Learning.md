@@ -1,4 +1,4 @@
-#machine-learning 
+#concept #machine-learning 
 
 - [[Model Architectures]]
 - [[Multimodal Machine Learning]]

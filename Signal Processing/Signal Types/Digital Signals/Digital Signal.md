@@ -1,3 +1,5 @@
+#concept 
+
 A digital signal is a discrete representation of a [[Physical Quantity|physical quantity]].
 
 Digital signals include #digital-signal 

@@ -1,4 +1,4 @@
-#residual-inverse-document-frequency #ridf #atr #automatic-terminology-recognition 
+#concept #residual-inverse-document-frequency #ridf #atr #automatic-terminology-recognition 
 
 In [[Automatic Terminology Recognition|ATR]], Residual Inverse Document Frequency is a method proposed by [[@churchInverseDocumentFrequency1999]], as reported by [[@astrakhantsevATR4SToolkitStateart2018]]. Similarly to [[Term Frequency-Inverse Document Frequency (TF-IDF)|TF-IDF]], it is a combination of [[Term Frequency (TF)|term frequency]] and [[Inverse Document Frequency (IDF)|inverse document frequency]]. According to [[@astrakhantsevATR4SToolkitStateart2018]](p. 858), it is builds upon the assumption that the deviation of the corpus [[Inverse Document Frequency (IDF)|IDF]] from the [[Inverse Document Frequency (IDF)|IDF]] modelled by a [[Poisson Distribution|Poisson distribution]] is higher for keywords than for ordinary words.
 

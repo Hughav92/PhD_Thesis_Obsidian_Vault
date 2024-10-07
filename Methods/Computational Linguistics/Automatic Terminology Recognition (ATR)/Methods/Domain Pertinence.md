@@ -1,4 +1,4 @@
-#atr #automatic-terminology-recognition #domain-pertinence
+#concept #atr #automatic-terminology-recognition #domain-pertinence
 
 Domain Pertinence is an [[Automatic Terminology Recognition|ATR]] method which can be used to "acquire term that a representative for a certain domain corpus, and not for other contrastive corpora" [[@meijerSemanticApproachExtracting2014]] (p.82). [[@meijerSemanticApproachExtracting2014]] define the method as follows:
 

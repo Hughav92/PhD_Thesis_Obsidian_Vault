@@ -1,4 +1,4 @@
-#atr #automatic-terminology-recognition #c-value #contextual-value
+#concept #atr #automatic-terminology-recognition #c-value #contextual-value
 
 The contextual value (C-Value) is an [[Automatic Terminology Recognition|ATR]] method which promotes term candidates that appear frequently within a corpus but which do not appear as part of other term candidates within the corpus [[@astrakhantsevATR4SToolkitStateart2018]]. The method was developed by [[@frantziAutomaticRecognitionMultiword2000]], who describe it as a "measure of termhood" (p. 118), in other words as a key piece of terminology from the domain of the corpus.  [[@frantziAutomaticRecognitionMultiword2000]] define the C-Value as
 

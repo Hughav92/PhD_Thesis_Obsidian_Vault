@@ -1,3 +1,5 @@
+#concept 
+
 An analog signal is a continuous electrical representation of a [[Physical Quantity|physical quantity]].
 
 Analog signals include: #analog-signal 

@@ -1,4 +1,4 @@
-#atr #automatic-terminology-recognition #basic #c-value 
+#concept #atr #automatic-terminology-recognition #basic #c-value 
 
 In [[Automatic Terminology Recognition|ATR]], Basic is a method which builds upon the [[Contextual Value (C-Value)|C-Value]] method. Similarly to the [[Contextual Value (C-Value)|C-Value]], Basic promotes term candidates that appear frequently within a corpus. However, in contrast to the [[Contextual Value (C-Value)|C-Value]], Basic promotes candidate terms that are also substrings of other candidate terms.
 

@@ -1,4 +1,4 @@
-#automatic-terminology-recognition #atr
+#concept #automatic-terminology-recognition #atr
 
 The field of Automatic Terminology Recognition (ATR) "aims at extraction of terms—words and collocations designating domain-specific concepts—from a collection of text documents belonging to that domain" [[@astrakhantsevATR4SToolkitStateart2018]](854).
 

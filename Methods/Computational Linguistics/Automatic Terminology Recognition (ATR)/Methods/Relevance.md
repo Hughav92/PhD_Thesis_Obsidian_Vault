@@ -1,4 +1,4 @@
-#atr #automatic-terminology-recognition #relevance #weirdness #domain-pertinence 
+#concept #atr #automatic-terminology-recognition #relevance #weirdness #domain-pertinence 
 
 Relevance is an [[Automatic Terminology Recognition|ATR]] method which can be used to extract terms from a domain corpus based upon the statistical properties of term candidates in the domain corpus evaluated against their properties in a reference corpus, usually a general corpus. This method serves as an extension of [[Domain Pertinence]] and [[Weirdness]], which takes into account the number of documents in which the term candidate appears in addition to the size of the corpus.
 
