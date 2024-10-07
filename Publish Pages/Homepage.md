@@ -6,11 +6,11 @@ I'm Hugh and this is the open-source site for my PhD thesis. My project is preli
 
 This site encompasses everything that I am writing as part of the project, from the formal writing of the PhD thesis and article manuscripts to informal memos, notes, reflections, as well as literature overviews and databases, with the goal that this function as a knowledge base that I accumulate over the course of the project. In fact, it is a published version of the [Obsidian vault](https://obsidian.md/) that I am using as my main writing tool and is primarily a collection of Markdown pages, with the Markdown source available on [my Github](https://github.com/Hughav92/PhD_Thesis_Obsidian_Vault). As a result this site represents a continuously evolving work-in-progress, and will be updated daily over the project period.
 
-The publishing of the process of writing a PhD thesis is intended to be part of the [Open Science](https://www.openscience.no/en/what-open-science) encouraged by the University of Oslo. Although we make our results open through the open publishing of all research results through the University of Oslo's [DUO](https://www.duo.uio.no/) repository and the release of data, analysis source code, and methodologies, the process of conducting research can still remain a bit of a black box. With this site, I hope to open the process of writing a PhD, at least to a small extent.
+The publishing of the process of writing a PhD thesis is intended to be part of the [Open Science](https://www.openscience.no/en/what-open-science) encouraged by the University of Oslo. Although we make our methods and results open through the open publishing of all research results through the University of Oslo's [DUO](https://www.duo.uio.no/) repository and the release of data, analysis source code, and methodologies through various channels, the process of conducting research can still remain a bit of a black box. With this site, I hope to open the process of writing a PhD, at least to a small extent.
 
 I aim to share as much as I can. However, some of the contents of my personal version of this vault contain copyrighted or sensitive material, which may account for several dead links in this site. Moreover, any mistakes and errors are my own and I welcome all corrections and general feedback at hughav "at" uio.no.
 
-The contents of this site that are my own are released under a [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license. This means that you are free to share and adapt the content here, as long as you properly attribute it, do not use it for any commercial purposes, and share any work you do to build upon it under the same license.
+The contents of this site that are my own are released under a [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license. This means that you are free to share and adapt the content here in any way you like, as long as you properly attribute it, do not use it for any commercial purposes, and share any work you do to build upon it under the same license.
 
 # What I'm Working On
 
@@ -40,7 +40,7 @@ As this site represents a work in progress, consisting of many different types o
 	- #finished-work - These pages are the final submitted forms of my work. This includes, for example, published papers or thesis chapters.
 	- #literature-note - These pages contain metadata on and summaries of literature that I have read, as well as tabular summaries of relevant literature.
 - Picking a page that looks interesting from the sidebar to the left.
-- Exploring the graph view, which shows the links between individual pages, from the sidebar to the right. For each page there is a small graph view showing all the pages which are linked to the current page. However, if you click on the icon "Global Graph", this will show the links between all pages on this site. I'm currently working on colour-coding these nodes according to category.
+- Exploring the graph view in the sidebar to the right, which shows the links between individual pages. For each page there is a small graph view showing all the pages which are linked to the current page. However, if you click on the icon "Global Graph", this will show the links between all pages on this site. I'm currently working on colour-coding these nodes according to category.
 
 # Daily Note
 
@@ -48,17 +48,15 @@ Daily notes are where I document my goals and tasks for the day, log what I work
 
 %% DATAVIEW_PUBLISHER: start
 ```dataview
-TABLE file.cday as "Date"
+TABLE date(file.name) as "Date"
 FROM "Daily Notes"
-WHERE file.cday = date(today) AND file.name != "Daily Notes"
+WHERE date(file.name) = date(today) AND file.name != "Daily Notes"
 ```
 %%
 
 | File                                      | Date             |
 | ----------------------------------------- | ---------------- |
 | [[Daily Notes/2024-10-07.md\|2024-10-07]] | October 07, 2024 |
-| [[Daily Notes/2024-10-05.md\|2024-10-05]] | October 07, 2024 |
-| [[Daily Notes/2024-10-06.md\|2024-10-06]] | October 07, 2024 |
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -74,18 +72,18 @@ LIMIT 10
 ```
 %%
 
-| File                                                      | Updated                     |
-| --------------------------------------------------------- | --------------------------- |
-| [[Publish Pages/Homepage.md\|Homepage]]                   | 11:33 AM - October 07, 2024 |
-| [[Daily Notes/Daily Notes.md\|Daily Notes]]               | 11:33 AM - October 07, 2024 |
-| [[XML.md\|XML]]                                           | 11:29 AM - October 07, 2024 |
-| [[Visualisation.md\|Visualisation]]                       | 11:29 AM - October 07, 2024 |
-| [[Timeline.md\|Timeline]]                                 | 11:29 AM - October 07, 2024 |
-| [[Tensor.md\|Tensor]]                                     | 11:29 AM - October 07, 2024 |
-| [[Telematic Performance.md\|Telematic Performance]]       | 11:28 AM - October 07, 2024 |
-| [[Statistical Significance.md\|Statistical Significance]] | 11:28 AM - October 07, 2024 |
-| [[Spectrogram.md\|Spectrogram]]                           | 11:28 AM - October 07, 2024 |
-| [[Sonification.md\|Sonification]]                         | 11:28 AM - October 07, 2024 |
+| File                                                                                                            | Updated                     |
+| --------------------------------------------------------------------------------------------------------------- | --------------------------- |
+| [[Daily Notes/2024-10-07.md\|2024-10-07]]                                                                       | 12:16 PM - October 07, 2024 |
+| [[Publish Pages/Homepage.md\|Homepage]]                                                                         | 12:15 PM - October 07, 2024 |
+| [[Meetings with Supervisors/Alexander/Meeting with Alexander 2024.10.16.md\|Meeting with Alexander 2024.10.16]] | 12:08 PM - October 07, 2024 |
+| [[Daily Notes/2024-10-02.md\|2024-10-02]]                                                                       | 11:49 AM - October 07, 2024 |
+| [[Daily Notes/2024-10-03.md\|2024-10-03]]                                                                       | 11:49 AM - October 07, 2024 |
+| [[Daily Notes/2024-10-04.md\|2024-10-04]]                                                                       | 11:49 AM - October 07, 2024 |
+| [[Daily Notes/2024-10-05.md\|2024-10-05]]                                                                       | 11:49 AM - October 07, 2024 |
+| [[Daily Notes/2024-10-06.md\|2024-10-06]]                                                                       | 11:49 AM - October 07, 2024 |
+| [[Obsidian Templates/Create Daily Note.md\|Create Daily Note]]                                                  | 11:48 AM - October 07, 2024 |
+| [[Daily Notes/Daily Notes.md\|Daily Notes]]                                                                     | 11:41 AM - October 07, 2024 |
 
 %% DATAVIEW_PUBLISHER: end %%
 

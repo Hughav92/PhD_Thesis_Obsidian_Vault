@@ -26,7 +26,7 @@
 %% DATAVIEW_PUBLISHER: start
 ```dataview
 TABLE file.cday AS "Created"
-WHERE file.cday = this.file.day
+WHERE file.cday = date(this.file.name)
 ```
 %%
 
@@ -39,9 +39,9 @@ WHERE file.cday = this.file.day
 
 %% DATAVIEW_PUBLISHER: start
 ```dataview
-TABLE file.cday AS "Date"
+TABLE date(file.name) AS "Date"
 WHERE date(file.name) = date(this.file.name)+dur(-1 day)
-SORT file.cday DESC
+SORT date(file.name) DESC
 ```
 %%
 
@@ -53,9 +53,9 @@ SORT file.cday DESC
 
 %% DATAVIEW_PUBLISHER: start
 ```dataview
-TABLE file.cday AS "Date"
+TABLE date(file.name) AS "Date"
 WHERE date(file.name) = date(this.file.name)+dur(1 day)
-SORT file.cday DESC
+SORT date(file.name) DESC
 ```
 %%
 
