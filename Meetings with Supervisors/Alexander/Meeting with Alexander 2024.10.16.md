@@ -16,3 +16,4 @@ Previous meeting on [[Meeting with Alexander 2024.09.27|27.09.2024]]
 - Progress on [[Multimodal Methods Systematic Review]]:
 	- Have reviewed [[Automatic Terminology Recognition Methods|ATR methods]], [[PU-ATR]] seems like a good idea, could integrate [[i-SWB]] in this.
 	- Some very very prelim results, scraped Cristin for IMV RITMO publication venues. Will filter and scrape corpora
+- Presenting courses?
