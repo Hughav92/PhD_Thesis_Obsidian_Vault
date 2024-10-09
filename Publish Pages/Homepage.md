@@ -74,16 +74,16 @@ LIMIT 10
 
 | File                                                                                                            | Updated                     |
 | --------------------------------------------------------------------------------------------------------------- | --------------------------- |
+| [[Publish Pages/Homepage.md\|Homepage]]                                                                         | 2:51 PM - October 08, 2024  |
+| [[Meetings with Supervisors/Alexander/Meeting with Alexander 2024.10.16.md\|Meeting with Alexander 2024.10.16]] | 10:33 AM - October 08, 2024 |
 | [[Daily Notes/2024-10-08.md\|2024-10-08]]                                                                       | 9:02 AM - October 08, 2024  |
-| [[Daily Notes/2024-10-07.md\|2024-10-07]]                                                                       | 7:14 PM - October 07, 2024  |
-| [[Publish Pages/Homepage.md\|Homepage]]                                                                         | 12:16 PM - October 07, 2024 |
-| [[Meetings with Supervisors/Alexander/Meeting with Alexander 2024.10.16.md\|Meeting with Alexander 2024.10.16]] | 12:08 PM - October 07, 2024 |
+| [[Daily Notes/2024-10-07.md\|2024-10-07]]                                                                       | 9:02 AM - October 08, 2024  |
+| [[Daily Notes/Daily Notes.md\|Daily Notes]]                                                                     | 9:02 AM - October 08, 2024  |
 | [[Daily Notes/2024-10-02.md\|2024-10-02]]                                                                       | 11:49 AM - October 07, 2024 |
 | [[Daily Notes/2024-10-03.md\|2024-10-03]]                                                                       | 11:49 AM - October 07, 2024 |
 | [[Daily Notes/2024-10-04.md\|2024-10-04]]                                                                       | 11:49 AM - October 07, 2024 |
 | [[Daily Notes/2024-10-05.md\|2024-10-05]]                                                                       | 11:49 AM - October 07, 2024 |
 | [[Daily Notes/2024-10-06.md\|2024-10-06]]                                                                       | 11:49 AM - October 07, 2024 |
-| [[Obsidian Templates/Create Daily Note.md\|Create Daily Note]]                                                  | 11:48 AM - October 07, 2024 |
 
 %% DATAVIEW_PUBLISHER: end %%
 
