@@ -56,7 +56,7 @@ WHERE date(file.name) = date(today) AND file.name != "Daily Notes"
 
 | File                                      | Date             |
 | ----------------------------------------- | ---------------- |
-| [[Daily Notes/2024-10-08.md\|2024-10-08]] | October 08, 2024 |
+| [[Daily Notes/2024-10-09.md\|2024-10-09]] | October 09, 2024 |
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -74,16 +74,16 @@ LIMIT 10
 
 | File                                                                                                            | Updated                     |
 | --------------------------------------------------------------------------------------------------------------- | --------------------------- |
-| [[Publish Pages/Homepage.md\|Homepage]]                                                                         | 2:51 PM - October 08, 2024  |
+| [[Literature Overview/Works Cited.md\|Works Cited]]                                                             | 10:38 AM - October 09, 2024 |
+| [[Daily Notes/2024-10-09.md\|2024-10-09]]                                                                       | 10:35 AM - October 09, 2024 |
+| [[Daily Notes/2024-10-08.md\|2024-10-08]]                                                                       | 10:35 AM - October 09, 2024 |
+| [[Publish Pages/Homepage.md\|Homepage]]                                                                         | 10:35 AM - October 09, 2024 |
+| [[Daily Notes/Daily Notes.md\|Daily Notes]]                                                                     | 10:35 AM - October 09, 2024 |
+| [[Central Pattern Generator.md\|Central Pattern Generator]]                                                     | 9:28 AM - October 09, 2024  |
 | [[Meetings with Supervisors/Alexander/Meeting with Alexander 2024.10.16.md\|Meeting with Alexander 2024.10.16]] | 10:33 AM - October 08, 2024 |
-| [[Daily Notes/2024-10-08.md\|2024-10-08]]                                                                       | 9:02 AM - October 08, 2024  |
 | [[Daily Notes/2024-10-07.md\|2024-10-07]]                                                                       | 9:02 AM - October 08, 2024  |
-| [[Daily Notes/Daily Notes.md\|Daily Notes]]                                                                     | 9:02 AM - October 08, 2024  |
 | [[Daily Notes/2024-10-02.md\|2024-10-02]]                                                                       | 11:49 AM - October 07, 2024 |
 | [[Daily Notes/2024-10-03.md\|2024-10-03]]                                                                       | 11:49 AM - October 07, 2024 |
-| [[Daily Notes/2024-10-04.md\|2024-10-04]]                                                                       | 11:49 AM - October 07, 2024 |
-| [[Daily Notes/2024-10-05.md\|2024-10-05]]                                                                       | 11:49 AM - October 07, 2024 |
-| [[Daily Notes/2024-10-06.md\|2024-10-06]]                                                                       | 11:49 AM - October 07, 2024 |
 
 %% DATAVIEW_PUBLISHER: end %%
 

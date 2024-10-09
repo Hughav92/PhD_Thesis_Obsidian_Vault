@@ -5,13 +5,13 @@ This note contains the full references for all literature cited in the site.
 
 %% DATAVIEW_PUBLISHER: start
 ```dataview
-TABLE WITHOUT ID reference
+TABLE WITHOUT ID reference as "Works Cited"
 FROM "Literature Notes"
 SORT FirstAuthor ASC
 ```
 %%
 
-| reference                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Works Cited                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Ahmad, K., Gillam, L., & Tostevin, L. (1999). ‘University of Surrey Participation in TREC8: Weirdness Indexing for Logical Document Extrapolation and Retrieval (WILDER).’ _Proceedings of the Eigth Text Retrieval Conference_, pp. 1–8. Presented at the TREC.                                                                                                                                                                                                                                                         |
 | Astrakhantsev, N. (2018). ‘ATR4S: toolkit with state-of-the-art automatic terms recognition methods in Scala’, _Language Resources and Evaluation_, 52/3: 853–72. DOI: [10.1007/s10579-017-9409-4](https://doi.org/10.1007/s10579-017-9409-4)                                                                                                                                                                                                                                                                            |
