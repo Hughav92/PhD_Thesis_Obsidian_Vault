@@ -72,18 +72,18 @@ LIMIT 10
 ```
 %%
 
-| File                                                                                                                                 | Updated                     |
-| ------------------------------------------------------------------------------------------------------------------------------------ | --------------------------- |
-| [[Literature Notes/@zhangJATE20Java2016.md\|@zhangJATE20Java2016]]                                                                   | 10:25 AM - October 14, 2024 |
-| [[Literature Notes/@zhangComparativeEvaluationTerm2008.md\|@zhangComparativeEvaluationTerm2008]]                                     | 10:25 AM - October 14, 2024 |
-| [[Literature Notes/@weiTCNattentionHARHumanActivity2024.md\|@weiTCNattentionHARHumanActivity2024]]                                   | 10:25 AM - October 14, 2024 |
-| [[Literature Notes/@vrigkasReviewHumanActivity2015.md\|@vrigkasReviewHumanActivity2015]]                                             | 10:25 AM - October 14, 2024 |
-| [[Literature Notes/@tsuchidaAISTDanceVideo2019.md\|@tsuchidaAISTDanceVideo2019]]                                                     | 10:25 AM - October 14, 2024 |
-| [[Literature Notes/@sparckjonesStatisticalInterpretationTerm1972.md\|@sparckjonesStatisticalInterpretationTerm1972]]                 | 10:25 AM - October 14, 2024 |
-| [[Literature Notes/@penasCorpusbasedTerminologyExtraction2001.md\|@penasCorpusbasedTerminologyExtraction2001]]                       | 10:25 AM - October 14, 2024 |
-| [[Literature Notes/@parkAutomaticGlossaryExtraction2002.md\|@parkAutomaticGlossaryExtraction2002]]                                   | 10:24 AM - October 14, 2024 |
-| [[Literature Notes/@omara-evesTechniquesIdentifyingCrossdisciplinary2013.md\|@omara-evesTechniquesIdentifyingCrossdisciplinary2013]] | 10:24 AM - October 14, 2024 |
-| [[Literature Notes/@meijerSemanticApproachExtracting2014.md\|@meijerSemanticApproachExtracting2014]]                                 | 10:24 AM - October 14, 2024 |
+| File                                                                                                                  | Updated                    |
+| --------------------------------------------------------------------------------------------------------------------- | -------------------------- |
+| [[Literature Overview/All.md\|All]]                                                                                   | 4:47 PM - October 14, 2024 |
+| [[Literature Notes/@astrakhantsevATR4SToolkitStateart2018.md\|@astrakhantsevATR4SToolkitStateart2018]]                | 4:45 PM - October 14, 2024 |
+| [[Literature Notes/@meijerSemanticApproachExtracting2014.md\|@meijerSemanticApproachExtracting2014]]                  | 4:45 PM - October 14, 2024 |
+| [[Literature Notes/@lossio-venturaCombiningCvalueKeyword2013.md\|@lossio-venturaCombiningCvalueKeyword2013]]          | 4:45 PM - October 14, 2024 |
+| [[Literature Notes/@ahmadUniversitySurreyParticipation1999.md\|@ahmadUniversitySurreyParticipation1999]]              | 4:45 PM - October 14, 2024 |
+| [[Signal Processing/Signal Types/Digital Signals/Digital Video Signal/Colour Spaces/Colour Space.md\|Colour Space]]   | 4:43 PM - October 14, 2024 |
+| [[Signal Processing/Signal Types/Digital Signals/Digital Video Signal/Digital Video Signal.md\|Digital Video Signal]] | 4:43 PM - October 14, 2024 |
+| [[Meetings/2024-10-18 Video Analysis Chat.md\|2024-10-18 Video Analysis Chat]]                                        | 4:42 PM - October 14, 2024 |
+| [[Signal Processing/Signal Types/Digital Signals/Digital Video Signal/Colour Spaces/Greyscale.md\|Greyscale]]         | 4:41 PM - October 14, 2024 |
+| [[Signal Processing/Signal Types/Digital Signals/Digital Video Signal/Colour Spaces/YUV.md\|YUV]]                     | 4:41 PM - October 14, 2024 |
 
 %% DATAVIEW_PUBLISHER: end %%
 

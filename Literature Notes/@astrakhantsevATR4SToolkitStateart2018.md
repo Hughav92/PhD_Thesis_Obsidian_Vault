@@ -18,7 +18,7 @@ dateread:
 >**Contribution**:: This paper presents a review of multiple methods for both [[Automatic Terminology Recognition|automatic terminology recognition]] and the [[Automatic Terminology Recognition Methods#Methods for Term Candidate Ranking|ranking of term candidates]]. In addition, this paper contributes a [Scala toolbox](https://github.com/ispras/atr4s) which implements 15 of these methods. Finally the authors evaluate theses methods in their implementation, and find that [[PU-ATR]] performs best for small datasets and corpora in cases where time complexity is not an issue, [[Basic Score]] or [[Combo Basic Score]] perform best for large datasets, and [[Key Concept Relatedness]] performs best for tasks requiring the recognition of few terms for domains well covered by Wikipedia.
 >
 >**Related**:: 
->![[@ahmadUniversitySurreyParticipation1999#^df3595]]
+>![[@ahmadUniversitySurreyParticipation1999#^a6ecc9]]
 >![[@astrakhantsevMethodsSoftwareTerminology2015#^7148a9]]
 >![[@bordeaDomainindependentTermExtraction2013#^005332]]
 >![[@churchInverseDocumentFrequency1999#^0906bd]]
@@ -26,8 +26,8 @@ dateread:
 >![[@frantziAutomaticRecognitionMultiword2000#^f79158]]
 >![[@justesonTechnicalTerminologyLinguistic1995#^8f8387]]
 >![[@liNovelTopicModel2013#^a3b1e8]]
->![[@lossio-venturaCombiningCvalueKeyword2013#^a99568]]
->![[@meijerSemanticApproachExtracting2014#^eefea4]]
+>![[@lossio-venturaCombiningCvalueKeyword2013#^5e30eb]]
+>![[@meijerSemanticApproachExtracting2014#^5676be]]
 >![[@omara-evesTechniquesIdentifyingCrossdisciplinary2013#^510779]]
 >![[@parkAutomaticGlossaryExtraction2002#^3da2ba]]
 >![[@penasCorpusbasedTerminologyExtraction2001#^d0d6d0]]
