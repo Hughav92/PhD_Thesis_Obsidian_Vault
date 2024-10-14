@@ -56,7 +56,7 @@ WHERE date(file.name) = date(today) AND file.name != "Daily Notes"
 
 | File                                      | Date             |
 | ----------------------------------------- | ---------------- |
-| [[Daily Notes/2024-10-11.md\|2024-10-11]] | October 11, 2024 |
+| [[Daily Notes/2024-10-14.md\|2024-10-14]] | October 14, 2024 |
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -72,18 +72,18 @@ LIMIT 10
 ```
 %%
 
-| File                                                                                                            | Updated                     |
-| --------------------------------------------------------------------------------------------------------------- | --------------------------- |
-| [[Daily Notes/2024-10-11.md\|2024-10-11]]                                                                       | 3:49 PM - October 11, 2024  |
-| [[Publish Pages/Homepage.md\|Homepage]]                                                                         | 3:49 PM - October 11, 2024  |
-| [[Daily Notes/2024-10-09.md\|2024-10-09]]                                                                       | 3:46 PM - October 11, 2024  |
-| [[Daily Notes/2024-10-10.md\|2024-10-10]]                                                                       | 3:41 PM - October 11, 2024  |
-| [[Daily Notes/Daily Notes.md\|Daily Notes]]                                                                     | 3:41 PM - October 11, 2024  |
-| [[Daily Notes/2024-10-08.md\|2024-10-08]]                                                                       | 3:40 PM - October 11, 2024  |
-| [[Daily Notes/2024-10-07.md\|2024-10-07]]                                                                       | 3:37 PM - October 11, 2024  |
-| [[Literature Overview/Works Cited.md\|Works Cited]]                                                             | 10:38 AM - October 09, 2024 |
-| [[Central Pattern Generator.md\|Central Pattern Generator]]                                                     | 9:28 AM - October 09, 2024  |
-| [[Meetings with Supervisors/Alexander/Meeting with Alexander 2024.10.16.md\|Meeting with Alexander 2024.10.16]] | 10:33 AM - October 08, 2024 |
+| File                                                                                                                                 | Updated                     |
+| ------------------------------------------------------------------------------------------------------------------------------------ | --------------------------- |
+| [[Literature Notes/@zhangJATE20Java2016.md\|@zhangJATE20Java2016]]                                                                   | 10:25 AM - October 14, 2024 |
+| [[Literature Notes/@zhangComparativeEvaluationTerm2008.md\|@zhangComparativeEvaluationTerm2008]]                                     | 10:25 AM - October 14, 2024 |
+| [[Literature Notes/@weiTCNattentionHARHumanActivity2024.md\|@weiTCNattentionHARHumanActivity2024]]                                   | 10:25 AM - October 14, 2024 |
+| [[Literature Notes/@vrigkasReviewHumanActivity2015.md\|@vrigkasReviewHumanActivity2015]]                                             | 10:25 AM - October 14, 2024 |
+| [[Literature Notes/@tsuchidaAISTDanceVideo2019.md\|@tsuchidaAISTDanceVideo2019]]                                                     | 10:25 AM - October 14, 2024 |
+| [[Literature Notes/@sparckjonesStatisticalInterpretationTerm1972.md\|@sparckjonesStatisticalInterpretationTerm1972]]                 | 10:25 AM - October 14, 2024 |
+| [[Literature Notes/@penasCorpusbasedTerminologyExtraction2001.md\|@penasCorpusbasedTerminologyExtraction2001]]                       | 10:25 AM - October 14, 2024 |
+| [[Literature Notes/@parkAutomaticGlossaryExtraction2002.md\|@parkAutomaticGlossaryExtraction2002]]                                   | 10:24 AM - October 14, 2024 |
+| [[Literature Notes/@omara-evesTechniquesIdentifyingCrossdisciplinary2013.md\|@omara-evesTechniquesIdentifyingCrossdisciplinary2013]] | 10:24 AM - October 14, 2024 |
+| [[Literature Notes/@meijerSemanticApproachExtracting2014.md\|@meijerSemanticApproachExtracting2014]]                                 | 10:24 AM - October 14, 2024 |
 
 %% DATAVIEW_PUBLISHER: end %%
 

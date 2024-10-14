@@ -2,7 +2,7 @@
 
 ---
 category:: literaturenote
-tags:: Semantic taxonomy evaluation, Subsumption method, Taxonomy learning, Term extraction, Word sense disambiguation
+tags:: unread Semantic taxonomy evaluation, Subsumption method, Taxonomy learning, Term extraction, Word sense disambiguation, unread
 citekey:: meijerSemanticApproachExtracting2014
 status:: unread
 reference:: Meijer, K., Frasincar, F., & Hogenboom, F. (2014). ‘A semantic approach for extracting domain taxonomies from text’, _Decision Support Systems_, 62: 78–93. DOI: [10.1016/j.dss.2014.03.006](https://doi.org/10.1016/j.dss.2014.03.006)
@@ -11,8 +11,6 @@ dateread:
 
 > [!Cite]
 > Meijer, K., Frasincar, F., & Hogenboom, F. (2014). ‘A semantic approach for extracting domain taxonomies from text’, _Decision Support Systems_, 62: 78–93. DOI: [10.1016/j.dss.2014.03.006](https://doi.org/10.1016/j.dss.2014.03.006)
-
-^eefea4
 
 >[!Synth]
 >**Contribution**:: 
@@ -52,4 +50,4 @@ dateread:
 
 %% end annotations %%
 
-%% Import Date: 2024-10-01T17:42:15.821+02:00 %%
+%% Import Date: 2024-10-13T22:41:40.777+02:00 %%

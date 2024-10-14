@@ -2,7 +2,7 @@
 
 ---
 category:: literaturenote
-tags:: Digital techniques, Signal processing
+tags:: unread, Digital techniques, Signal processing
 citekey:: holtonDigitalSignalProcessing2020
 status:: unread
 reference:: Holton, T. (2020). _Digital signal processing: principles and applications_. Cambridge, United Kingdom ; New York, NY, USA: Cambridge University Press.

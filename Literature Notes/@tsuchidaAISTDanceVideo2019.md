@@ -2,7 +2,7 @@
 
 ---
 category:: literaturenote
-tags:: 
+tags:: unread
 citekey:: tsuchidaAISTDanceVideo2019
 status:: unread
 reference:: Tsuchida, S., Fukayama, S., Hamasaki, M., & Goto, M. (2019). ‘AIST dance video database: Multi-genre, multi- dancer, and multi-camera database for dance information processing’. _Proceedings of the 20th international society for music information retrieval conference_, pp. 501–10. Delft, The Netherlands: ISMIR. DOI: [10.5281/zenodo.3527854](https://doi.org/10.5281/zenodo.3527854)

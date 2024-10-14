@@ -2,7 +2,7 @@
 
 ---
 category:: literaturenote
-tags:: 
+tags:: unread
 citekey:: parkAutomaticGlossaryExtraction2002
 status:: unread
 reference:: Park, Y., Byrd, R. J., & Boguraev, B. (2002). ‘Automatic glossary extraction: Beyond terminology identification.’ _Proceedings of the 19th international conference on computational linguistics_, Vol. 10, pp. 1–7. Presented at the COLING, Association for Computational Linguistics.

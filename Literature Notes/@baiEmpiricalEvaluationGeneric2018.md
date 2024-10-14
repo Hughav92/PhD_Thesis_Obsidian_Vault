@@ -2,7 +2,7 @@
 
 ---
 category:: literaturenote
-tags:: Computer Science - Artificial Intelligence, Computer Science - Computation and Language, Computer Science - Machine Learning
+tags:: unread, Computer Science - Artificial Intelligence, Computer Science - Computation and Language, Computer Science - Machine Learning
 citekey:: baiEmpiricalEvaluationGeneric2018
 status:: unread
 reference:: Bai, S., Kolter, J. Z., & Koltun, V. (2018). ‘An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling’. arXiv.

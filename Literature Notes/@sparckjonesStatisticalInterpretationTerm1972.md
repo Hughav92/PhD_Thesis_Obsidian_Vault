@@ -2,7 +2,7 @@
 
 ---
 category:: literaturenote
-tags:: 
+tags:: unread
 citekey:: sparckjonesStatisticalInterpretationTerm1972
 status:: unread
 reference:: Sparck Jones, K. (1972). ‘A statistical interpretation of term specificity and its application in retrieval’, _Journal of Documentation_, 28/1: 11–21. DOI: [10.1108/eb026526](https://doi.org/10.1108/eb026526)
