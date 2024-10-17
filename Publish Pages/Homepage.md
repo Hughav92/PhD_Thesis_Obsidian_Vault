@@ -56,7 +56,7 @@ WHERE date(file.name) = date(today) AND file.name != "Daily Notes"
 
 | File                                      | Date             |
 | ----------------------------------------- | ---------------- |
-| [[Daily Notes/2024-10-14.md\|2024-10-14]] | October 14, 2024 |
+| [[Daily Notes/2024-10-17.md\|2024-10-17]] | October 17, 2024 |
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -72,18 +72,18 @@ LIMIT 10
 ```
 %%
 
-| File                                                                                                                  | Updated                    |
-| --------------------------------------------------------------------------------------------------------------------- | -------------------------- |
-| [[Literature Overview/All.md\|All]]                                                                                   | 4:47 PM - October 14, 2024 |
-| [[Literature Notes/@astrakhantsevATR4SToolkitStateart2018.md\|@astrakhantsevATR4SToolkitStateart2018]]                | 4:45 PM - October 14, 2024 |
-| [[Literature Notes/@meijerSemanticApproachExtracting2014.md\|@meijerSemanticApproachExtracting2014]]                  | 4:45 PM - October 14, 2024 |
-| [[Literature Notes/@lossio-venturaCombiningCvalueKeyword2013.md\|@lossio-venturaCombiningCvalueKeyword2013]]          | 4:45 PM - October 14, 2024 |
-| [[Literature Notes/@ahmadUniversitySurreyParticipation1999.md\|@ahmadUniversitySurreyParticipation1999]]              | 4:45 PM - October 14, 2024 |
-| [[Signal Processing/Signal Types/Digital Signals/Digital Video Signal/Colour Spaces/Colour Space.md\|Colour Space]]   | 4:43 PM - October 14, 2024 |
-| [[Signal Processing/Signal Types/Digital Signals/Digital Video Signal/Digital Video Signal.md\|Digital Video Signal]] | 4:43 PM - October 14, 2024 |
-| [[Meetings/2024-10-18 Video Analysis Chat.md\|2024-10-18 Video Analysis Chat]]                                        | 4:42 PM - October 14, 2024 |
-| [[Signal Processing/Signal Types/Digital Signals/Digital Video Signal/Colour Spaces/Greyscale.md\|Greyscale]]         | 4:41 PM - October 14, 2024 |
-| [[Signal Processing/Signal Types/Digital Signals/Digital Video Signal/Colour Spaces/YUV.md\|YUV]]                     | 4:41 PM - October 14, 2024 |
+| File                                                                                                                               | Updated                     |
+| ---------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
+| [[Meetings/Cluster Meetings/Interaction and Robotics/2024-10-16 Interaction and Robotics.md\|2024-10-16 Interaction and Robotics]] | 9:46 AM - October 17, 2024  |
+| [[Meetings/Cluster Meetings/Interaction and Pleasure/2024-10-17 Interaction and Pleasure.md\|2024-10-17 Interaction and Pleasure]] | 9:46 AM - October 17, 2024  |
+| [[Daily Notes/2024-10-17.md\|2024-10-17]]                                                                                          | 9:46 AM - October 17, 2024  |
+| [[Daily Notes/2024-10-16.md\|2024-10-16]]                                                                                          | 9:21 AM - October 16, 2024  |
+| [[Daily Notes/2024-10-14.md\|2024-10-14]]                                                                                          | 12:24 PM - October 15, 2024 |
+| [[Multimodal Learning Analytics.md\|Multimodal Learning Analytics]]                                                                | 12:22 PM - October 15, 2024 |
+| [[Daily Notes/2024-10-15.md\|2024-10-15]]                                                                                          | 12:19 PM - October 15, 2024 |
+| [[Publish Pages/Homepage.md\|Homepage]]                                                                                            | 4:47 PM - October 14, 2024  |
+| [[Literature Overview/All.md\|All]]                                                                                                | 4:47 PM - October 14, 2024  |
+| [[Literature Notes/@astrakhantsevATR4SToolkitStateart2018.md\|@astrakhantsevATR4SToolkitStateart2018]]                             | 4:45 PM - October 14, 2024  |
 
 %% DATAVIEW_PUBLISHER: end %%
 
