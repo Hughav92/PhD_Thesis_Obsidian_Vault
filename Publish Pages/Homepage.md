@@ -54,8 +54,9 @@ WHERE date(file.name) = date(today) AND file.name != "Daily Notes"
 ```
 %%
 
-| File | Date |
-| ---- | ---- |
+| File                                      | Date             |
+| ----------------------------------------- | ---------------- |
+| [[Daily Notes/2024-10-21.md\|2024-10-21]] | October 21, 2024 |
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -66,6 +67,7 @@ Previous daily notes can be found [[Daily Notes|here]].
 %% DATAVIEW_PUBLISHER: start
 ```dataview
 TABLE file.mtime AS "Updated"
+FROM -"Meetings" AND -"Literature" AND -"Obsidian Templates"
 SORT file.mtime DESC
 LIMIT 10
 ```
@@ -73,16 +75,16 @@ LIMIT 10
 
 | File                                                                                                                                                                          | Updated                     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
+| [[Publish Pages/Homepage.md\|Homepage]]                                                                                                                                       | 10:22 AM - October 21, 2024 |
+| [[Daily Notes/2024-10-19.md\|2024-10-19]]                                                                                                                                     | 10:19 AM - October 21, 2024 |
+| [[Daily Notes/2024-10-20.md\|2024-10-20]]                                                                                                                                     | 10:19 AM - October 21, 2024 |
+| [[Daily Notes/2024-10-21.md\|2024-10-21]]                                                                                                                                     | 10:18 AM - October 21, 2024 |
 | [[Multimodality/Multimodal Representation Levels.md\|Multimodal Representation Levels]]                                                                                       | 12:20 AM - October 19, 2024 |
-| [[Publish Pages/Homepage.md\|Homepage]]                                                                                                                                       | 12:17 AM - October 19, 2024 |
 | [[Daily Notes/2024-10-18.md\|2024-10-18]]                                                                                                                                     | 12:17 AM - October 19, 2024 |
 | [[Daily Notes/2024-10-17.md\|2024-10-17]]                                                                                                                                     | 12:17 AM - October 19, 2024 |
 | [[Daily Notes/2024-10-14.md\|2024-10-14]]                                                                                                                                     | 12:17 AM - October 19, 2024 |
 | [[Daily Notes/Daily Notes.md\|Daily Notes]]                                                                                                                                   | 12:17 AM - October 19, 2024 |
 | [[Manuscript Writing/Multimodal Methods Systematic Review/Methods/Methodology - Multimodal Methods Systematic Review.md\|Methodology - Multimodal Methods Systematic Review]] | 12:17 AM - October 19, 2024 |
-| [[Meetings/Meetings with Supervisors/Alexander/2024-09-27 Meeting with Alexander.md\|2024-09-27 Meeting with Alexander]]                                                      | 2:43 PM - October 18, 2024  |
-| [[Meetings/2024-10-18 Video Analysis Chat.md\|2024-10-18 Video Analysis Chat]]                                                                                                | 1:36 PM - October 18, 2024  |
-| [[Literature Overview/Works Cited.md\|Works Cited]]                                                                                                                           | 9:46 AM - October 17, 2024  |
 
 %% DATAVIEW_PUBLISHER: end %%
 
