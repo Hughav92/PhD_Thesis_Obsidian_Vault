@@ -54,9 +54,8 @@ WHERE date(file.name) = date(today) AND file.name != "Daily Notes"
 ```
 %%
 
-| File                                      | Date             |
-| ----------------------------------------- | ---------------- |
-| [[Daily Notes/2024-10-17.md\|2024-10-17]] | October 17, 2024 |
+| File | Date |
+| ---- | ---- |
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -72,18 +71,18 @@ LIMIT 10
 ```
 %%
 
-| File                                                                                                                               | Updated                     |
-| ---------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
-| [[Meetings/Cluster Meetings/Interaction and Robotics/2024-10-16 Interaction and Robotics.md\|2024-10-16 Interaction and Robotics]] | 9:46 AM - October 17, 2024  |
-| [[Meetings/Cluster Meetings/Interaction and Pleasure/2024-10-17 Interaction and Pleasure.md\|2024-10-17 Interaction and Pleasure]] | 9:46 AM - October 17, 2024  |
-| [[Daily Notes/2024-10-17.md\|2024-10-17]]                                                                                          | 9:46 AM - October 17, 2024  |
-| [[Daily Notes/2024-10-16.md\|2024-10-16]]                                                                                          | 9:21 AM - October 16, 2024  |
-| [[Daily Notes/2024-10-14.md\|2024-10-14]]                                                                                          | 12:24 PM - October 15, 2024 |
-| [[Multimodal Learning Analytics.md\|Multimodal Learning Analytics]]                                                                | 12:22 PM - October 15, 2024 |
-| [[Daily Notes/2024-10-15.md\|2024-10-15]]                                                                                          | 12:19 PM - October 15, 2024 |
-| [[Publish Pages/Homepage.md\|Homepage]]                                                                                            | 4:47 PM - October 14, 2024  |
-| [[Literature Overview/All.md\|All]]                                                                                                | 4:47 PM - October 14, 2024  |
-| [[Literature Notes/@astrakhantsevATR4SToolkitStateart2018.md\|@astrakhantsevATR4SToolkitStateart2018]]                             | 4:45 PM - October 14, 2024  |
+| File                                                                                                                                                                          | Updated                     |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
+| [[Multimodality/Multimodal Representation Levels.md\|Multimodal Representation Levels]]                                                                                       | 12:20 AM - October 19, 2024 |
+| [[Publish Pages/Homepage.md\|Homepage]]                                                                                                                                       | 12:17 AM - October 19, 2024 |
+| [[Daily Notes/2024-10-18.md\|2024-10-18]]                                                                                                                                     | 12:17 AM - October 19, 2024 |
+| [[Daily Notes/2024-10-17.md\|2024-10-17]]                                                                                                                                     | 12:17 AM - October 19, 2024 |
+| [[Daily Notes/2024-10-14.md\|2024-10-14]]                                                                                                                                     | 12:17 AM - October 19, 2024 |
+| [[Daily Notes/Daily Notes.md\|Daily Notes]]                                                                                                                                   | 12:17 AM - October 19, 2024 |
+| [[Manuscript Writing/Multimodal Methods Systematic Review/Methods/Methodology - Multimodal Methods Systematic Review.md\|Methodology - Multimodal Methods Systematic Review]] | 12:17 AM - October 19, 2024 |
+| [[Meetings/Meetings with Supervisors/Alexander/2024-09-27 Meeting with Alexander.md\|2024-09-27 Meeting with Alexander]]                                                      | 2:43 PM - October 18, 2024  |
+| [[Meetings/2024-10-18 Video Analysis Chat.md\|2024-10-18 Video Analysis Chat]]                                                                                                | 1:36 PM - October 18, 2024  |
+| [[Literature Overview/Works Cited.md\|Works Cited]]                                                                                                                           | 9:46 AM - October 17, 2024  |
 
 %% DATAVIEW_PUBLISHER: end %%
 
