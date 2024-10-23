@@ -56,7 +56,7 @@ WHERE date(file.name) = date(today) AND file.name != "Daily Notes"
 
 | File                                      | Date             |
 | ----------------------------------------- | ---------------- |
-| [[Daily Notes/2024-10-21.md\|2024-10-21]] | October 21, 2024 |
+| [[Daily Notes/2024-10-23.md\|2024-10-23]] | October 23, 2024 |
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -73,18 +73,18 @@ LIMIT 10
 ```
 %%
 
-| File                                                                                                                                                                          | Updated                     |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
-| [[Publish Pages/Homepage.md\|Homepage]]                                                                                                                                       | 10:22 AM - October 21, 2024 |
-| [[Daily Notes/2024-10-19.md\|2024-10-19]]                                                                                                                                     | 10:19 AM - October 21, 2024 |
-| [[Daily Notes/2024-10-20.md\|2024-10-20]]                                                                                                                                     | 10:19 AM - October 21, 2024 |
-| [[Daily Notes/2024-10-21.md\|2024-10-21]]                                                                                                                                     | 10:18 AM - October 21, 2024 |
-| [[Multimodality/Multimodal Representation Levels.md\|Multimodal Representation Levels]]                                                                                       | 12:20 AM - October 19, 2024 |
-| [[Daily Notes/2024-10-18.md\|2024-10-18]]                                                                                                                                     | 12:17 AM - October 19, 2024 |
-| [[Daily Notes/2024-10-17.md\|2024-10-17]]                                                                                                                                     | 12:17 AM - October 19, 2024 |
-| [[Daily Notes/2024-10-14.md\|2024-10-14]]                                                                                                                                     | 12:17 AM - October 19, 2024 |
-| [[Daily Notes/Daily Notes.md\|Daily Notes]]                                                                                                                                   | 12:17 AM - October 19, 2024 |
-| [[Manuscript Writing/Multimodal Methods Systematic Review/Methods/Methodology - Multimodal Methods Systematic Review.md\|Methodology - Multimodal Methods Systematic Review]] | 12:17 AM - October 19, 2024 |
+| File                                      | Updated                     |
+| ----------------------------------------- | --------------------------- |
+| [[Daily Notes/2024-10-14.md\|2024-10-14]] | 10:29 AM - October 23, 2024 |
+| [[Daily Notes/2024-10-15.md\|2024-10-15]] | 10:29 AM - October 23, 2024 |
+| [[Daily Notes/2024-10-16.md\|2024-10-16]] | 10:29 AM - October 23, 2024 |
+| [[Daily Notes/2024-10-17.md\|2024-10-17]] | 10:29 AM - October 23, 2024 |
+| [[Daily Notes/2024-10-18.md\|2024-10-18]] | 10:29 AM - October 23, 2024 |
+| [[Daily Notes/2024-10-19.md\|2024-10-19]] | 10:29 AM - October 23, 2024 |
+| [[Daily Notes/2024-10-20.md\|2024-10-20]] | 10:29 AM - October 23, 2024 |
+| [[Daily Notes/2024-10-21.md\|2024-10-21]] | 10:29 AM - October 23, 2024 |
+| [[Daily Notes/2024-10-22.md\|2024-10-22]] | 10:28 AM - October 23, 2024 |
+| [[Daily Notes/2024-10-23.md\|2024-10-23]] | 10:28 AM - October 23, 2024 |
 
 %% DATAVIEW_PUBLISHER: end %%
 
