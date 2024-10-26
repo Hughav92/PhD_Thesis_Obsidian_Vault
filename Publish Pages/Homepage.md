@@ -56,7 +56,7 @@ WHERE date(file.name) = date(today) AND file.name != "Daily Notes"
 
 | File                                      | Date             |
 | ----------------------------------------- | ---------------- |
-| [[Daily Notes/2024-10-23.md\|2024-10-23]] | October 23, 2024 |
+| [[Daily Notes/2024-10-26.md\|2024-10-26]] | October 26, 2024 |
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -73,18 +73,18 @@ LIMIT 10
 ```
 %%
 
-| File                                      | Updated                     |
-| ----------------------------------------- | --------------------------- |
-| [[Daily Notes/2024-10-14.md\|2024-10-14]] | 10:29 AM - October 23, 2024 |
-| [[Daily Notes/2024-10-15.md\|2024-10-15]] | 10:29 AM - October 23, 2024 |
-| [[Daily Notes/2024-10-16.md\|2024-10-16]] | 10:29 AM - October 23, 2024 |
-| [[Daily Notes/2024-10-17.md\|2024-10-17]] | 10:29 AM - October 23, 2024 |
-| [[Daily Notes/2024-10-18.md\|2024-10-18]] | 10:29 AM - October 23, 2024 |
-| [[Daily Notes/2024-10-19.md\|2024-10-19]] | 10:29 AM - October 23, 2024 |
-| [[Daily Notes/2024-10-20.md\|2024-10-20]] | 10:29 AM - October 23, 2024 |
-| [[Daily Notes/2024-10-21.md\|2024-10-21]] | 10:29 AM - October 23, 2024 |
-| [[Daily Notes/2024-10-22.md\|2024-10-22]] | 10:28 AM - October 23, 2024 |
-| [[Daily Notes/2024-10-23.md\|2024-10-23]] | 10:28 AM - October 23, 2024 |
+| File                                                  | Updated                     |
+| ----------------------------------------------------- | --------------------------- |
+| [[Daily Notes/2024-10-26.md\|2024-10-26]]             | 9:48 PM - October 26, 2024  |
+| [[Daily Notes/2024-10-25.md\|2024-10-25]]             | 1:41 PM - October 25, 2024  |
+| [[Daily Notes/2024-10-24.md\|2024-10-24]]             | 10:21 AM - October 24, 2024 |
+| [[autocorrelation.md\|autocorrelation]]               | 1:42 PM - October 23, 2024  |
+| [[MIR Toolbox.md\|MIR Toolbox]]                       | 1:42 PM - October 23, 2024  |
+| [[Spectral Centroid.md\|Spectral Centroid]]           | 1:34 PM - October 23, 2024  |
+| [[Heart Rate Variability.md\|Heart Rate Variability]] | 1:33 PM - October 23, 2024  |
+| [[Daily Notes/2024-10-23.md\|2024-10-23]]             | 10:52 AM - October 23, 2024 |
+| [[Daily Notes/2024-10-02.md\|2024-10-02]]             | 10:30 AM - October 23, 2024 |
+| [[Daily Notes/2024-10-03.md\|2024-10-03]]             | 10:30 AM - October 23, 2024 |
 
 %% DATAVIEW_PUBLISHER: end %%
 
