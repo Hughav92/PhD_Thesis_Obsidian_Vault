@@ -72,16 +72,16 @@ LIMIT 10
 
 | File                                      | Updated                     |
 | ----------------------------------------- | --------------------------- |
-| [[Daily Notes/2024-10-25.md\|2024-10-25]] | 4:09 PM - November 04, 2024 |
+| [[Daily Notes/2024-10-29.md\|2024-10-29]] | 4:20 PM - November 04, 2024 |
+| [[Daily Notes/2024-10-30.md\|2024-10-30]] | 4:19 PM - November 04, 2024 |
+| [[Daily Notes/2024-10-28.md\|2024-10-28]] | 4:17 PM - November 04, 2024 |
+| [[Daily Notes/2024-10-25.md\|2024-10-25]] | 4:16 PM - November 04, 2024 |
+| [[Daily Notes/2024-10-22.md\|2024-10-22]] | 4:16 PM - November 04, 2024 |
+| [[Daily Notes/2024-10-31.md\|2024-10-31]] | 4:15 PM - November 04, 2024 |
+| [[Daily Notes/2024-11-01.md\|2024-11-01]] | 4:15 PM - November 04, 2024 |
+| [[Daily Notes/2024-10-23.md\|2024-10-23]] | 4:10 PM - November 04, 2024 |
+| [[Publish Pages/Homepage.md\|Homepage]]   | 4:10 PM - November 04, 2024 |
 | [[Daily Notes/2024-10-24.md\|2024-10-24]] | 4:09 PM - November 04, 2024 |
-| [[Daily Notes/2024-10-23.md\|2024-10-23]] | 3:26 PM - November 04, 2024 |
-| [[Daily Notes/2024-10-22.md\|2024-10-22]] | 3:26 PM - November 04, 2024 |
-| [[Daily Notes/2024-10-21.md\|2024-10-21]] | 3:23 PM - November 04, 2024 |
-| [[Daily Notes/2024-10-27.md\|2024-10-27]] | 3:00 PM - November 04, 2024 |
-| [[Daily Notes/2024-11-04.md\|2024-11-04]] | 3:00 PM - November 04, 2024 |
-| [[Daily Notes/2024-10-28.md\|2024-10-28]] | 3:00 PM - November 04, 2024 |
-| [[Daily Notes/2024-10-26.md\|2024-10-26]] | 3:00 PM - November 04, 2024 |
-| [[Publish Pages/Homepage.md\|Homepage]]   | 3:00 PM - November 04, 2024 |
 
 %% DATAVIEW_PUBLISHER: end %%
 
