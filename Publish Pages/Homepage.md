@@ -20,10 +20,7 @@ These are the sub-projects that I am currently working on, with the aim that the
 - An exploration of how different approaches towards the [[Time and Space in Synchronisation and Alignment|temporal synchronisation of time-series signals create a spatial perspective for further analysis methods]]
 - Analysing how well [[Multimodal Learning HAR|transfer learning can be applied to leverage large, pretrained models for Human Activity Recognition]] and how multimodal learning with accelerometer and depth image data, both with and without the support of RGB camera data, compare in order to preserve user privacy - this is for the course [IN9490 – Advanced Topics in Artificial Intelligence for Intelligent Systems](https://www.uio.no/studier/emner/matnat/ifi/IN9490/)
 - A study of the [[MoCap Latency Perception|perception of latency]] with respect to the visual representation of optical marker-based motion capture data and how this relates to the "human-ness" of the representation's form and the form's motion
-
-In addition, I am working on:
-
-- Developing a system to [[IR Light Level Compensation|compensate for varying levels of stage lighting]] in infra-red video recordings of audiences in live concert research, in order to streamline motion analysis
+- Developing a method for the processing and analysis of audience motion in live concert research from [[IR Low Light Level Motion Analysis|infra-red videos recorded a low light levels]]
 
 # Where to Start
 
@@ -54,9 +51,9 @@ WHERE date(file.name) = date(today) AND file.name != "Daily Notes"
 ```
 %%
 
-| File                                      | Date             |
-| ----------------------------------------- | ---------------- |
-| [[Daily Notes/2024-10-26.md\|2024-10-26]] | October 26, 2024 |
+| File                                      | Date              |
+| ----------------------------------------- | ----------------- |
+| [[Daily Notes/2024-11-04.md\|2024-11-04]] | November 04, 2024 |
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -73,18 +70,18 @@ LIMIT 10
 ```
 %%
 
-| File                                                  | Updated                     |
-| ----------------------------------------------------- | --------------------------- |
-| [[Daily Notes/2024-10-26.md\|2024-10-26]]             | 9:48 PM - October 26, 2024  |
-| [[Daily Notes/2024-10-25.md\|2024-10-25]]             | 1:41 PM - October 25, 2024  |
-| [[Daily Notes/2024-10-24.md\|2024-10-24]]             | 10:21 AM - October 24, 2024 |
-| [[autocorrelation.md\|autocorrelation]]               | 1:42 PM - October 23, 2024  |
-| [[MIR Toolbox.md\|MIR Toolbox]]                       | 1:42 PM - October 23, 2024  |
-| [[Spectral Centroid.md\|Spectral Centroid]]           | 1:34 PM - October 23, 2024  |
-| [[Heart Rate Variability.md\|Heart Rate Variability]] | 1:33 PM - October 23, 2024  |
-| [[Daily Notes/2024-10-23.md\|2024-10-23]]             | 10:52 AM - October 23, 2024 |
-| [[Daily Notes/2024-10-02.md\|2024-10-02]]             | 10:30 AM - October 23, 2024 |
-| [[Daily Notes/2024-10-03.md\|2024-10-03]]             | 10:30 AM - October 23, 2024 |
+| File                                      | Updated                      |
+| ----------------------------------------- | ---------------------------- |
+| [[Publish Pages/Homepage.md\|Homepage]]   | 2:03 PM - November 04, 2024  |
+| [[Daily Notes/2024-11-04.md\|2024-11-04]] | 2:01 PM - November 04, 2024  |
+| [[Daily Notes/2024-10-14.md\|2024-10-14]] | 2:01 PM - November 04, 2024  |
+| [[Daily Notes/2024-10-11.md\|2024-10-11]] | 2:01 PM - November 04, 2024  |
+| [[Daily Notes/2024-10-03.md\|2024-10-03]] | 2:01 PM - November 04, 2024  |
+| [[Optical Flow.md\|Optical Flow]]         | 1:45 PM - November 04, 2024  |
+| [[Daily Notes/2024-11-03.md\|2024-11-03]] | 10:14 AM - November 04, 2024 |
+| [[Daily Notes/2024-11-02.md\|2024-11-02]] | 10:14 AM - November 04, 2024 |
+| [[Daily Notes/2024-11-01.md\|2024-11-01]] | 10:14 AM - November 04, 2024 |
+| [[Daily Notes/2024-10-31.md\|2024-10-31]] | 10:14 AM - November 04, 2024 |
 
 %% DATAVIEW_PUBLISHER: end %%
 
