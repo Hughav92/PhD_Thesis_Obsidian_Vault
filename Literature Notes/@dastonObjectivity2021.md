@@ -12,6 +12,8 @@ dateread:
 > [!Cite]
 > Daston, L., & Galison, P. L. (2021). _Objectivity_. New York: Princeton University Press.
 
+^4815bb
+
 >[!Synth]
 >**Contribution**:: 
 >
