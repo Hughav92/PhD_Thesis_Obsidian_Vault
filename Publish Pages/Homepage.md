@@ -53,7 +53,7 @@ WHERE date(file.name) = date(today) AND file.name != "Daily Notes"
 
 | File                                      | Date              |
 | ----------------------------------------- | ----------------- |
-| [[Daily Notes/2024-11-05.md\|2024-11-05]] | November 05, 2024 |
+| [[Daily Notes/2024-11-06.md\|2024-11-06]] | November 06, 2024 |
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -70,18 +70,18 @@ LIMIT 10
 ```
 %%
 
-| File                                                                   | Updated                     |
-| ---------------------------------------------------------------------- | --------------------------- |
-| [[Daily Notes/2024-11-05.md\|2024-11-05]]                              | 3:50 PM - November 05, 2024 |
-| [[Micromotion.md\|Micromotion]]                                        | 3:50 PM - November 05, 2024 |
-| [[Macromotion.md\|Macromotion]]                                        | 3:49 PM - November 05, 2024 |
-| [[Thermography.md\|Thermography]]                                      | 3:45 PM - November 05, 2024 |
-| [[Daily Notes/2024-11-04.md\|2024-11-04]]                              | 5:46 PM - November 04, 2024 |
-| [[Publish Pages/Homepage.md\|Homepage]]                                | 5:46 PM - November 04, 2024 |
-| [[Literature Overview/All.md\|All]]                                    | 5:46 PM - November 04, 2024 |
-| [[Literature Overview/Works Cited.md\|Works Cited]]                    | 5:46 PM - November 04, 2024 |
-| [[Literature Notes/@dastonObjectivity2021.md\|@dastonObjectivity2021]] | 5:40 PM - November 04, 2024 |
-| [[Daily Notes/2024-10-23.md\|2024-10-23]]                              | 4:20 PM - November 04, 2024 |
+| File                                                | Updated                      |
+| --------------------------------------------------- | ---------------------------- |
+| [[Daily Notes/2024-11-05.md\|2024-11-05]]           | 10:44 AM - November 06, 2024 |
+| [[Daily Notes/2024-11-06.md\|2024-11-06]]           | 10:43 AM - November 06, 2024 |
+| [[Macromotion.md\|Macromotion]]                     | 3:53 PM - November 05, 2024  |
+| [[Thermography.md\|Thermography]]                   | 3:53 PM - November 05, 2024  |
+| [[Micromotion.md\|Micromotion]]                     | 3:53 PM - November 05, 2024  |
+| [[Daily Notes/2024-11-04.md\|2024-11-04]]           | 3:50 PM - November 05, 2024  |
+| [[Publish Pages/Homepage.md\|Homepage]]             | 3:50 PM - November 05, 2024  |
+| [[Daily Notes/Daily Notes.md\|Daily Notes]]         | 3:50 PM - November 05, 2024  |
+| [[Literature Overview/All.md\|All]]                 | 5:46 PM - November 04, 2024  |
+| [[Literature Overview/Works Cited.md\|Works Cited]] | 5:46 PM - November 04, 2024  |
 
 %% DATAVIEW_PUBLISHER: end %%
 
