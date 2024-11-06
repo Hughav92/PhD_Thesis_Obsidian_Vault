@@ -70,18 +70,18 @@ LIMIT 10
 ```
 %%
 
-| File                                                | Updated                      |
-| --------------------------------------------------- | ---------------------------- |
-| [[Daily Notes/2024-11-05.md\|2024-11-05]]           | 10:44 AM - November 06, 2024 |
-| [[Daily Notes/2024-11-06.md\|2024-11-06]]           | 10:43 AM - November 06, 2024 |
-| [[Macromotion.md\|Macromotion]]                     | 3:53 PM - November 05, 2024  |
-| [[Thermography.md\|Thermography]]                   | 3:53 PM - November 05, 2024  |
-| [[Micromotion.md\|Micromotion]]                     | 3:53 PM - November 05, 2024  |
-| [[Daily Notes/2024-11-04.md\|2024-11-04]]           | 3:50 PM - November 05, 2024  |
-| [[Publish Pages/Homepage.md\|Homepage]]             | 3:50 PM - November 05, 2024  |
-| [[Daily Notes/Daily Notes.md\|Daily Notes]]         | 3:50 PM - November 05, 2024  |
-| [[Literature Overview/All.md\|All]]                 | 5:46 PM - November 04, 2024  |
-| [[Literature Overview/Works Cited.md\|Works Cited]] | 5:46 PM - November 04, 2024  |
+| File                                              | Updated                      |
+| ------------------------------------------------- | ---------------------------- |
+| [[Daily Notes/2024-11-06.md\|2024-11-06]]         | 4:46 PM - November 06, 2024  |
+| [[Data Management Plan.md\|Data Management Plan]] | 4:44 PM - November 06, 2024  |
+| [[Information Theory.md\|Information Theory]]     | 4:41 PM - November 06, 2024  |
+| [[Daily Notes/2024-11-05.md\|2024-11-05]]         | 10:44 AM - November 06, 2024 |
+| [[Publish Pages/Homepage.md\|Homepage]]           | 10:44 AM - November 06, 2024 |
+| [[Daily Notes/Daily Notes.md\|Daily Notes]]       | 10:44 AM - November 06, 2024 |
+| [[Macromotion.md\|Macromotion]]                   | 3:53 PM - November 05, 2024  |
+| [[Thermography.md\|Thermography]]                 | 3:53 PM - November 05, 2024  |
+| [[Micromotion.md\|Micromotion]]                   | 3:53 PM - November 05, 2024  |
+| [[Daily Notes/2024-11-04.md\|2024-11-04]]         | 3:50 PM - November 05, 2024  |
 
 %% DATAVIEW_PUBLISHER: end %%
 
