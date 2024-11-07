@@ -53,7 +53,7 @@ WHERE date(file.name) = date(today) AND file.name != "Daily Notes"
 
 | File                                      | Date              |
 | ----------------------------------------- | ----------------- |
-| [[Daily Notes/2024-11-06.md\|2024-11-06]] | November 06, 2024 |
+| [[Daily Notes/2024-11-07.md\|2024-11-07]] | November 07, 2024 |
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -72,16 +72,16 @@ LIMIT 10
 
 | File                                              | Updated                      |
 | ------------------------------------------------- | ---------------------------- |
-| [[Daily Notes/2024-11-06.md\|2024-11-06]]         | 4:46 PM - November 06, 2024  |
+| [[Daily Notes/2024-11-07.md\|2024-11-07]]         | 10:53 AM - November 07, 2024 |
+| [[Daily Notes/2024-11-06.md\|2024-11-06]]         | 10:50 AM - November 07, 2024 |
+| [[Publish Pages/Homepage.md\|Homepage]]           | 4:47 PM - November 06, 2024  |
 | [[Data Management Plan.md\|Data Management Plan]] | 4:44 PM - November 06, 2024  |
 | [[Information Theory.md\|Information Theory]]     | 4:41 PM - November 06, 2024  |
 | [[Daily Notes/2024-11-05.md\|2024-11-05]]         | 10:44 AM - November 06, 2024 |
-| [[Publish Pages/Homepage.md\|Homepage]]           | 10:44 AM - November 06, 2024 |
 | [[Daily Notes/Daily Notes.md\|Daily Notes]]       | 10:44 AM - November 06, 2024 |
 | [[Macromotion.md\|Macromotion]]                   | 3:53 PM - November 05, 2024  |
 | [[Thermography.md\|Thermography]]                 | 3:53 PM - November 05, 2024  |
 | [[Micromotion.md\|Micromotion]]                   | 3:53 PM - November 05, 2024  |
-| [[Daily Notes/2024-11-04.md\|2024-11-04]]         | 3:50 PM - November 05, 2024  |
 
 %% DATAVIEW_PUBLISHER: end %%
 
