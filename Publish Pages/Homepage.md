@@ -53,7 +53,7 @@ WHERE date(file.name) = date(today) AND file.name != "Daily Notes"
 
 | File                                      | Date              |
 | ----------------------------------------- | ----------------- |
-| [[Daily Notes/2024-11-12.md\|2024-11-12]] | November 12, 2024 |
+| [[Daily Notes/2024-11-13.md\|2024-11-13]] | November 13, 2024 |
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -70,18 +70,18 @@ LIMIT 10
 ```
 %%
 
-| File                                                                                                     | Updated                     |
-| -------------------------------------------------------------------------------------------------------- | --------------------------- |
-| [[Machine Learning/Architectures/CNN/Temporal Convolutional Network.md\|Temporal Convolutional Network]] | 4:55 PM - November 12, 2024 |
-| [[Publish Pages/Homepage.md\|Homepage]]                                                                  | 4:54 PM - November 12, 2024 |
-| [[Literature Overview/Works Cited.md\|Works Cited]]                                                      | 4:54 PM - November 12, 2024 |
-| [[Daily Notes/2024-11-06.md\|2024-11-06]]                                                                | 4:54 PM - November 12, 2024 |
-| [[Daily Notes/2024-11-04.md\|2024-11-04]]                                                                | 4:54 PM - November 12, 2024 |
-| [[Daily Notes/2024-10-30.md\|2024-10-30]]                                                                | 4:54 PM - November 12, 2024 |
-| [[Daily Notes/2024-10-23.md\|2024-10-23]]                                                                | 4:54 PM - November 12, 2024 |
-| [[Daily Notes/2024-10-14.md\|2024-10-14]]                                                                | 4:54 PM - November 12, 2024 |
-| [[Daily Notes/2024-10-07.md\|2024-10-07]]                                                                | 4:54 PM - November 12, 2024 |
-| [[Daily Notes/2024-10-04.md\|2024-10-04]]                                                                | 4:54 PM - November 12, 2024 |
+| File                                                                                                     | Updated                      |
+| -------------------------------------------------------------------------------------------------------- | ---------------------------- |
+| [[Daily Notes/2024-11-13.md\|2024-11-13]]                                                                | 12:54 PM - November 13, 2024 |
+| [[Publish Pages/Homepage.md\|Homepage]]                                                                  | 4:55 PM - November 12, 2024  |
+| [[Machine Learning/Architectures/CNN/Temporal Convolutional Network.md\|Temporal Convolutional Network]] | 4:55 PM - November 12, 2024  |
+| [[Literature Overview/Works Cited.md\|Works Cited]]                                                      | 4:54 PM - November 12, 2024  |
+| [[Daily Notes/2024-11-06.md\|2024-11-06]]                                                                | 4:54 PM - November 12, 2024  |
+| [[Daily Notes/2024-11-04.md\|2024-11-04]]                                                                | 4:54 PM - November 12, 2024  |
+| [[Daily Notes/2024-10-30.md\|2024-10-30]]                                                                | 4:54 PM - November 12, 2024  |
+| [[Daily Notes/2024-10-23.md\|2024-10-23]]                                                                | 4:54 PM - November 12, 2024  |
+| [[Daily Notes/2024-10-14.md\|2024-10-14]]                                                                | 4:54 PM - November 12, 2024  |
+| [[Daily Notes/2024-10-07.md\|2024-10-07]]                                                                | 4:54 PM - November 12, 2024  |
 
 %% DATAVIEW_PUBLISHER: end %%
 
