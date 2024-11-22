@@ -53,7 +53,7 @@ WHERE date(file.name) = date(today) AND file.name != "Daily Notes"
 
 | File                                      | Date              |
 | ----------------------------------------- | ----------------- |
-| [[Daily Notes/2024-11-19.md\|2024-11-19]] | November 19, 2024 |
+| [[Daily Notes/2024-11-22.md\|2024-11-22]] | November 22, 2024 |
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -70,18 +70,18 @@ LIMIT 10
 ```
 %%
 
-| File                                        | Updated                      |
-| ------------------------------------------- | ---------------------------- |
-| [[Daily Notes/2024-11-16.md\|2024-11-16]]   | 3:23 PM - November 19, 2024  |
-| [[Daily Notes/2024-11-17.md\|2024-11-17]]   | 3:23 PM - November 19, 2024  |
-| [[Daily Notes/2024-11-15.md\|2024-11-15]]   | 3:22 PM - November 19, 2024  |
-| [[Daily Notes/2024-11-14.md\|2024-11-14]]   | 3:22 PM - November 19, 2024  |
-| [[Daily Notes/2024-11-18.md\|2024-11-18]]   | 3:22 PM - November 19, 2024  |
-| [[Daily Notes/2024-11-19.md\|2024-11-19]]   | 3:22 PM - November 19, 2024  |
-| [[Daily Notes/2024-11-13.md\|2024-11-13]]   | 2:12 PM - November 14, 2024  |
-| [[Publish Pages/Homepage.md\|Homepage]]     | 2:12 PM - November 14, 2024  |
-| [[Daily Notes/Daily Notes.md\|Daily Notes]] | 2:12 PM - November 14, 2024  |
-| [[Daily Notes/2024-11-12.md\|2024-11-12]]   | 12:54 PM - November 13, 2024 |
+| File                                                | Updated                      |
+| --------------------------------------------------- | ---------------------------- |
+| [[Daily Notes/2024-11-20.md\|2024-11-20]]           | 12:22 PM - November 22, 2024 |
+| [[Publish Pages/Homepage.md\|Homepage]]             | 12:16 PM - November 22, 2024 |
+| [[Daily Notes/2024-11-21.md\|2024-11-21]]           | 12:07 PM - November 22, 2024 |
+| [[Literature Overview/Works Cited.md\|Works Cited]] | 12:07 PM - November 22, 2024 |
+| [[Daily Notes/Daily Notes.md\|Daily Notes]]         | 12:07 PM - November 22, 2024 |
+| [[Daily Notes/2024-11-19.md\|2024-11-19]]           | 12:07 PM - November 22, 2024 |
+| [[Daily Notes/2024-11-11.md\|2024-11-11]]           | 12:07 PM - November 22, 2024 |
+| [[Daily Notes/2024-10-23.md\|2024-10-23]]           | 12:07 PM - November 22, 2024 |
+| [[Daily Notes/2024-10-14.md\|2024-10-14]]           | 12:07 PM - November 22, 2024 |
+| [[Daily Notes/2024-10-02.md\|2024-10-02]]           | 12:07 PM - November 22, 2024 |
 
 %% DATAVIEW_PUBLISHER: end %%
 

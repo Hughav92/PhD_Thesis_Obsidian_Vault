@@ -14,6 +14,9 @@ SORT date(file.name) DESC
 
 | File                                      | Day               |
 | ----------------------------------------- | ----------------- |
+| [[Daily Notes/2024-11-22.md\|2024-11-22]] | November 22, 2024 |
+| [[Daily Notes/2024-11-21.md\|2024-11-21]] | November 21, 2024 |
+| [[Daily Notes/2024-11-20.md\|2024-11-20]] | November 20, 2024 |
 | [[Daily Notes/2024-11-19.md\|2024-11-19]] | November 19, 2024 |
 | [[Daily Notes/2024-11-18.md\|2024-11-18]] | November 18, 2024 |
 | [[Daily Notes/2024-11-17.md\|2024-11-17]] | November 17, 2024 |
