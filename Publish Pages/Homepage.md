@@ -70,18 +70,18 @@ LIMIT 10
 ```
 %%
 
-| File                                                | Updated                      |
-| --------------------------------------------------- | ---------------------------- |
-| [[Daily Notes/2024-11-20.md\|2024-11-20]]           | 12:22 PM - November 22, 2024 |
-| [[Publish Pages/Homepage.md\|Homepage]]             | 12:16 PM - November 22, 2024 |
-| [[Daily Notes/2024-11-21.md\|2024-11-21]]           | 12:07 PM - November 22, 2024 |
-| [[Literature Overview/Works Cited.md\|Works Cited]] | 12:07 PM - November 22, 2024 |
-| [[Daily Notes/Daily Notes.md\|Daily Notes]]         | 12:07 PM - November 22, 2024 |
-| [[Daily Notes/2024-11-19.md\|2024-11-19]]           | 12:07 PM - November 22, 2024 |
-| [[Daily Notes/2024-11-11.md\|2024-11-11]]           | 12:07 PM - November 22, 2024 |
-| [[Daily Notes/2024-10-23.md\|2024-10-23]]           | 12:07 PM - November 22, 2024 |
-| [[Daily Notes/2024-10-14.md\|2024-10-14]]           | 12:07 PM - November 22, 2024 |
-| [[Daily Notes/2024-10-02.md\|2024-10-02]]           | 12:07 PM - November 22, 2024 |
+| File                                                                   | Updated                      |
+| ---------------------------------------------------------------------- | ---------------------------- |
+| [[Daily Notes/2024-11-19.md\|2024-11-19]]                              | 3:29 PM - November 22, 2024  |
+| [[Daily Notes/2024-11-21.md\|2024-11-21]]                              | 3:27 PM - November 22, 2024  |
+| [[Publish Pages/Homepage.md\|Homepage]]                                | 3:27 PM - November 22, 2024  |
+| [[Daily Notes/2024-11-08.md\|2024-11-08]]                              | 3:24 PM - November 22, 2024  |
+| [[Daily Notes/2024-11-05.md\|2024-11-05]]                              | 3:24 PM - November 22, 2024  |
+| [[Daily Notes/2024-11-04.md\|2024-11-04]]                              | 3:24 PM - November 22, 2024  |
+| [[Literature Notes/@dastonObjectivity2021.md\|@dastonObjectivity2021]] | 3:21 PM - November 22, 2024  |
+| [[Daily Notes/2024-11-18.md\|2024-11-18]]                              | 3:19 PM - November 22, 2024  |
+| [[Daily Notes/2024-11-15.md\|2024-11-15]]                              | 3:06 PM - November 22, 2024  |
+| [[Daily Notes/2024-11-20.md\|2024-11-20]]                              | 12:22 PM - November 22, 2024 |
 
 %% DATAVIEW_PUBLISHER: end %%
 
