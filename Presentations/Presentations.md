@@ -2,6 +2,8 @@
 
 This note contains an overview of presentations that I have prepared. My general method involves preparing an outline of slides and keywords, after which I prepare a script for the presentation. Based upon this script, I then prepare slides the slides which correspond to sections of the script. This can be quite non-linear, however each presentation page shows these as separate sections. For some venues, however, I just prepare slides and talk freely based upon these.
 
+The slides are embedded as PDF files for each presentation. In some browsers (e.g. Firefox) this means that the pdf file might not display correctly and download automatically. In other browsers (e.g. Edge) the PDF files are displayed.
+
 
 %% DATAVIEW_PUBLISHER: start
 ```dataview

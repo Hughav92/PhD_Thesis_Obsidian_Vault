@@ -65,4 +65,4 @@ Thank you!
 # Slides
 
 
-
+![[2024-12-03-Largo-2024-Slide-1.pdf]]
