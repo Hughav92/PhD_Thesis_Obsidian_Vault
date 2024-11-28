@@ -50,6 +50,18 @@ Therefore, my project aims to develop a methodological and conceptual framework 
 
 Thank you!
 
+### Draft 2
+
+My name is Hugh von Arnim and I have recently started my PhD at RITMO. My project, titled *Data Fusion for the Analysis of Multimodal Musicking Datasets*, is based upon two current trends in music research.
+
+First, research on musicking events is incredibly interdisciplinary and second, this research is increasingly based upon large, multimodal datasets collected from a diverse range of sensing devices. Analysing these datasets often requires drawing upon methods which fuse the individual data modalities into joint representations.
+
+However, various disciplines approach this process quite differently, varying in analytical methods, broader methodological approaches, and theoretical perspectives which link information extracted from data to measured constructs. This can create challenges for inter- and cross-disciplinary collaboration.
+
+My project aims to develop a methodological and conceptual framework for the analysis of multimodal musicking datasets to aid in collaborative work. Specifically, I focus on how spatial and temporal information is represented and extracted across data modalities, how fused representations are constructed, and how this information is linked to measured constructs.
+
+Thank you!
+
 # Slides
 
 
