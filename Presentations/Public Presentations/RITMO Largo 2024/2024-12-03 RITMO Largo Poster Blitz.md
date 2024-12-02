@@ -62,6 +62,36 @@ My project aims to develop a methodological and conceptual framework for the ana
 
 Thank you!
 
+### Keywords
+
+#### Paragraph 1
+
+- *Data Fusion for the Analysis of Multimodal Datasets*
+- Two current trends in music research
+
+#### Paragraph 2
+
+- First, interdisciplinary
+- Second, based upon large multimodal datasets
+- Analysis ... methods which fuse the individual data modalities into joint representations
+
+#### Paragraph 3
+
+ - Various disciplines approach this process quite differently
+ - Analytical methods
+ - Broader methodological approaches
+ - Theoretical perspectives
+ - Link information extracted from data to measured constructs
+ - Challenges for inter- and cross-disciplinary collaboration
+
+#### Paragraph 4
+
+- Aims to develop a methodological and conceptual framework
+- To aid in collaborative work
+- Focus on how spatial and temporal information is represented and extracted across data modalities
+- How fused representations are constructed
+- How this information is linked to measured construct
+
 # Slides
 
 
