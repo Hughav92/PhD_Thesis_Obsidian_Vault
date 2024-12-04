@@ -2,7 +2,7 @@
 
 ---
 category:: literaturenote
-tags:: Artificial Intelligence, unread, Ambitious Objective, Artificial Intelligence Research, Humanoid Robot, Step Stone
+tags:: Artificial Intelligence, read, Ambitious Objective, Artificial Intelligence Research, Humanoid Robot, Step Stone
 citekey:: stanleyCaseStudy22015
 status:: read
 reference:: Stanley, K. O., & Lehman, J. (2015). ‘Case Study 2: Objectives and the Quest for AI’. Stanley K. O. & Lehman J. (eds) _Why Greatness Cannot Be Planned: The Myth of the Objective_, pp. 119–35. Springer International Publishing: Cham. DOI: [10.1007/978-3-319-15524-1_11](https://doi.org/10.1007/978-3-319-15524-1_11)
@@ -12,7 +12,7 @@ dateread:
 > [!Cite]
 > Stanley, K. O., & Lehman, J. (2015). ‘Case Study 2: Objectives and the Quest for AI’. Stanley K. O. & Lehman J. (eds) _Why Greatness Cannot Be Planned: The Myth of the Objective_, pp. 119–35. Springer International Publishing: Cham. DOI: [10.1007/978-3-319-15524-1_11](https://doi.org/10.1007/978-3-319-15524-1_11)
 
-^0b68d7
+^796e46
 
 >[!Synth]
 >**Contribution**:: 
@@ -54,4 +54,4 @@ dateread:
 
 %% end annotations %%
 
-%% Import Date: 2024-11-29T18:47:45.251+01:00 %%
+%% Import Date: 2024-12-04T16:55:21.236+01:00 %%

@@ -4,7 +4,7 @@
 category:: literaturenote
 tags:: {% if allTags %}{{allTags}}{% endif %}
 citekey:: {{citekey}}
-status:: unread
+status:: {% if "read" in allTags %}{{"read"}}{% else %}{{"unread"}}{% endif %}
 reference:: {{bibliography}}
 dateread:
 ---
