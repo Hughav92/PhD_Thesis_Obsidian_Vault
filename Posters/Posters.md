@@ -18,6 +18,6 @@ SORT year DESC
 
 | File                                                                                    | Title             | Venue                                 | Date              | Poster                                 |
 | --------------------------------------------------------------------------------------- | ----------------- | ------------------------------------- | ----------------- | -------------------------------------- |
-| [[Posters/RITMO Largo/2024-12-03 RITMO Largo Poster.md\|2024-12-03 RITMO Largo Poster]] | Poster Largo 2024 | RITMO Largo 2024, RITMO, Oslo, Norway | December 03, 2024 | ![[Images/poster_largo_2024.png\|200]] |
+| [[Posters/RITMO Largo/2024-12-03 RITMO Largo Poster.md\|2024-12-03 RITMO Largo Poster]] | Poster Largo 2024 | RITMO Largo 2024, RITMO, Oslo, Norway | December 03, 2024 | ![[poster_largo_2024.png\|200]] |
 
 %% DATAVIEW_PUBLISHER: end %%
