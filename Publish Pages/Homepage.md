@@ -53,7 +53,7 @@ WHERE date(file.name) = date(today) AND file.name != "Daily Notes"
 
 | File                                      | Date              |
 | ----------------------------------------- | ----------------- |
-| [[Daily Notes/2024-12-04.md\|2024-12-04]] | December 04, 2024 |
+| [[Daily Notes/2024-12-05.md\|2024-12-05]] | December 05, 2024 |
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -70,18 +70,18 @@ LIMIT 10
 ```
 %%
 
-| File                                                                                    | Updated                     |
-| --------------------------------------------------------------------------------------- | --------------------------- |
-| [[Publish Pages/Homepage.md\|Homepage]]                                                 | 6:02 PM - December 04, 2024 |
-| [[Literature Overview/All.md\|All]]                                                     | 5:59 PM - December 04, 2024 |
-| [[Literature Notes/@lahatMultimodalDataFusion2015.md\|@lahatMultimodalDataFusion2015]]  | 5:56 PM - December 04, 2024 |
-| [[Literature Notes/@stanleyCaseStudy22015.md\|@stanleyCaseStudy22015]]                  | 5:51 PM - December 04, 2024 |
-| [[Daily Notes/2024-11-29.md\|2024-11-29]]                                               | 5:44 PM - December 04, 2024 |
-| [[Daily Notes/2024-12-04.md\|2024-12-04]]                                               | 5:33 PM - December 04, 2024 |
-| [[Daily Notes/2024-12-03.md\|2024-12-03]]                                               | 5:19 PM - December 04, 2024 |
-| [[Posters/Posters.md\|Posters]]                                                         | 5:17 PM - December 04, 2024 |
-| [[Posters/RITMO Largo/2024-12-03 RITMO Largo Poster.md\|2024-12-03 RITMO Largo Poster]] | 5:17 PM - December 04, 2024 |
-| [[Daily Notes/Daily Notes.md\|Daily Notes]]                                             | 5:15 PM - December 04, 2024 |
+| File                                                                                   | Updated                      |
+| -------------------------------------------------------------------------------------- | ---------------------------- |
+| [[Frameworks/Frameworks.md\|Frameworks]]                                               | 1:10 PM - December 05, 2024  |
+| [[MIR Toolbox.md\|MIR Toolbox]]                                                        | 1:10 PM - December 05, 2024  |
+| [[Literature Notes/@xkcdStandards.md\|@xkcdStandards]]                                 | 1:09 PM - December 05, 2024  |
+| [[Posters/Posters.md\|Posters]]                                                        | 1:05 PM - December 05, 2024  |
+| [[Daily Notes/2024-12-05.md\|2024-12-05]]                                              | 10:26 AM - December 05, 2024 |
+| [[Publish Pages/Homepage.md\|Homepage]]                                                | 6:02 PM - December 04, 2024  |
+| [[Literature Overview/All.md\|All]]                                                    | 5:59 PM - December 04, 2024  |
+| [[Literature Notes/@lahatMultimodalDataFusion2015.md\|@lahatMultimodalDataFusion2015]] | 5:56 PM - December 04, 2024  |
+| [[Literature Notes/@stanleyCaseStudy22015.md\|@stanleyCaseStudy22015]]                 | 5:51 PM - December 04, 2024  |
+| [[Daily Notes/2024-11-29.md\|2024-11-29]]                                              | 5:44 PM - December 04, 2024  |
 
 %% DATAVIEW_PUBLISHER: end %%
 
