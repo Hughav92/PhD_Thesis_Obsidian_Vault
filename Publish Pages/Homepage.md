@@ -70,18 +70,18 @@ LIMIT 10
 ```
 %%
 
-| File                                                                                                                                                                                                               | Updated                     |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------- |
-| [[Daily Notes/2024-12-04.md\|2024-12-04]]                                                                                                                                                                          | 5:33 PM - December 04, 2024 |
-| [[Publish Pages/Homepage.md\|Homepage]]                                                                                                                                                                            | 5:32 PM - December 04, 2024 |
-| [[Daily Notes/2024-12-03.md\|2024-12-03]]                                                                                                                                                                          | 5:19 PM - December 04, 2024 |
-| [[Posters/Posters.md\|Posters]]                                                                                                                                                                                    | 5:17 PM - December 04, 2024 |
-| [[Posters/RITMO Largo/2024-12-03 RITMO Largo Poster.md\|2024-12-03 RITMO Largo Poster]]                                                                                                                            | 5:17 PM - December 04, 2024 |
-| [[Daily Notes/Daily Notes.md\|Daily Notes]]                                                                                                                                                                        | 5:15 PM - December 04, 2024 |
-| [[Literature Overview/All.md\|All]]                                                                                                                                                                                | 5:15 PM - December 04, 2024 |
-| [[Daily Notes/2024-11-20.md\|2024-11-20]]                                                                                                                                                                          | 5:08 PM - December 04, 2024 |
-| [[Literature Notes/@stanleyCaseStudy22015.md\|@stanleyCaseStudy22015]]                                                                                                                                             | 5:08 PM - December 04, 2024 |
-| [[Conferences/International Workshop on the Aesthetics of Ventilation Sound 2024/International Workshop on the Aesthetics of Ventilation Sound.md\|International Workshop on the Aesthetics of Ventilation Sound]] | 4:59 PM - December 04, 2024 |
+| File                                                                                    | Updated                     |
+| --------------------------------------------------------------------------------------- | --------------------------- |
+| [[Publish Pages/Homepage.md\|Homepage]]                                                 | 6:02 PM - December 04, 2024 |
+| [[Literature Overview/All.md\|All]]                                                     | 5:59 PM - December 04, 2024 |
+| [[Literature Notes/@lahatMultimodalDataFusion2015.md\|@lahatMultimodalDataFusion2015]]  | 5:56 PM - December 04, 2024 |
+| [[Literature Notes/@stanleyCaseStudy22015.md\|@stanleyCaseStudy22015]]                  | 5:51 PM - December 04, 2024 |
+| [[Daily Notes/2024-11-29.md\|2024-11-29]]                                               | 5:44 PM - December 04, 2024 |
+| [[Daily Notes/2024-12-04.md\|2024-12-04]]                                               | 5:33 PM - December 04, 2024 |
+| [[Daily Notes/2024-12-03.md\|2024-12-03]]                                               | 5:19 PM - December 04, 2024 |
+| [[Posters/Posters.md\|Posters]]                                                         | 5:17 PM - December 04, 2024 |
+| [[Posters/RITMO Largo/2024-12-03 RITMO Largo Poster.md\|2024-12-03 RITMO Largo Poster]] | 5:17 PM - December 04, 2024 |
+| [[Daily Notes/Daily Notes.md\|Daily Notes]]                                             | 5:15 PM - December 04, 2024 |
 
 %% DATAVIEW_PUBLISHER: end %%
 

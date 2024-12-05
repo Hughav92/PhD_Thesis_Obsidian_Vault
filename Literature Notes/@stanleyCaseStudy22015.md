@@ -15,15 +15,16 @@ dateread:
 ^796e46
 
 >[!Synth]
->**Contribution**:: 
+>**Contribution**:: In this chapter, Stanley and Lehman discuss the constraints of framing AI research in terms of objectives and aims. They describe AI research as a form of "Meta-Search", i.e. that the field of AI research is concerned with developing algorithms that search and that the research is a form of searching for these. Through framing this in terms of evaluation metrics, large areas of the search space are ignored if the initial stepping stones do not show better results than the current state of the art. This is a particular problem in terms of peer-review, in which papers proposing novel algorithms that perform worse than the current state-of-the-art are rejected and are therefore not disseminated to the wider research community. The authors propose a novel form of peer-review, in which reviewers are not allowed to consider results in their decisions. Instead, they are only allowed to consider the novelty of the work.
 >
 >**Related**:: 
 >
 
 >[!md]
 > **FirstAuthor**:: Stanley, Kenneth O.  
-> **Author**:: Lehman, Joel  
-~> **FirstEditor**:: Stanley, Kenneth O.  
+> **Author**:: Lehman, Joel
+~
+**FirstEditor**:: Stanley, Kenneth O.  
 > **Editor**:: Lehman, Joel  
 ~    
 > **Title**:: Case Study 2: Objectives and the Quest for AI  
