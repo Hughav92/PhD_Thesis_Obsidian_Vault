@@ -12,6 +12,8 @@ dateread:
 > [!Cite]
 > xkcd. (n.d.). ‘Standards’. _xkcd_. Retrieved December 5, 2024, from <[https://xkcd.com/927/](https://xkcd.com/927/)>
 
+^cite
+
 >[!Synth]
 >**Contribution**:: 
 >

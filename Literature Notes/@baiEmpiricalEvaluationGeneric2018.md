@@ -12,7 +12,7 @@ dateread:
 > [!Cite]
 > Bai, S., Kolter, J. Z., & Koltun, V. (2018). ‘An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling’. arXiv.
 
-^d265b9
+^cite
 
 >[!Synth]
 >**Contribution**:: 

@@ -12,7 +12,7 @@ dateread:
 > [!Cite]
 > Lossio-Ventura, J. A., Jonquet, C., Roche, M., & Teisseire, M. (2013). ‘Combining c-value and keyword extraction methods for biomedical terms extraction’. _LBM’2013: International symposium on languages in biology and medicine_, pp. 45–9. Presented at the LBM: languages in biology and medicine.
 
-^5e30eb
+^cite
 
 >[!Synth]
 >**Contribution**:: 

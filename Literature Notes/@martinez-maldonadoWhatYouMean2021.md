@@ -12,7 +12,7 @@ dateread:
 > [!Cite]
 > Martinez-Maldonado, R., Gašević, D., Echeverria, V., Nieto, G. F., Swiecki, Z., & Shum, S. B. (2021). ‘What Do You Mean by Collaboration Analytics? A Conceptual Model’, _Journal of Learning Analytics_, 8/1: 126–53. DOI: [10.18608/jla.2021.7227](https://doi.org/10.18608/jla.2021.7227)
 
-^0ab7af
+^cite
 
 >[!Synth]
 >**Contribution**:: 

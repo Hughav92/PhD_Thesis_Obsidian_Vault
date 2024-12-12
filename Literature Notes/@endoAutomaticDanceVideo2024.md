@@ -12,12 +12,14 @@ dateread:
 > [!Cite]
 > Endo, K., Tsuchida, S., Fukusato, T., & Igarashi, T. (2024). ‘Automatic Dance Video Segmentation for Understanding Choreography’. _Proceedings of the 9th International Conference on Movement and Computing_, pp. 1–9. Presented at the MOCO ’24: 9th International Conference on Movement and Computing, May 30, Utrecht Netherlands: ACM. DOI: [10.1145/3658852.3659076](https://doi.org/10.1145/3658852.3659076)
 
+^cite
+
 >[!Synth]
 >**Contribution**:: The main contribution of this paper is an automated system for the segmentation of audiovisual dance recordings corresponding to individual dance moves. This is achieved through the use of a [[Temporal Convolutional Network|TCN]], which is passed a [[Multimodality|multimodal]] feature vector consisting of extracted bone vectors from the [[Digital Video Signal|video]] and [[Mel Spectrogram|mel spectrogram]] for the corresponding frame from the [[Digital Audio Signal|audio]]. The model performed with an [[F1-Score]] of 0.797, which the authors claim shows an accuracy of approximately 80%. However, the model performed a lot better on certain genres and classes of dance video than others. Through an [[Ablation Study|ablation study]], they show that the [[Multimodal Machine Learning|multimodal modal]] performs [[Statistical Significance|statistically significantly]] better than the audio or video model alone. In addition they prepare a subset of the [[AIST Dance Video Database]] [[@tsuchidaAISTDanceVideo2019]] with annotations of the segmentation points between individual dance moves, as annotated by 21 annotators including the first author. Finally, they contribute a standalone application that annotates an imported video, although at time of writing, this has not yet been made publicly available.
 >
 >**Related**::
->![[@tsuchidaAISTDanceVideo2019#^05257c]]
->![[@baiEmpiricalEvaluationGeneric2018#^d265b9]]
+>![[@tsuchidaAISTDanceVideo2019#^cite]]
+>![[@baiEmpiricalEvaluationGeneric2018#^cite]]
 
 
 

@@ -12,7 +12,7 @@ dateread:
 > [!Cite]
 > Evans, D. A., & Lefferts, R. G. (1995). ‘CLARIT-TREC experiments’, _Information processing & management_, 31/3: 385–95. OXFORD: OXFORD: Elsevier Ltd. DOI: [10.1016/0306-4573(94)00054-7](https://doi.org/10.1016/0306-4573(94)00054-7)
 
-^1a4cc3
+^cite
 
 >[!Synth]
 >**Contribution**:: 

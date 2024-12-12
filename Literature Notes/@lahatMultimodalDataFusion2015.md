@@ -12,6 +12,8 @@ dateread:
 > [!Cite]
 > Lahat, D., Adali, T., & Jutten, C. (2015). ‘Multimodal data fusion: An overview of methods, challenges, and prospects’, _Proceedings of the IEEE_, 103/9: 1449–77. DOI: [10.1109/JPROC.2015.2460697](https://doi.org/10.1109/JPROC.2015.2460697)
 
+^cite
+
 >[!Synth]
 >**Contribution**:: 
 >

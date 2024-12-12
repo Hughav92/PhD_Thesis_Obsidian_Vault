@@ -12,7 +12,7 @@ dateread:
 > [!Cite]
 > Park, Y., Byrd, R. J., & Boguraev, B. (2002). ‘Automatic glossary extraction: Beyond terminology identification.’ _Proceedings of the 19th international conference on computational linguistics_, Vol. 10, pp. 1–7. Presented at the COLING, Association for Computational Linguistics.
 
-^3da2ba
+^cite
 
 >[!Synth]
 >**Contribution**:: 

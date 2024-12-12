@@ -11,6 +11,7 @@ dateread:
 
 > [!Cite]
 > Atrey, P. K., Hossain, M. A., El Saddik, A., & Kankanhalli, M. S. (2010). ‘Multimodal fusion for multimedia analysis: a survey’, _Multimedia Systems_, 16/6: 345–79. DOI: [10.1007/s00530-010-0182-0](https://doi.org/10.1007/s00530-010-0182-0)
+^cite
 
 >[!Synth]
 >**Contribution**:: 
