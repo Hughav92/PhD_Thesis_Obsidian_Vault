@@ -14,10 +14,13 @@ dateread:
 ^cite
 
 >[!Synth]
+>%% begin synth %%
+>
 >**Contribution**:: 
 >
->**Related**:: 
-
+>**Related**::  
+>
+>%% end synth %%
 
 >[!md]
 > **FirstAuthor**:: Daston, Lorraine  
@@ -158,7 +161,8 @@ As Daston and Galison argue, atlases shape the subjects as well as the objects o
 >**1965:** Gerhart S. Schwarz and Charles R. Golthamer publish _Radiographic Atlas of the Human Skull_, embracing both mechanical reproduction and expert judgment in creating composite images.
 >
 >**Late 20th-early 21st century:** The rise of nanotechnology and digital imaging techniques blurs the lines between representation and presentation, shifting scientific focus from depicting reality to manipulating it.
-
+>
+>This note was generated with the aid of [Notebook LM](https://notebooklm.google/) to help keep an overview while reading.
 
 %% end notes %%
 
@@ -170,4 +174,4 @@ As Daston and Galison argue, atlases shape the subjects as well as the objects o
 %% end annotations %%
 
 
-%% Import Date: 2024-12-12T18:25:07.994+01:00 %%
+%% Import Date: 2024-12-12T18:36:16.279+01:00 %%

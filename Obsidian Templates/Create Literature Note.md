@@ -18,10 +18,8 @@ dateread:
 >
 >**Contribution**:: 
 >
->**Related**::  {% endif %}{% for relation in relations | selectattr("citekey") %} [[@{{relation.citekey}}]]{% if not loop.last %}, {% endif%} {% endfor %}
->{% endpersist %}
-
-
+>**Related**::  {% for relation in relations | selectattr("citekey") %} [[@{{relation.citekey}}]]{% if not loop.last %}, {% endif%} {% endfor %}
+>{% endif %}{% endpersist %}
 
 >[!md]
 {% for type, creators in creators | groupby("creatorType") -%}
@@ -66,15 +64,26 @@ dateread:
 
 
 # Annotations
+{%- macro calloutHeader(type, color) -%}  
+{%- if type == "highlight" -%}  
+<mark style="background-color: {{color}}">Quote</mark>  
+{%- endif -%}
+
+{%- if type == "text" -%}  
+Note  
+{%- endif -%}  
+{%- endmacro -%}
+
 {% persist "annotations" %}
 {% set newAnnotations = annotations | filterby("date", "dateafter", lastImportDate) %}
 {% if newAnnotations.length > 0 %}
 
 ### Imported: {{importDate | format("YYYY-MM-DD h:mm a")}}
 
+
 {% for a in newAnnotations %}
 {{calloutHeader(a.type, a.color)}}
-{{a.annotatedText}}
+> {{a.annotatedText}}
 {% endfor %}
 {% endif %}
 {% endpersist %}

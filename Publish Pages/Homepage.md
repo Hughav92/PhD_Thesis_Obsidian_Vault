@@ -70,18 +70,18 @@ LIMIT 10
 ```
 %%
 
-| File                                          | Updated                     |
-| --------------------------------------------- | --------------------------- |
-| [[Daily Notes/2024-12-12.md\|2024-12-12]]     | 5:02 PM - December 12, 2024 |
-| [[Daily Notes/2024-12-11.md\|2024-12-11]]     | 4:59 PM - December 12, 2024 |
-| [[Max-MSP.md\|Max-MSP]]                       | 4:56 PM - December 12, 2024 |
-| [[Open Sound Control.md\|Open Sound Control]] | 4:56 PM - December 12, 2024 |
-| [[Daily Notes/2024-12-10.md\|2024-12-10]]     | 4:45 PM - December 12, 2024 |
-| [[Publish Pages/Homepage.md\|Homepage]]       | 4:45 PM - December 12, 2024 |
-| [[Daily Notes/2024-12-07.md\|2024-12-07]]     | 4:38 PM - December 12, 2024 |
-| [[Daily Notes/2024-12-08.md\|2024-12-08]]     | 4:38 PM - December 12, 2024 |
-| [[Daily Notes/2024-12-09.md\|2024-12-09]]     | 4:38 PM - December 12, 2024 |
-| [[Daily Notes/2024-12-06.md\|2024-12-06]]     | 4:38 PM - December 12, 2024 |
+| File                                                                   | Updated                     |
+| ---------------------------------------------------------------------- | --------------------------- |
+| [[Literature Notes/@dastonObjectivity2021.md\|@dastonObjectivity2021]] | 6:44 PM - December 12, 2024 |
+| [[Daily Notes/2024-12-12.md\|2024-12-12]]                              | 6:43 PM - December 12, 2024 |
+| [[Daily Notes/2024-12-09.md\|2024-12-09]]                              | 6:43 PM - December 12, 2024 |
+| [[Daily Notes/2024-12-06.md\|2024-12-06]]                              | 6:43 PM - December 12, 2024 |
+| [[Daily Notes/2024-12-04.md\|2024-12-04]]                              | 6:43 PM - December 12, 2024 |
+| [[Daily Notes/2024-11-28.md\|2024-11-28]]                              | 6:43 PM - December 12, 2024 |
+| [[Daily Notes/2024-11-19.md\|2024-11-19]]                              | 6:43 PM - December 12, 2024 |
+| [[Daily Notes/2024-11-11.md\|2024-11-11]]                              | 6:43 PM - December 12, 2024 |
+| [[Daily Notes/2024-11-04.md\|2024-11-04]]                              | 6:43 PM - December 12, 2024 |
+| [[Daily Notes/2024-10-30.md\|2024-10-30]]                              | 6:43 PM - December 12, 2024 |
 
 %% DATAVIEW_PUBLISHER: end %%
 
