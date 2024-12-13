@@ -2,8 +2,7 @@
 
 ---
 category:: literaturenote
-tags:: learning design, read
-citekey:: martinez-maldonadoWhatYouMean2021
+tags:: #learning-design #read 
 status:: read 
 reference:: Martinez-Maldonado, R., Gašević, D., Echeverria, V., Nieto, G. F., Swiecki, Z., & Shum, S. B. (2021). ‘What Do You Mean by Collaboration Analytics? A Conceptual Model’, _Journal of Learning Analytics_, 8/1: 126–53. DOI: [10.18608/jla.2021.7227](https://doi.org/10.18608/jla.2021.7227)
 dateread:
@@ -59,4 +58,4 @@ dateread:
 
 %% end annotations %%
 
-%% Import Date: 2024-12-13T12:52:40.460+01:00 %%
+%% Import Date: 2024-12-13T13:22:06.402+01:00 %%

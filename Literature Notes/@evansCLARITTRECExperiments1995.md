@@ -2,16 +2,14 @@
 
 ---
 category:: literaturenote
-tags:: unread Exact sciences and technology, Science & Technology, Technology, Computer Science, CLARIT, Computer Science, Information Systems, Experiments, Information and communication sciences, Information retrieval, Information retrieval systems, Information retrieval systems. Information and document management system, Information Science & Library Science, Information science. Documentation, Information systems, Natural language processing, Query formulation, Sciences and techniques of general use, Studies
-citekey:: evansCLARITTRECExperiments1995
-status:: unread
+tags:: #Exact-sciences-and-technology #Science-and-Technology #Technology #Computer-Science #CLARIT #Computer-Science #Information-Systems #Experiments #Information-and-communication-sciences #Information-retrieval #Information-retrieval-systems #Information-retrieval-systems-Information-and-document-management-system #Information-Science-and-Library-Science #Information-science-Documentation #Information-systems #Natural-language-processing #Query-formulation #Sciences-and-techniques-of-general-use #Studies #unread 
+status:: unread 
 reference:: Evans, D. A., & Lefferts, R. G. (1995). ‘CLARIT-TREC experiments’, _Information processing & management_, 31/3: 385–95. OXFORD: OXFORD: Elsevier Ltd. DOI: [10.1016/0306-4573(94)00054-7](https://doi.org/10.1016/0306-4573(94)00054-7)
 dateread:
 ---
 
 > [!Cite]
 > Evans, D. A., & Lefferts, R. G. (1995). ‘CLARIT-TREC experiments’, _Information processing & management_, 31/3: 385–95. OXFORD: OXFORD: Elsevier Ltd. DOI: [10.1016/0306-4573(94)00054-7](https://doi.org/10.1016/0306-4573(94)00054-7)
-
 ^cite
 
 >[!Synth]
@@ -57,4 +55,4 @@ dateread:
 
 %% end annotations %%
 
-%% Import Date: 2024-09-24T12:16:24.071+02:00 %%
+%% Import Date: 2024-12-13T13:18:50.875+01:00 %%

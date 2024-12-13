@@ -2,16 +2,14 @@
 
 ---
 category:: literaturenote
-tags:: 
-citekey:: xkcdStandards
-status:: unread
+tags:: #read 
+status:: read 
 reference:: xkcd. (n.d.). ‘Standards’. _xkcd_. Retrieved December 5, 2024, from <[https://xkcd.com/927/](https://xkcd.com/927/)>
 dateread:
 ---
 
 > [!Cite]
 > xkcd. (n.d.). ‘Standards’. _xkcd_. Retrieved December 5, 2024, from <[https://xkcd.com/927/](https://xkcd.com/927/)>
-
 ^cite
 
 >[!Synth]
@@ -48,4 +46,17 @@ dateread:
 
 %% end annotations %%
 
-%% Import Date: 2024-12-05T13:09:29.795+01:00 %%
+
+
+
+
+
+
+
+
+![[standards_2x.png]]
+
+
+
+
+%% Import Date: 2024-12-13T13:52:02.863+01:00 %%

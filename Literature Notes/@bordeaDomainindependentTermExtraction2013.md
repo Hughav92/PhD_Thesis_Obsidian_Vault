@@ -2,7 +2,7 @@
 
 ---
 category:: literaturenote
-tags:: unread
+tags:: #unread
 citekey:: bordeaDomainindependentTermExtraction2013
 status:: unread
 reference:: Bordea, G., Buitelaar, P., & Polajnar, T. (2013). ‘Domain-independent term extraction through domain modelling’. _TIA 2013-10th International Conference on Terminology and Artificial Intelligence_. Presented at the TIA 2013-10th International Conference on Terminology and Artificial Intelligence.

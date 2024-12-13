@@ -2,8 +2,7 @@
 
 ---
 category:: literaturenote
-tags:: unread
-citekey:: feyerabendMethod2010
+tags:: #unread 
 status:: unread 
 reference:: Feyerabend, P. (2010). _Against method_., 4. ed., new ed. London: Verso.
 dateread:
@@ -50,4 +49,4 @@ dateread:
 
 %% end annotations %%
 
-%% Import Date: 2024-12-13T12:52:04.981+01:00 %%
+%% Import Date: 2024-12-13T13:19:20.992+01:00 %%

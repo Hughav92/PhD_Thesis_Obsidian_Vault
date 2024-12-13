@@ -2,8 +2,7 @@
 
 ---
 category:: literaturenote
-tags:: {% if allTags %}{{allTags}}{% endif %}
-citekey:: {{citekey}}
+tags:: {% set tags = allTags.split(',') %}{% for tag in tags %}#{{tag|trim|replace(" ", "-")|replace(".","")|replace("&", "and")}} {% endfor %}
 status:: {% if allTags %}{% if "read" in allTags and "unread" not in allTags %}{{"read"}}{% else %}{{"unread"}}{% endif %} {% else %}{{"unread"}}{% endif %}
 reference:: {{bibliography}}
 dateread:
@@ -87,3 +86,13 @@ Note
 {% endfor %}
 {% endif %}
 {% endpersist %}
+
+
+{% if attachments %}
+{% for attachment in attachments %}{% set ext = attachment.path.split('.')|last %}
+{% if ext in ['png', 'jpg', 'jpeg', 'svg', 'gif'] %}
+# Images
+![[{{attachment.title}}.{{ext}}]]
+{% endif %}
+{% endfor %}
+{% endif %}

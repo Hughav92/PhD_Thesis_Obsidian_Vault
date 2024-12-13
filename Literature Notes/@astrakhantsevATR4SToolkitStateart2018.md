@@ -2,9 +2,8 @@
 
 ---
 category:: literaturenote
-tags:: read
-citekey:: astrakhantsevATR4SToolkitStateart2018
-status:: read
+tags:: #read 
+status:: read 
 reference:: Astrakhantsev, N. (2018). ‘ATR4S: toolkit with state-of-the-art automatic terms recognition methods in Scala’, _Language Resources and Evaluation_, 52/3: 853–72. DOI: [10.1007/s10579-017-9409-4](https://doi.org/10.1007/s10579-017-9409-4)
 dateread:
 ---
@@ -62,18 +61,13 @@ dateread:
 # Notes
 
 %% begin notes %%
-># Annotations  
-(24/09/2024, 10:23:56)
-
-[Go to annotation](zotero://open-pdf/library/items/UPF8HZH6?page=854&annotation=679B4ZJQ) “Automatic terminology recognition (ATR) aims at extraction of terms—words and collocations designating domain-specific concepts—from a collection of text documents belonging to that domain.” ([Astrakhantsev, 2018, p. 854](zotero://select/library/items/YPFDJJKB)) Definition of Automatic Terminology Recognition (ATR).
-
-[Go to annotation](zotero://open-pdf/library/items/UPF8HZH6?page=855&annotation=6YNVB2YI) “Finally, the most recent survey by Astrakhantsev et al. (2015) identified the general pipeline of ATR methods: preprocessing, term candidates collection, term candidate scoring, and term candidate ranking.” ([Astrakhantsev, 2018, p. 855](zotero://select/library/items/YPFDJJKB)) Description of general pipeline of ATR methods..
 # Annotations  
 (24/09/2024, 10:23:56)
 
 [Go to annotation](zotero://open-pdf/library/items/UPF8HZH6?page=854&annotation=679B4ZJQ) “Automatic terminology recognition (ATR) aims at extraction of terms—words and collocations designating domain-specific concepts—from a collection of text documents belonging to that domain.” ([Astrakhantsev, 2018, p. 854](zotero://select/library/items/YPFDJJKB)) Definition of Automatic Terminology Recognition (ATR).
 
 [Go to annotation](zotero://open-pdf/library/items/UPF8HZH6?page=855&annotation=6YNVB2YI) “Finally, the most recent survey by Astrakhantsev et al. (2015) identified the general pipeline of ATR methods: preprocessing, term candidates collection, term candidate scoring, and term candidate ranking.” ([Astrakhantsev, 2018, p. 855](zotero://select/library/items/YPFDJJKB)) Description of general pipeline of ATR methods.
+
 %% end notes %%
 
 
@@ -163,6 +157,7 @@ dateread:
 > Relevance (Pen˜as et al. 2001) further updates it by taking into account fraction of documents, where term candidate occur: RelevanceðtÞ ¼ 1 � log2 2 þ NTFtargetðtÞ � DFtargetðtÞ � � ðÞ � NTFreferenceðtÞ � � � � �� ð9Þ
 
 
+
 %% end annotations %%
 
-%% Import Date: 2024-12-12T18:42:25.199+01:00 %%
+%% Import Date: 2024-12-13T13:11:22.392+01:00 %%

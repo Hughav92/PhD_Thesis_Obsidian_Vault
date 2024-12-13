@@ -2,16 +2,14 @@
 
 ---
 category:: literaturenote
-tags:: unread term extraction, termhood, topic model
-citekey:: liNovelTopicModel2013
-status:: unread
+tags:: #term-extraction #termhood #topic-model #unread 
+status:: unread 
 reference:: Li, S., Li, J., Song, T., Li, W., & Chang, B. (2013). ‘A novel topic model for automatic term extraction’. _Proceedings of the 36th international ACM SIGIR conference on research and development in information retrieval_, Sigir ’13, pp. 885–8. New York, NY, USA: Association for Computing Machinery. DOI: [10.1145/2484028.2484106](https://doi.org/10.1145/2484028.2484106)
 dateread:
 ---
 
 > [!Cite]
 > Li, S., Li, J., Song, T., Li, W., & Chang, B. (2013). ‘A novel topic model for automatic term extraction’. _Proceedings of the 36th international ACM SIGIR conference on research and development in information retrieval_, Sigir ’13, pp. 885–8. New York, NY, USA: Association for Computing Machinery. DOI: [10.1145/2484028.2484106](https://doi.org/10.1145/2484028.2484106)
-
 ^cite
 
 >[!Synth]
@@ -60,4 +58,4 @@ dateread:
 
 %% end annotations %%
 
-%% Import Date: 2024-10-02T15:57:34.271+02:00 %%
+%% Import Date: 2024-12-13T13:21:43.111+01:00 %%

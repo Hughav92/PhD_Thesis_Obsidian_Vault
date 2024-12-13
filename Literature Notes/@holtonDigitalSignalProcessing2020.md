@@ -2,16 +2,14 @@
 
 ---
 category:: literaturenote
-tags:: unread, Digital techniques, Signal processing
-citekey:: holtonDigitalSignalProcessing2020
-status:: unread
-reference:: Holton, T. (2020). _Digital signal processing: principles and applications_. Cambridge, United Kingdom ; New York, NY, USA: Cambridge University Press.
+tags:: #Digital-techniques #Signal-processing #unread 
+status:: unread 
+reference:: Holton, T. (2020). _Digital signal processing: principles and applications_. Cambridge, United Kingdom ; New York, NY, USA: Cambridge University Press.
 dateread:
 ---
 
 > [!Cite]
 > Holton, T. (2020). _Digital signal processing: principles and applications_. Cambridge, United Kingdom ; New York, NY, USA: Cambridge University Press.
-
 ^cite
 
 >[!Synth]
@@ -64,6 +62,8 @@ dateread:
 > In the continuous-time world, sinusoids of different frequencies are unique. That is, given two frequencies Ω1 and Ω2,ifΩ1 / = Ω2,then cos Ω1t / = cos Ω2t for all t. In the discrete-time world, sinusoidal sequences of different frequencies are not necessarily distinct. Consider two “different” discrete-time sinusoidal sequences x1[n] = cos ω1n and x2[n] = cos ω2n, where ω1 / = ω2. We might expect x1[n]/ = x2[n] over all n, but that is not always true. Specifically, let ω2 = ω1 +2πk, where k is an integer. As long as k / = 0, then ω1 / = ω2, but x2[n] = cos ω2n = cos(ω1 +2πk) = cos ω1n = x1[n]. Thus, x1[n]=x2[n]foralln. This says that discrete-time sinusoidal sequences whose frequencies ω1 and ω2 differ by an integer multiple of 2π are indistinguishable. Of course, that makes sense when you remember that discrete-time frequency is actually phase. Figure 1.21 shows the equivalence of three discrete-time sinusoidal sequences whose frequencies differ by multiples of 2π.
 
 
+
+
 %% end annotations %%
 
-%% Import Date: 2024-09-30T16:43:51.110+02:00 %%
+%% Import Date: 2024-12-13T13:19:41.415+01:00 %%

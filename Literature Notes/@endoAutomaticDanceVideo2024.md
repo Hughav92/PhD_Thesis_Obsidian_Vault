@@ -2,7 +2,7 @@
 
 ---
 category:: literaturenote
-tags:: read #temporal-convolutional-network #TCN #dance #multimodal #multimodal-learning #ablation #video #audio #AIST
+tags:: #read #temporal-convolutional-network #TCN #dance #multimodal #multimodal-learning #ablation #video #audio #AIST
 citekey:: endoAutomaticDanceVideo2024
 status:: read
 reference:: Endo, K., Tsuchida, S., Fukusato, T., & Igarashi, T. (2024). ‘Automatic Dance Video Segmentation for Understanding Choreography’. _Proceedings of the 9th International Conference on Movement and Computing_, pp. 1–9. Presented at the MOCO ’24: 9th International Conference on Movement and Computing, May 30, Utrecht Netherlands: ACM. DOI: [10.1145/3658852.3659076](https://doi.org/10.1145/3658852.3659076)

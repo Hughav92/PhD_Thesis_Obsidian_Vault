@@ -2,9 +2,8 @@
 
 ---
 category:: literaturenote
-tags:: Computer Science - Artificial Intelligence, Computer Science - Computation and Language, Computer Science - Machine Learning, read
-citekey:: baiEmpiricalEvaluationGeneric2018
-status:: read
+tags:: #Computer-Science---Artificial-Intelligence #Computer-Science---Computation-and-Language #Computer-Science---Machine-Learning #read 
+status:: read 
 reference:: Bai, S., Kolter, J. Z., & Koltun, V. (2018). ‘An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling’. arXiv.
 dateread:
 ---
@@ -73,6 +72,7 @@ dateread:
 > F (s) = (x ∗d f )(s) = k−1 ∑ i=0 f (i) · xs−d·i
 
 
+
 %% end annotations %%
 
-%% Import Date: 2024-12-13T09:58:06.831+01:00 %%
+%% Import Date: 2024-12-13T13:15:20.526+01:00 %%

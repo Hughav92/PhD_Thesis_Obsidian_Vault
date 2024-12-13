@@ -2,16 +2,14 @@
 
 ---
 category:: literaturenote
-tags:: 
-citekey:: lahatMultimodalDataFusion2015
-status:: unread
+tags:: #read 
+status:: read 
 reference:: Lahat, D., Adali, T., & Jutten, C. (2015). ‘Multimodal data fusion: An overview of methods, challenges, and prospects’, _Proceedings of the IEEE_, 103/9: 1449–77. DOI: [10.1109/JPROC.2015.2460697](https://doi.org/10.1109/JPROC.2015.2460697)
 dateread:
 ---
 
 > [!Cite]
 > Lahat, D., Adali, T., & Jutten, C. (2015). ‘Multimodal data fusion: An overview of methods, challenges, and prospects’, _Proceedings of the IEEE_, 103/9: 1449–77. DOI: [10.1109/JPROC.2015.2460697](https://doi.org/10.1109/JPROC.2015.2460697)
-
 ^cite
 
 >[!Synth]
@@ -74,6 +72,7 @@ dateread:
 
 [Go to annotation](zotero://open-pdf/library/items/GBDY34P3?page=1462&annotation=6EGCR4UZ) “An ensemble of data sets is ‘‘more than the sum of its parts’’ in the sense that it contains precious information that is lost if these relations are ignored.” ([Lahat et al., 2015, p. 1462](zotero://select/library/items/FB8LVNW9)) The importance and complementary nature of multimodal datasets..
 
+
 %% end notes %%
 
 
@@ -124,4 +123,4 @@ dateread:
 
 %% end annotations %%
 
-%% Import Date: 2024-12-04T17:56:19.462+01:00 %%
+%% Import Date: 2024-12-13T13:20:50.837+01:00 %%

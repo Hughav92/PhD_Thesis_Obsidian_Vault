@@ -2,7 +2,7 @@
 
 ---
 category:: literaturenote
-tags:: unread
+tags:: #unread
 citekey:: frantziAutomaticRecognitionMultiword2000
 status:: unread
 reference:: Frantzi, K., Ananiadou, S., & Mima, H. (2000). ‘Automatic recognition of multi-word terms:. the C-value/NC-value method’, _International Journal on Digital Libraries_, 3/2: 115–30. DOI: [10.1007/s007999900023](https://doi.org/10.1007/s007999900023)

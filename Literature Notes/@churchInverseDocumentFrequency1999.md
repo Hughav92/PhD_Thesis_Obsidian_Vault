@@ -2,7 +2,7 @@
 
 ---
 category:: literaturenote
-tags:: unread
+tags:: #unread
 citekey:: churchInverseDocumentFrequency1999
 status:: unread
 reference:: Church, K., & Gale, W. (1999). ‘Inverse Document Frequency (IDF): A Measure of Deviations from Poisson’. Armstrong S., Church K., Isabelle P., Manzi S., Tzoukermann E., & Yarowsky D. (eds) _Natural Language Processing Using Very Large Corpora_, pp. 283–95. Springer Netherlands: Dordrecht. DOI: [10.1007/978-94-017-2390-9_18](https://doi.org/10.1007/978-94-017-2390-9_18)
