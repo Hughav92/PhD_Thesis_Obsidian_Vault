@@ -70,18 +70,18 @@ LIMIT 10
 ```
 %%
 
-| File                                                                                                                 | Updated                     |
-| -------------------------------------------------------------------------------------------------------------------- | --------------------------- |
-| [[Daily Notes/2024-12-13.md\|2024-12-13]]                                                                            | 2:10 PM - December 13, 2024 |
-| [[Literature Notes/@zhangJATE20Java2016.md\|@zhangJATE20Java2016]]                                                   | 2:09 PM - December 13, 2024 |
-| [[Literature Notes/@zhangComparativeEvaluationTerm2008.md\|@zhangComparativeEvaluationTerm2008]]                     | 2:08 PM - December 13, 2024 |
-| [[Literature Notes/@tsuchidaAISTDanceVideo2019.md\|@tsuchidaAISTDanceVideo2019]]                                     | 2:08 PM - December 13, 2024 |
-| [[Literature Notes/@xkcdStandards.md\|@xkcdStandards]]                                                               | 2:06 PM - December 13, 2024 |
-| [[Literature Notes/@weiTCNattentionHARHumanActivity2024.md\|@weiTCNattentionHARHumanActivity2024]]                   | 1:23 PM - December 13, 2024 |
-| [[Literature Notes/@vrigkasReviewHumanActivity2015.md\|@vrigkasReviewHumanActivity2015]]                             | 1:23 PM - December 13, 2024 |
-| [[Literature Notes/@stanleyCaseStudy22015.md\|@stanleyCaseStudy22015]]                                               | 1:22 PM - December 13, 2024 |
-| [[Literature Notes/@sparckjonesStatisticalInterpretationTerm1972.md\|@sparckjonesStatisticalInterpretationTerm1972]] | 1:22 PM - December 13, 2024 |
-| [[Literature Notes/@penasCorpusbasedTerminologyExtraction2001.md\|@penasCorpusbasedTerminologyExtraction2001]]       | 1:22 PM - December 13, 2024 |
+| File                                                                                    | Updated                     |
+| --------------------------------------------------------------------------------------- | --------------------------- |
+| [[Publish Pages/Homepage.md\|Homepage]]                                                 | 3:49 PM - December 13, 2024 |
+| [[Daily Notes/2024-12-13.md\|2024-12-13]]                                               | 3:20 PM - December 13, 2024 |
+| [[Literature Overview/Works Cited.md\|Works Cited]]                                     | 3:20 PM - December 13, 2024 |
+| [[Literature Overview/All.md\|All]]                                                     | 3:20 PM - December 13, 2024 |
+| [[Posters/RITMO Largo/2024-12-03 RITMO Largo Poster.md\|2024-12-03 RITMO Largo Poster]] | 3:00 PM - December 13, 2024 |
+| [[Daily Notes/2024-12-02.md\|2024-12-02]]                                               | 2:17 PM - December 13, 2024 |
+| [[Daily Notes/2024-11-28.md\|2024-11-28]]                                               | 2:17 PM - December 13, 2024 |
+| [[Daily Notes/2024-11-11.md\|2024-11-11]]                                               | 2:17 PM - December 13, 2024 |
+| [[Daily Notes/2024-10-21.md\|2024-10-21]]                                               | 2:17 PM - December 13, 2024 |
+| [[Daily Notes/2024-10-14.md\|2024-10-14]]                                               | 2:17 PM - December 13, 2024 |
 
 %% DATAVIEW_PUBLISHER: end %%
 
