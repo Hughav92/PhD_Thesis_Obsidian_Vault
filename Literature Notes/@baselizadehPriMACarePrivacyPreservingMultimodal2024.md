@@ -14,10 +14,12 @@ dateread:
 ^cite
 
 >[!Synth]
+>%% begin synth %%
+>
 >**Contribution**:: 
 >
->**Related**:: 
->
+>**Related**::  
+>%% end synth %%
 
 >[!md]
 > **FirstAuthor**:: Baselizadeh, Adel  
@@ -44,8 +46,10 @@ dateread:
 >.
 > 
 # Notes
->.
 
+%% begin notes %%
+
+%% end notes %%
 
 # Annotations%% begin annotations %%
 

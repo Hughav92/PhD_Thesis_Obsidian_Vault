@@ -15,10 +15,12 @@ dateread:
 ^cite
 
 >[!Synth]
+>%% begin synth %%
+>
 >**Contribution**:: 
 >
->**Related**:: 
->
+>**Related**::  
+>%% end synth %%
 
 >[!md]
 > **FirstAuthor**:: Christodoulou, Anna-Maria  
@@ -45,7 +47,10 @@ The term “multimodal music dataset” is often used to describe music-related 
 >.
 > 
 # Notes
->.
+
+%% begin notes %%
+
+%% end notes %%
 
 
 # Annotations%% begin annotations %%

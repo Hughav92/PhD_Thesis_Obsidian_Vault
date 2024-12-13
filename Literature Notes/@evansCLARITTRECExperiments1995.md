@@ -15,10 +15,12 @@ dateread:
 ^cite
 
 >[!Synth]
+>%% begin synth %%
+>
 >**Contribution**:: 
 >
->**Related**:: 
->
+>**Related**::  
+>%% end synth %%
 
 >[!md]
 > **FirstAuthor**:: Evans, David A.  
@@ -44,7 +46,10 @@ dateread:
 >.
 > 
 # Notes
->.
+
+%% begin notes %%
+
+%% end notes %%
 
 
 # Annotations%% begin annotations %%

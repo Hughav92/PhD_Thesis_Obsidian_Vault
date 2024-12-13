@@ -14,10 +14,12 @@ dateread:
 ^cite
 
 >[!Synth]
+>%% begin synth %%
+>
 >**Contribution**:: 
 >
->**Related**:: 
->
+>**Related**::  
+>%% end synth %%
 
 >[!md]
 > **FirstAuthor**:: Atrey, Pradeep K.  
@@ -43,13 +45,15 @@ dateread:
 >.
 > 
 # Notes
->
-># Annotations  
+%% begin notes %%
+# Annotations  
 (20/08/2024, 12:31:02)
 
 [Go to annotation](zotero://open-pdf/library/items/Y9V2QK7D?page=346&annotation=LYVDUBVU) “When to fuse? The time when the fusion should take place is an important consideration in the multimodal fusion process. Certain characteristics of media, such as varying data capture rates and processing time of the media, poses challenges on how to synchronize the overall process of fusion. Often this has been addressed by performing the multimedia analysis tasks (such as event detection) over a timeline [29]. A timeline refers to a measurable span of time with information denoted at designated points. The timeline-based accomplishment of a task requires identification of designated points at which fusion of data or information should take place. Due to the asynchrony and diversity among streams and due to the fact that different analysis tasks are performed at different granularity levels in time, the identification of these designated points, i.e. when the fusion should take place, is a challenging issue [8].” ([Atrey et al., 2010, p. 346](zotero://select/library/items/75NLGK95)) Timeline decoupled from data modality!!! Check reference!
 
 [Go to annotation](zotero://open-pdf/library/items/Y9V2QK7D?page=346&annotation=JI9W9RQW) “What to fuse? The different modalities used in a fusion process may provide complementary or contradictory information and therefore knowing which modalities are contributing towards accomplishing an analysis task needs to be understood. This is also related to finding the optimal number of media streams [9, 143] or feature sets required to accomplish an analysis task under the specified constraints. If the most suitable subset is unavailable, can one use alternate streams without much loss of cost-effectiveness and confidence?” ([Atrey et al., 2010, p. 346](zotero://select/library/items/75NLGK95)) This here with explainability!.
+
+%% end notes %%
 
 
 # Annotations%% begin annotations %%

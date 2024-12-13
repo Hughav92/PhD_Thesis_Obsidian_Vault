@@ -15,10 +15,12 @@ dateread:
 ^cite
 
 >[!Synth]
+>%% begin synth %%
+>
 >**Contribution**:: 
 >
->**Related**:: 
->
+>**Related**::  
+>%% end synth %%
 
 >[!md]
 > **FirstAuthor**:: Ahmad, Khurshid  
@@ -39,7 +41,9 @@ dateread:
 >.
 > 
 # Notes
->.
+%% begin notes %%
+
+%% end notes %%
 
 
 # Annotations%% begin annotations %%

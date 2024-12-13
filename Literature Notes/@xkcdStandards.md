@@ -15,10 +15,12 @@ dateread:
 ^cite
 
 >[!Synth]
+>%% begin synth %%
+>
 >**Contribution**:: 
 >
->**Related**:: 
->
+>**Related**::  
+>%% end synth %%
 
 >[!md]
 > **FirstAuthor**:: xkcd  
@@ -35,7 +37,10 @@ dateread:
 >.
 > 
 # Notes
->.
+
+%% begin notes %%
+
+%% end notes %%
 
 
 # Annotations%% begin annotations %%

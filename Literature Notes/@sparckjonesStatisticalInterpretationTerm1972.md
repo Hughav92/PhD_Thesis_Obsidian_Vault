@@ -15,10 +15,12 @@ dateread: ^32636a
 ^cite
 
 >[!Synth]
+>%% begin synth %%
+>
 >**Contribution**:: 
 >
->**Related**:: 
->
+>**Related**::  
+>%% end synth %%
 
 >[!md]
 > **FirstAuthor**:: Sparck Jones, Karen  
@@ -41,7 +43,10 @@ dateread: ^32636a
 >.
 > 
 # Notes
->.
+
+%% begin notes %%
+
+%% end notes %%
 
 
 # Annotations%% begin annotations %%

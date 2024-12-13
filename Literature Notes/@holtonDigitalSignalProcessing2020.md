@@ -15,10 +15,12 @@ dateread:
 ^cite
 
 >[!Synth]
+>%% begin synth %%
+>
 >**Contribution**:: 
 >
->**Related**:: 
->
+>**Related**::  
+>%% end synth %%
 
 >[!md]
 > **FirstAuthor**:: Holton, Thomas  
@@ -41,7 +43,10 @@ dateread:
 >.
 > 
 # Notes
->.
+
+%% begin notes %%
+
+%% end notes %%
 
 
 # Annotations%% begin annotations %%

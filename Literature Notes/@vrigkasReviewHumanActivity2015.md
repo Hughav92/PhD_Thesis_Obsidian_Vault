@@ -15,10 +15,12 @@ dateread:
 ^cite
 
 >[!Synth]
+>%% begin synth %%
+>
 >**Contribution**:: 
 >
->**Related**:: 
->
+>**Related**::  
+>%% end synth %%
 
 >[!md]
 > **FirstAuthor**:: Vrigkas, Michalis  
@@ -41,8 +43,9 @@ dateread:
 >.
 > 
 # Notes
->
-># Annotations  
+
+%% begin notes %%
+# Annotations  
 (02/09/2024, 09:15:32)
 
 [Go to annotation](zotero://open-pdf/library/items/5BRCC5V8?page=1&annotation=9ILP8WRI) “Among various classification techniques two main questions arise: “What action?” (i.e., the recognition problem) and “Where in the video?” (i.e., the localization problem).” ([Vrigkas et al., 2015, p. 1](zotero://select/library/items/YA249BXB)) The two main problems of HAR
@@ -69,7 +72,7 @@ dateread:
 
 ([Vrigkas et al., 2015, p. 20](zotero://select/library/items/YA249BXB)) The four basic questions to ask about a HAR system..
 
-
+%% end notes %%
 # Annotations%% begin annotations %%
 
 

@@ -2,23 +2,24 @@
 
 ---
 category:: literaturenote
-tags:: unread, Computer Science - Artificial Intelligence, Computer Science - Computation and Language, Computer Science - Machine Learning
+tags:: Computer Science - Artificial Intelligence, Computer Science - Computation and Language, Computer Science - Machine Learning, read
 citekey:: baiEmpiricalEvaluationGeneric2018
-status:: unread
+status:: read
 reference:: Bai, S., Kolter, J. Z., & Koltun, V. (2018). ‘An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling’. arXiv.
 dateread:
 ---
 
 > [!Cite]
 > Bai, S., Kolter, J. Z., & Koltun, V. (2018). ‘An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling’. arXiv.
-
 ^cite
 
 >[!Synth]
+>%% begin synth %%
+>
 >**Contribution**:: 
 >
->**Related**:: 
->
+>**Related**::  
+>%% end synth %%
 
 >[!md]
 > **FirstAuthor**:: Bai, Shaojie  
@@ -40,8 +41,9 @@ dateread:
 >.
 > 
 # Notes
->
-># Annotations  
+
+%% begin notes %%
+# Annotations  
 (02/09/2024, 15:51:03)
 
 [Go to annotation](zotero://open-pdf/library/items/DX372JDZ?page=3&annotation=BTAM78YC) “The distinguishing characteristics of TCNs are: 1) the convolutions in the architecture are causal, meaning that there is no information “leakage” from future to past; 2) the architecture can take a sequence of any length and map it to an output sequence of the same length, just as with an RNN.” ([Bai et al., 2018, p. 3](zotero://select/library/items/2UF9HWLW)) The two distinguishing features of the TCN.
@@ -49,6 +51,8 @@ dateread:
 [Go to annotation](zotero://open-pdf/library/items/DX372JDZ?page=3&annotation=YWB8P8GZ) “To put it simply: TCN = 1D FCN + causal convolutions.” ([Bai et al., 2018, p. 3](zotero://select/library/items/2UF9HWLW)) Nice and simple definition of a TCN.
 
 [Go to annotation](zotero://open-pdf/library/items/DX372JDZ?page=3&annotation=BYUGMJIU) “F (s) = (x ∗d f )(s) = k−1 ∑ i=0 f (i) · xs−d·i” ([Bai et al., 2018, p. 3](zotero://select/library/items/2UF9HWLW)) Formal definition of dilation convolutions..
+
+%% end notes %%
 
 
 # Annotations%% begin annotations %%
@@ -71,4 +75,4 @@ dateread:
 
 %% end annotations %%
 
-%% Import Date: 2024-09-23T19:04:58.948+02:00 %%
+%% Import Date: 2024-12-13T09:58:06.831+01:00 %%

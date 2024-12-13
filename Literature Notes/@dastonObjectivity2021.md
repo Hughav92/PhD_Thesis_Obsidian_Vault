@@ -19,7 +19,6 @@ dateread:
 >**Contribution**:: 
 >
 >**Related**::  
->
 >%% end synth %%
 
 >[!md]
