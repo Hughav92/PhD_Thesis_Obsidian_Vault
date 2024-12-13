@@ -53,7 +53,7 @@ WHERE date(file.name) = date(today) AND file.name != "Daily Notes"
 
 | File                                      | Date              |
 | ----------------------------------------- | ----------------- |
-| [[Daily Notes/2024-12-12.md\|2024-12-12]] | December 12, 2024 |
+| [[Daily Notes/2024-12-13.md\|2024-12-13]] | December 13, 2024 |
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -70,18 +70,18 @@ LIMIT 10
 ```
 %%
 
-| File                                                                   | Updated                     |
-| ---------------------------------------------------------------------- | --------------------------- |
-| [[Literature Notes/@dastonObjectivity2021.md\|@dastonObjectivity2021]] | 6:44 PM - December 12, 2024 |
-| [[Daily Notes/2024-12-12.md\|2024-12-12]]                              | 6:43 PM - December 12, 2024 |
-| [[Daily Notes/2024-12-09.md\|2024-12-09]]                              | 6:43 PM - December 12, 2024 |
-| [[Daily Notes/2024-12-06.md\|2024-12-06]]                              | 6:43 PM - December 12, 2024 |
-| [[Daily Notes/2024-12-04.md\|2024-12-04]]                              | 6:43 PM - December 12, 2024 |
-| [[Daily Notes/2024-11-28.md\|2024-11-28]]                              | 6:43 PM - December 12, 2024 |
-| [[Daily Notes/2024-11-19.md\|2024-11-19]]                              | 6:43 PM - December 12, 2024 |
-| [[Daily Notes/2024-11-11.md\|2024-11-11]]                              | 6:43 PM - December 12, 2024 |
-| [[Daily Notes/2024-11-04.md\|2024-11-04]]                              | 6:43 PM - December 12, 2024 |
-| [[Daily Notes/2024-10-30.md\|2024-10-30]]                              | 6:43 PM - December 12, 2024 |
+| File                                                                                                                 | Updated                     |
+| -------------------------------------------------------------------------------------------------------------------- | --------------------------- |
+| [[Daily Notes/2024-12-13.md\|2024-12-13]]                                                                            | 2:10 PM - December 13, 2024 |
+| [[Literature Notes/@zhangJATE20Java2016.md\|@zhangJATE20Java2016]]                                                   | 2:09 PM - December 13, 2024 |
+| [[Literature Notes/@zhangComparativeEvaluationTerm2008.md\|@zhangComparativeEvaluationTerm2008]]                     | 2:08 PM - December 13, 2024 |
+| [[Literature Notes/@tsuchidaAISTDanceVideo2019.md\|@tsuchidaAISTDanceVideo2019]]                                     | 2:08 PM - December 13, 2024 |
+| [[Literature Notes/@xkcdStandards.md\|@xkcdStandards]]                                                               | 2:06 PM - December 13, 2024 |
+| [[Literature Notes/@weiTCNattentionHARHumanActivity2024.md\|@weiTCNattentionHARHumanActivity2024]]                   | 1:23 PM - December 13, 2024 |
+| [[Literature Notes/@vrigkasReviewHumanActivity2015.md\|@vrigkasReviewHumanActivity2015]]                             | 1:23 PM - December 13, 2024 |
+| [[Literature Notes/@stanleyCaseStudy22015.md\|@stanleyCaseStudy22015]]                                               | 1:22 PM - December 13, 2024 |
+| [[Literature Notes/@sparckjonesStatisticalInterpretationTerm1972.md\|@sparckjonesStatisticalInterpretationTerm1972]] | 1:22 PM - December 13, 2024 |
+| [[Literature Notes/@penasCorpusbasedTerminologyExtraction2001.md\|@penasCorpusbasedTerminologyExtraction2001]]       | 1:22 PM - December 13, 2024 |
 
 %% DATAVIEW_PUBLISHER: end %%
 

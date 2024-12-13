@@ -2,16 +2,14 @@
 
 ---
 category:: literaturenote
-tags:: unread
-citekey:: zhangJATE20Java2016
-status:: unread
+tags:: #unread 
+status:: unread 
 reference:: Zhang, Z., Gao, J., & Ciravegna, F. (2016). ‘JATE 2.0: Java Automatic Term Extraction with Apache Solr’. Calzolari N., Choukri K., Declerck T., Goggi S., Grobelnik M., Maegaard B., Mariani J., et al. (eds) _Proceedings of the tenth international conference on language resources and evaluation (LREC’16)_, pp. 2262–9. Portorož, Slovenia: European Language Resources Association (ELRA).
 dateread:
 ---
 
 > [!Cite]
 > Zhang, Z., Gao, J., & Ciravegna, F. (2016). ‘JATE 2.0: Java Automatic Term Extraction with Apache Solr’. Calzolari N., Choukri K., Declerck T., Goggi S., Grobelnik M., Maegaard B., Mariani J., et al. (eds) _Proceedings of the tenth international conference on language resources and evaluation (LREC’16)_, pp. 2262–9. Portorož, Slovenia: European Language Resources Association (ELRA).
-
 ^cite
 
 >[!Synth]
@@ -67,4 +65,12 @@ dateread:
 
 %% end annotations %%
 
-%% Import Date: 2024-09-24T10:41:40.804+02:00 %%
+
+
+
+
+
+
+
+
+%% Import Date: 2024-12-13T14:09:07.268+01:00 %%

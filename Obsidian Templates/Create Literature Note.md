@@ -79,7 +79,6 @@ Note
 
 ### Imported: {{importDate | format("YYYY-MM-DD h:mm a")}}
 
-
 {% for a in newAnnotations %}
 {{calloutHeader(a.type, a.color)}}
 > {{a.annotatedText}}
@@ -87,12 +86,18 @@ Note
 {% endif %}
 {% endpersist %}
 
-
 {% if attachments %}
-{% for attachment in attachments %}{% set ext = attachment.path.split('.')|last %}
-{% if ext in ['png', 'jpg', 'jpeg', 'svg', 'gif'] %}
+{% set images_displayed = false %}
+{% for attachment in attachments %}
+{% set ext = attachment.path.split('.')|last %}
+{% if ext in ['png', 'jpg', 'jpeg', 'svg', 'gif', 'tiff', 'bmp'] %}
+{% if not images_displayed %}
 # Images
+{% set images_displayed = true %}
+{% endif %} 
 ![[{{attachment.title}}.{{ext}}]]
+From [[@{{citekey}}]]
+
 {% endif %}
 {% endfor %}
 {% endif %}

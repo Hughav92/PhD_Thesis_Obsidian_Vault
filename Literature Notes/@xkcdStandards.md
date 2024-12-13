@@ -54,9 +54,15 @@ dateread:
 
 
 
+
+# Images
+
+ 
 ![[standards_2x.png]]
+From [[@xkcdStandards]]
 
 
 
 
-%% Import Date: 2024-12-13T13:52:02.863+01:00 %%
+
+%% Import Date: 2024-12-13T14:06:24.188+01:00 %%

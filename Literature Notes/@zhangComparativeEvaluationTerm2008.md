@@ -2,16 +2,14 @@
 
 ---
 category:: literaturenote
-tags:: unread
-citekey:: zhangComparativeEvaluationTerm2008
-status:: unread
+tags:: #unread 
+status:: unread 
 reference:: Zhang, Z., Iria, J., Brewster, C., & Ciravegna, F. (2008). ‘A comparative evaluation of term recognition algorithms.’ _Proceedings of the sixth international conference on language resources and evaluation_, Vol. 5, pp. 2108–13. Presented at the LREC08, Marrakesh, Morocco.
 dateread:
 ---
 
 > [!Cite]
 > Zhang, Z., Iria, J., Brewster, C., & Ciravegna, F. (2008). ‘A comparative evaluation of term recognition algorithms.’ _Proceedings of the sixth international conference on language resources and evaluation_, Vol. 5, pp. 2108–13. Presented at the LREC08, Marrakesh, Morocco.
-
 ^cite
 
 >[!Synth]
@@ -49,9 +47,18 @@ dateread:
 
 %% end notes %%
 
+
 # Annotations%% begin annotations %%
 
 
 %% end annotations %%
 
-%% Import Date: 2024-10-03T12:32:09.547+02:00 %%
+
+
+
+
+
+
+
+
+%% Import Date: 2024-12-13T14:08:53.053+01:00 %%
