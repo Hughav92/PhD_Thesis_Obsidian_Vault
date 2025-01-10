@@ -25,7 +25,9 @@
 
 ### Interactive Systems in Orchestral Settings (100)
 
-
+- Hyper-instruments - orchestral
+- New instruments which are used in orchestral performance - e.g. Halduraphone
+- Systems which integrate into orchestral performance - e.g. Verdugo et al 2022
 ### Music Understanding (100)
 
 
@@ -36,6 +38,7 @@
 
 - Focus on heart-rate here
 - Simple mapping of Heart-beat to lighting pulse as test
+- Constraints (e.g. what can we work with)
 
 
 ## Preliminary Technical Evaluation (600)
