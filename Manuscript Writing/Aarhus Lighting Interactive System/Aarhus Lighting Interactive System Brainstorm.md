@@ -23,50 +23,45 @@
 
 ## Background (300)
 
-### Interactive Systems in Orchestral Settings
+### Interactive Systems in Orchestral Settings (100)
 
 
-### Music Understanding
+### Music Understanding (100)
 
 
-### Sensor to Lighting Mapping in Interactive Systems
+### Sensor to Lighting Mapping in Interactive Systems (100)
 
 
-## System (400)
+## System Overview (400)
 
 - Focus on heart-rate here
 - Simple mapping of Heart-beat to lighting pulse as test
 
-### Design
-
-
-### Implementation
-
 
 ## Preliminary Technical Evaluation (600)
 
-### Heart-Rate Extraction Accuracy
+### Heart-Rate Extraction Accuracy (300)
 
-#### Method
+#### Method (150)
 
 - Validate against Equivital
 
-#### Results
-### System Latency
-#### Method
-##### Sensor to Max
+#### Results (150)
+### System Latency (300)
+#### Method (150)
+##### Sensor to Max (50)
 
 - Wear Equivital and Bio-Armband
 	- Compare Timestamps
 
-##### HR Extraction
+##### HR Extraction (50)
 
 
-##### Max to lights
+##### Max to lights (50)
 
 - Video analysis
 
-#### Results
+#### Results (150)
 
 ## Discussion (300)
 

@@ -1,4 +1,5 @@
 #my-work 
 
 - [[Aarhus Lighting Interactive System Brainstorm|Brainstorming]]
-- [[Aarhus Lighting Interactive System Abstract|Abstracts]]
+- [[Aarhus Lighting Interactive System Abstract|Abstract]]
+- [[Aarhus Lighting Interactive System Introduction|Introduction]]
