@@ -7,7 +7,7 @@
 - Pan-Tompkins for Max
 # Outline
 
-## Introduction
+## Introduction (200)
 
 - Broad framing: Symphonic concert large-scale musicking
 	- However, little work done on interactivity
@@ -21,4 +21,54 @@
 		- Focus on ECG/HR
 		- Present system design, implementation, preliminary technical evaluation
 
-## Background
+## Background (300)
+
+### Interactive Systems in Orchestral Settings
+
+
+### Music Understanding
+
+
+### Sensor to Lighting Mapping in Interactive Systems
+
+
+## System (400)
+
+- Focus on heart-rate here
+- Simple mapping of Heart-beat to lighting pulse as test
+
+### Design
+
+
+### Implementation
+
+
+## Preliminary Technical Evaluation (600)
+
+### Heart-Rate Extraction Accuracy
+
+#### Method
+
+- Validate against Equivital
+
+#### Results
+### System Latency
+#### Method
+##### Sensor to Max
+
+- Wear Equivital and Bio-Armband
+	- Compare Timestamps
+
+##### HR Extraction
+
+
+##### Max to lights
+
+- Video analysis
+
+#### Results
+
+## Discussion (300)
+
+## Conclusion and Future Work (200)
+
