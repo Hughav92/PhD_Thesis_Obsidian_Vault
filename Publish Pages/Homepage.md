@@ -51,9 +51,9 @@ WHERE date(file.name) = date(today) AND file.name != "Daily Notes"
 ```
 %%
 
-| File                                      | Date              |
-| ----------------------------------------- | ----------------- |
-| [[Daily Notes/2024-12-13.md\|2024-12-13]] | December 13, 2024 |
+| File                                      | Date             |
+| ----------------------------------------- | ---------------- |
+| [[Daily Notes/2025-01-14.md\|2025-01-14]] | January 14, 2025 |
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -70,18 +70,18 @@ LIMIT 10
 ```
 %%
 
-| File                                                                                                   | Updated                     |
-| ------------------------------------------------------------------------------------------------------ | --------------------------- |
-| [[Daily Notes/2024-12-13.md\|2024-12-13]]                                                              | 4:39 PM - December 13, 2024 |
-| [[Publication Venues/New Interfaces for Musical Expression.md\|New Interfaces for Musical Expression]] | 4:29 PM - December 13, 2024 |
-| [[Musical Interaction.md\|Musical Interaction]]                                                        | 4:23 PM - December 13, 2024 |
-| [[Datasets/RITMO Datasets/Stavanger Symphony Orchestra 2023.md\|Stavanger Symphony Orchestra 2023]]    | 4:15 PM - December 13, 2024 |
-| [[Publish Pages/Homepage.md\|Homepage]]                                                                | 3:49 PM - December 13, 2024 |
-| [[Literature Overview/Works Cited.md\|Works Cited]]                                                    | 3:20 PM - December 13, 2024 |
-| [[Literature Overview/All.md\|All]]                                                                    | 3:20 PM - December 13, 2024 |
-| [[Posters/RITMO Largo/2024-12-03 RITMO Largo Poster.md\|2024-12-03 RITMO Largo Poster]]                | 3:00 PM - December 13, 2024 |
-| [[Daily Notes/2024-12-02.md\|2024-12-02]]                                                              | 2:17 PM - December 13, 2024 |
-| [[Daily Notes/2024-11-28.md\|2024-11-28]]                                                              | 2:17 PM - December 13, 2024 |
+| File                                                  | Updated                     |
+| ----------------------------------------------------- | --------------------------- |
+| [[Daily Notes/2024-12-18.md\|2024-12-18]]             | 2:28 PM - January 14, 2025  |
+| [[Daily Notes/2024-12-17.md\|2024-12-17]]             | 2:07 PM - January 14, 2025  |
+| [[Daily Notes/2024-12-19.md\|2024-12-19]]             | 2:01 PM - January 14, 2025  |
+| [[QRS Complex.md\|QRS Complex]]                       | 1:49 PM - January 14, 2025  |
+| [[Pan-Tompkins Algorithm.md\|Pan-Tompkins Algorithm]] | 1:49 PM - January 14, 2025  |
+| [[Heart Rate.md\|Heart Rate]]                         | 1:48 PM - January 14, 2025  |
+| [[RR-Peak.md\|RR-Peak]]                               | 1:48 PM - January 14, 2025  |
+| [[Electrocardiogram.md\|Electrocardiogram]]           | 1:47 PM - January 14, 2025  |
+| [[Daily Notes/2025-01-06.md\|2025-01-06]]             | 11:41 AM - January 14, 2025 |
+| [[Daily Notes/2025-01-05.md\|2025-01-05]]             | 11:41 AM - January 14, 2025 |
 
 %% DATAVIEW_PUBLISHER: end %%
 

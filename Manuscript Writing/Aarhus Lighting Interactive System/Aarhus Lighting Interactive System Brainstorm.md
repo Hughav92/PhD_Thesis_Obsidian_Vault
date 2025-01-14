@@ -7,7 +7,7 @@
 - Pan-Tompkins for Max
 # Outline
 
-## Introduction (200)
+## [[Aarhus Lighting Interactive System Introduction|Introduction]] (200)
 
 - Broad framing: Symphonic concert large-scale musicking
 	- However, little work done on interactivity
@@ -21,9 +21,9 @@
 		- Focus on ECG/HR
 		- Present system design, implementation, preliminary technical evaluation
 
-## Background (300)
+## [[Aarhus Lighting Interactive System Background|Background]] (300)
 
-### Interactive Systems in Orchestral Settings (100)
+### [[Aarhus Lighting Interactive System Background#Interactive Systems in Orchestral Settings|Interactive Systems in Orchestral Settings]] (100)
 
 - Hyper-instruments - orchestral
 - New instruments which are used in orchestral performance - e.g. Halduraphone
