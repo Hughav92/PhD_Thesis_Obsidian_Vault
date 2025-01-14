@@ -1,6 +1,6 @@
 #my-work #system-overview
 
-Although our wider system design (shown in Figure 1) incorporates a diverse set of signals acquired from both performers and the audience, for the purposes of this paper we focus on the 
+Although our wider system design (shown in Figure 1) incorporates a diverse set of signals acquired from both performers and the audience, for the purposes of this paper we focus on the ECG subsystem that we primarily worked with in our preliminary visit (shown in yellow in Figure 1). Functioning as a proof-of-concept, this subsystem (shown in Figure 2) is fundamentally based upon the acquisition of an ECG signal from a performer, from which the R-peaks are extracted in real-time
 
 
 
