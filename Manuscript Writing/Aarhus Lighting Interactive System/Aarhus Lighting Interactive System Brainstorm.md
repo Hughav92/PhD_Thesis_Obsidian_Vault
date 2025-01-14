@@ -18,7 +18,7 @@
 	- In this paper present preliminary work from single day visit
 	- In particular:
 		- Present prelim work from single day visit
-		- Focus on ECG/HR
+		- Focus on [[Electrocardiogram|ECG]]/[[Heart Rate|HR]]
 		- Present system design, implementation, preliminary technical evaluation
 
 ## [[Aarhus Lighting Interactive System Background|Background]] (300)
@@ -34,7 +34,7 @@
 ### Sensor to Lighting Mapping in Interactive Systems (100)
 
 
-## System Overview (400)
+## [[Aarhus Lighting Interactive System System Overview|System Overview]] (400)
 
 - Focus on heart-rate here
 - Simple mapping of Heart-beat to lighting pulse as test
@@ -54,7 +54,7 @@
 #### Method (150)
 ##### Sensor to Max (50)
 
-- Wear Equivital and Bio-Armband
+- Wear Equivital and [[BioArmband]]
 	- Compare Timestamps
 
 ##### HR Extraction (50)
