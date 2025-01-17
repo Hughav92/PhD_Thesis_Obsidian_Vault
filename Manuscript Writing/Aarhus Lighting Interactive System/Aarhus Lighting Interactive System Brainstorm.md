@@ -23,7 +23,7 @@
 
 ## [[Aarhus Lighting Interactive System Background|Background]] (300)
 
-### [[Aarhus Lighting Interactive System Background#Interactive Systems in Orchestral Settings|Interactive Systems in Orchestral Settings]] (100)
+### [[Aarhus Lighting Interactive System Background#Interactive Systems in Orchestral Performance|Interactive Systems in Orchestral Performance]] (100)
 
 - Hyper-instruments - orchestral
 - New instruments which are used in orchestral performance - e.g. Halduraphone

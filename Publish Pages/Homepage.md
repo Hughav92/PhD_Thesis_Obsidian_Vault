@@ -53,7 +53,7 @@ WHERE date(file.name) = date(today) AND file.name != "Daily Notes"
 
 | File                                      | Date             |
 | ----------------------------------------- | ---------------- |
-| [[Daily Notes/2025-01-14.md\|2025-01-14]] | January 14, 2025 |
+| [[Daily Notes/2025-01-17.md\|2025-01-17]] | January 17, 2025 |
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -70,18 +70,18 @@ LIMIT 10
 ```
 %%
 
-| File                                                  | Updated                     |
-| ----------------------------------------------------- | --------------------------- |
-| [[Daily Notes/2024-12-18.md\|2024-12-18]]             | 2:28 PM - January 14, 2025  |
-| [[Daily Notes/2024-12-17.md\|2024-12-17]]             | 2:07 PM - January 14, 2025  |
-| [[Daily Notes/2024-12-19.md\|2024-12-19]]             | 2:01 PM - January 14, 2025  |
-| [[QRS Complex.md\|QRS Complex]]                       | 1:49 PM - January 14, 2025  |
-| [[Pan-Tompkins Algorithm.md\|Pan-Tompkins Algorithm]] | 1:49 PM - January 14, 2025  |
-| [[Heart Rate.md\|Heart Rate]]                         | 1:48 PM - January 14, 2025  |
-| [[RR-Peak.md\|RR-Peak]]                               | 1:48 PM - January 14, 2025  |
-| [[Electrocardiogram.md\|Electrocardiogram]]           | 1:47 PM - January 14, 2025  |
-| [[Daily Notes/2025-01-06.md\|2025-01-06]]             | 11:41 AM - January 14, 2025 |
-| [[Daily Notes/2025-01-05.md\|2025-01-05]]             | 11:41 AM - January 14, 2025 |
+| File                                                                                                                                                                                                                                                                    | Updated                     |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
+| [[Daily Notes/2025-01-10.md\|2025-01-10]]                                                                                                                                                                                                                               | 10:38 AM - January 17, 2025 |
+| [[Daily Notes/2025-01-17.md\|2025-01-17]]                                                                                                                                                                                                                               | 10:37 AM - January 17, 2025 |
+| [[Daily Notes/2025-01-15.md\|2025-01-15]]                                                                                                                                                                                                                               | 10:36 AM - January 17, 2025 |
+| [[Manuscript Writing/Aarhus Lighting Interactive System/Aarhus Lighting Interactive System Brainstorm.md\|Aarhus Lighting Interactive System Brainstorm]]                                                                                                               | 10:36 AM - January 17, 2025 |
+| [[Manuscript Writing/Aarhus Lighting Interactive System/Aarhus Lighting Interactive System Background.md\|Aarhus Lighting Interactive System Background]]                                                                                                               | 10:36 AM - January 17, 2025 |
+| [[Daily Notes/2025-01-16.md\|2025-01-16]]                                                                                                                                                                                                                               | 10:35 AM - January 17, 2025 |
+| [[Manuscript Writing/Aarhus Lighting Interactive System/Aarhus Lighting Interactive System The Lighting System in the Aarhus Symphony Orchestra Concert Hall.md\|Aarhus Lighting Interactive System The Lighting System in the Aarhus Symphony Orchestra Concert Hall]] | 10:56 AM - January 15, 2025 |
+| [[Manuscript Writing/Aarhus Lighting Interactive System/Aarhus Lighting Interactive System System Overview.md\|Aarhus Lighting Interactive System System Overview]]                                                                                                     | 10:37 AM - January 15, 2025 |
+| [[Manuscript Writing/Aarhus Lighting Interactive System/Aarhus Lighting Interactive System Introduction.md\|Aarhus Lighting Interactive System Introduction]]                                                                                                           | 3:51 PM - January 14, 2025  |
+| [[Manuscript Writing/Aarhus Lighting Interactive System/Aarhus Lighting Interactive System.md\|Aarhus Lighting Interactive System]]                                                                                                                                     | 3:49 PM - January 14, 2025  |
 
 %% DATAVIEW_PUBLISHER: end %%
 
