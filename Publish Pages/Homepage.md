@@ -73,18 +73,18 @@ LIMIT 10
 ```
 %%
 
-| File                                        | Updated                      |
-| ------------------------------------------- | ---------------------------- |
-| [[Daily Notes/2025-02-10.md\|2025-02-10]]   | 12:59 PM - February 10, 2025 |
-| [[Literature Overview/All.md\|All]]         | 12:57 PM - February 10, 2025 |
-| [[Daily Notes/2025-02-04.md\|2025-02-04]]   | 12:57 PM - February 10, 2025 |
-| [[Daily Notes/2025-01-22.md\|2025-01-22]]   | 12:57 PM - February 10, 2025 |
-| [[Daily Notes/Daily Notes.md\|Daily Notes]] | 12:57 PM - February 10, 2025 |
-| [[Daily Notes/2025-01-28.md\|2025-01-28]]   | 12:57 PM - February 10, 2025 |
-| [[Daily Notes/2025-01-24.md\|2025-01-24]]   | 12:57 PM - February 10, 2025 |
-| [[Daily Notes/2025-01-20.md\|2025-01-20]]   | 12:57 PM - February 10, 2025 |
-| [[Daily Notes/2024-12-16.md\|2024-12-16]]   | 12:57 PM - February 10, 2025 |
-| [[Daily Notes/2024-12-04.md\|2024-12-04]]   | 12:57 PM - February 10, 2025 |
+| File                                                                                           | Updated                      |
+| ---------------------------------------------------------------------------------------------- | ---------------------------- |
+| [[Daily Notes/2025-02-10.md\|2025-02-10]]                                                      | 5:06 PM - February 10, 2025  |
+| [[Literature Notes/@vollmerInfraredThermalImaging2021.md\|@vollmerInfraredThermalImaging2021]] | 5:06 PM - February 10, 2025  |
+| [[Black Body.md\|Black Body]]                                                                  | 5:05 PM - February 10, 2025  |
+| [[Publish Pages/Homepage.md\|Homepage]]                                                        | 12:59 PM - February 10, 2025 |
+| [[Literature Overview/All.md\|All]]                                                            | 12:57 PM - February 10, 2025 |
+| [[Daily Notes/2025-02-04.md\|2025-02-04]]                                                      | 12:57 PM - February 10, 2025 |
+| [[Daily Notes/2025-01-22.md\|2025-01-22]]                                                      | 12:57 PM - February 10, 2025 |
+| [[Daily Notes/Daily Notes.md\|Daily Notes]]                                                    | 12:57 PM - February 10, 2025 |
+| [[Daily Notes/2025-01-28.md\|2025-01-28]]                                                      | 12:57 PM - February 10, 2025 |
+| [[Daily Notes/2025-01-24.md\|2025-01-24]]                                                      | 12:57 PM - February 10, 2025 |
 
 %% DATAVIEW_PUBLISHER: end %%
 
