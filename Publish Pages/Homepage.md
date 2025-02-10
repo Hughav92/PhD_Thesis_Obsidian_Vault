@@ -73,18 +73,18 @@ LIMIT 10
 ```
 %%
 
-| File                                                | Updated                     |
-| --------------------------------------------------- | --------------------------- |
-| [[Daily Notes/2025-02-10.md\|2025-02-10]]           | 6:07 PM - February 10, 2025 |
-| [[Publish Pages/Homepage.md\|Homepage]]             | 5:07 PM - February 10, 2025 |
-| [[Literature Overview/Works Cited.md\|Works Cited]] | 5:07 PM - February 10, 2025 |
-| [[Literature Overview/All.md\|All]]                 | 5:07 PM - February 10, 2025 |
-| [[Daily Notes/2025-01-17.md\|2025-01-17]]           | 5:07 PM - February 10, 2025 |
-| [[Daily Notes/2025-01-14.md\|2025-01-14]]           | 5:07 PM - February 10, 2025 |
-| [[Daily Notes/2024-12-09.md\|2024-12-09]]           | 5:07 PM - February 10, 2025 |
-| [[Daily Notes/2024-12-04.md\|2024-12-04]]           | 5:07 PM - February 10, 2025 |
-| [[Daily Notes/2024-12-02.md\|2024-12-02]]           | 5:07 PM - February 10, 2025 |
-| [[Daily Notes/2024-11-28.md\|2024-11-28]]           | 5:07 PM - February 10, 2025 |
+| File                                                                                                   | Updated                     |
+| ------------------------------------------------------------------------------------------------------ | --------------------------- |
+| [[Daily Notes/2025-02-10.md\|2025-02-10]]                                                              | 6:39 PM - February 10, 2025 |
+| [[Literature Notes/@tattersallActivityAnalysisThermal2020.md\|@tattersallActivityAnalysisThermal2020]] | 6:39 PM - February 10, 2025 |
+| [[Publish Pages/Homepage.md\|Homepage]]                                                                | 6:07 PM - February 10, 2025 |
+| [[Literature Overview/Works Cited.md\|Works Cited]]                                                    | 5:07 PM - February 10, 2025 |
+| [[Literature Overview/All.md\|All]]                                                                    | 5:07 PM - February 10, 2025 |
+| [[Daily Notes/2025-01-17.md\|2025-01-17]]                                                              | 5:07 PM - February 10, 2025 |
+| [[Daily Notes/2025-01-14.md\|2025-01-14]]                                                              | 5:07 PM - February 10, 2025 |
+| [[Daily Notes/2024-12-09.md\|2024-12-09]]                                                              | 5:07 PM - February 10, 2025 |
+| [[Daily Notes/2024-12-04.md\|2024-12-04]]                                                              | 5:07 PM - February 10, 2025 |
+| [[Daily Notes/2024-12-02.md\|2024-12-02]]                                                              | 5:07 PM - February 10, 2025 |
 
 %% DATAVIEW_PUBLISHER: end %%
 
