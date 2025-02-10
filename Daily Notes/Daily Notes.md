@@ -14,6 +14,13 @@ SORT date(file.name) DESC
 
 | File                                      | Day               |
 | ----------------------------------------- | ----------------- |
+| [[Daily Notes/2025-02-10.md\|2025-02-10]] | February 10, 2025 |
+| [[Daily Notes/2025-02-05.md\|2025-02-05]] | February 05, 2025 |
+| [[Daily Notes/2025-02-04.md\|2025-02-04]] | February 04, 2025 |
+| [[Daily Notes/2025-01-28.md\|2025-01-28]] | January 28, 2025  |
+| [[Daily Notes/2025-01-24.md\|2025-01-24]] | January 24, 2025  |
+| [[Daily Notes/2025-01-22.md\|2025-01-22]] | January 22, 2025  |
+| [[Daily Notes/2025-01-20.md\|2025-01-20]] | January 20, 2025  |
 | [[Daily Notes/2025-01-17.md\|2025-01-17]] | January 17, 2025  |
 | [[Daily Notes/2025-01-16.md\|2025-01-16]] | January 16, 2025  |
 | [[Daily Notes/2025-01-15.md\|2025-01-15]] | January 15, 2025  |

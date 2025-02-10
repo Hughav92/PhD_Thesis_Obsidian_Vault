@@ -21,6 +21,9 @@ These are the sub-projects that I am currently working on, with the aim that the
 - Analysing how well [[Multimodal Learning HAR|transfer learning can be applied to leverage large, pretrained models for Human Activity Recognition]] and how multimodal learning with accelerometer and depth image data, both with and without the support of RGB camera data, compare in order to preserve user privacy - this is for the course [IN9490 – Advanced Topics in Artificial Intelligence for Intelligent Systems](https://www.uio.no/studier/emner/matnat/ifi/IN9490/)
 - A study of the [[MoCap Latency Perception|perception of latency]] with respect to the visual representation of optical marker-based motion capture data and how this relates to the "human-ness" of the representation's form and the form's motion
 - Developing a method for the processing and analysis of audience motion in live concert research from [[IR Low Light Level Motion Analysis|infra-red videos recorded a low light levels]]
+- A [[Aarhus Lighting Interactive System|system]] to map [[Electrocardiogram|ElectroCardioGram (ECG)]] signals to a lighting system in real-time to visualise aspects of the cardiac dynamics of performers and audiences in symphonic orchestra performance.
+- An [[BioArmband in Interactive Music|evaluation]] of the [[BioArmband]] in interactive music contexts.
+- A [[Comparative Analysis of Thermography and IR Signals|comparative analysis]] of how [[Thermography|thermographic]] and [[Infra-Red Imaging|Infra-Red (IR)]] imaging can be used for motion analysis.
 
 # Where to Start
 
@@ -51,9 +54,9 @@ WHERE date(file.name) = date(today) AND file.name != "Daily Notes"
 ```
 %%
 
-| File                                      | Date             |
-| ----------------------------------------- | ---------------- |
-| [[Daily Notes/2025-01-17.md\|2025-01-17]] | January 17, 2025 |
+| File                                      | Date              |
+| ----------------------------------------- | ----------------- |
+| [[Daily Notes/2025-02-10.md\|2025-02-10]] | February 10, 2025 |
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -70,18 +73,18 @@ LIMIT 10
 ```
 %%
 
-| File                                                                                                                                                                                                                                                                    | Updated                     |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
-| [[Daily Notes/2025-01-10.md\|2025-01-10]]                                                                                                                                                                                                                               | 10:38 AM - January 17, 2025 |
-| [[Daily Notes/2025-01-17.md\|2025-01-17]]                                                                                                                                                                                                                               | 10:37 AM - January 17, 2025 |
-| [[Daily Notes/2025-01-15.md\|2025-01-15]]                                                                                                                                                                                                                               | 10:36 AM - January 17, 2025 |
-| [[Manuscript Writing/Aarhus Lighting Interactive System/Aarhus Lighting Interactive System Brainstorm.md\|Aarhus Lighting Interactive System Brainstorm]]                                                                                                               | 10:36 AM - January 17, 2025 |
-| [[Manuscript Writing/Aarhus Lighting Interactive System/Aarhus Lighting Interactive System Background.md\|Aarhus Lighting Interactive System Background]]                                                                                                               | 10:36 AM - January 17, 2025 |
-| [[Daily Notes/2025-01-16.md\|2025-01-16]]                                                                                                                                                                                                                               | 10:35 AM - January 17, 2025 |
-| [[Manuscript Writing/Aarhus Lighting Interactive System/Aarhus Lighting Interactive System The Lighting System in the Aarhus Symphony Orchestra Concert Hall.md\|Aarhus Lighting Interactive System The Lighting System in the Aarhus Symphony Orchestra Concert Hall]] | 10:56 AM - January 15, 2025 |
-| [[Manuscript Writing/Aarhus Lighting Interactive System/Aarhus Lighting Interactive System System Overview.md\|Aarhus Lighting Interactive System System Overview]]                                                                                                     | 10:37 AM - January 15, 2025 |
-| [[Manuscript Writing/Aarhus Lighting Interactive System/Aarhus Lighting Interactive System Introduction.md\|Aarhus Lighting Interactive System Introduction]]                                                                                                           | 3:51 PM - January 14, 2025  |
-| [[Manuscript Writing/Aarhus Lighting Interactive System/Aarhus Lighting Interactive System.md\|Aarhus Lighting Interactive System]]                                                                                                                                     | 3:49 PM - January 14, 2025  |
+| File                                        | Updated                      |
+| ------------------------------------------- | ---------------------------- |
+| [[Daily Notes/2025-02-10.md\|2025-02-10]]   | 12:59 PM - February 10, 2025 |
+| [[Literature Overview/All.md\|All]]         | 12:57 PM - February 10, 2025 |
+| [[Daily Notes/2025-02-04.md\|2025-02-04]]   | 12:57 PM - February 10, 2025 |
+| [[Daily Notes/2025-01-22.md\|2025-01-22]]   | 12:57 PM - February 10, 2025 |
+| [[Daily Notes/Daily Notes.md\|Daily Notes]] | 12:57 PM - February 10, 2025 |
+| [[Daily Notes/2025-01-28.md\|2025-01-28]]   | 12:57 PM - February 10, 2025 |
+| [[Daily Notes/2025-01-24.md\|2025-01-24]]   | 12:57 PM - February 10, 2025 |
+| [[Daily Notes/2025-01-20.md\|2025-01-20]]   | 12:57 PM - February 10, 2025 |
+| [[Daily Notes/2024-12-16.md\|2024-12-16]]   | 12:57 PM - February 10, 2025 |
+| [[Daily Notes/2024-12-04.md\|2024-12-04]]   | 12:57 PM - February 10, 2025 |
 
 %% DATAVIEW_PUBLISHER: end %%
 
