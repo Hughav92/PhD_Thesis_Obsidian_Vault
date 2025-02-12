@@ -31,7 +31,7 @@ Use Qualisys and Delsys as measurement tools for IMU and EMG.
 
 We fill follow a framework of sound-action typologies. One impulsive action, one iterative action and one sustained action.
 
-1. Impulsive - Hit a snare drum with a dumstick
+1. Impulsive - Hit a snare drum with a drumstick
 2. Iterative - Repeatedly run a scale on a piano
 3. Sustained - Bowing on saw
 

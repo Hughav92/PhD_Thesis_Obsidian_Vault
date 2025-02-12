@@ -4,7 +4,7 @@
 
 Attach three markers to BioArmband and Myo. Define each as a rigid body within Qualisys.
 
-Prepare a Python Script which receives OSC packets from Qualisys of both EMG (Delsys) and MoCap, Bluetooth packets of EMG and IMU from BioArmband, and EMG and IMU from Myo. Each receiver runs on a separate thread and appends a timestamp upon the reception of each packet.
+Prepare a Python Script which receives OSC packets from Qualisys of both EMG (Delsys), IMU (Delsys) and MoCap, Bluetooth packets of EMG and IMU from BioArmband, and EMG and IMU from Myo. Each receiver runs on a separate thread and appends a timestamp upon the reception of each packet.
 
 ![[BA_Setup.png]]
 # Technical Evaluation
@@ -51,6 +51,16 @@ Each sensor will be logged twice for two conditions: at rest and full effort fin
 ##### Procedure
 
 Log each condition for 30 seconds.
+
+# Music Based Tasks
+
+## Impulsive 
+
+Hitting a snare drum
+
+## Procedure
+
+Log each of the devices (BioArmband, Myo, Delsys) separately.
 
 
 
