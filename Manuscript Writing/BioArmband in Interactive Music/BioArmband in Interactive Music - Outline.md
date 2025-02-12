@@ -35,4 +35,11 @@ We fill follow a framework of sound-action typologies. One impulsive action, one
 2. Iterative - Repeatedly run a scale on a piano
 3. Sustained - Bowing on saw
 
-A simple sonification for each of these.
+We will create a simple sonification for each of these. We will also collect the motion and EMG from Qualisys and Delsys as reference signals.
+
+### Evaluation Metrics
+
+1. Analysis of signal similarities in EMG and IMU
+2. Analysis of audio signal similarities between generated audio from mapping BioArmband and Myo
+3. Train a basic gesture recognition ML model mapping (use Wekinator and PD) and evaluate ability to recognise gestures, one regression model (mapped to synth param), one classification model (mapped to toggle on/off)
+4. Latency between EMG peak and IMU peak
