@@ -55,7 +55,7 @@
 #### Method (150)
 ##### Sensor to Max (50)
 
-- Wear Equivital and [[BioArmband]]
+- Wear Equivital and [[SiFiBand]]
 	- Compare Timestamps
 
 ##### HR Extraction (50)

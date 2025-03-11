@@ -15,7 +15,7 @@ TBD
 
 # Implementation
 
-We acquire the ECG signal from six performers using two BioArmbands and four BioPoints. Similar to a Myo, the BioArmband  (Figure 4) is multi-sensor device is worn around the forearm. It contains an eight-channel EMG, an ECG, an six-axis IMU, a GSR, and a PPG sensor. A lead can be connected to enable the attachment of an ECG pad to create a second contact point across the heart. The BioPoint (Figure 5) is identical, with the exception that it contains only a single channel EMG and must be attached with a velcro band.
+We acquire the ECG signal from six performers using two SiFiBands and four BioPoints. Similar to a Myo, the SiFiBand  (Figure 4) is multi-sensor device is worn around the forearm. It contains an eight-channel EMG, an ECG, an six-axis IMU, a GSR, and a PPG sensor. A lead can be connected to enable the attachment of an ECG pad to create a second contact point across the heart. The BioPoint (Figure 5) is identical, with the exception that it contains only a single channel EMG and must be attached with a velcro band.
 
 The ECG signal is collected at 500Hz and transported to a laptop via a Bluetooth connection in packets of eight samples. Within Max, the ECG signal is fed into a two second first-in-first-out buffer, and we extract the R-peak position using a self-implemented Max object which calculates the heart-rate from an ECG signal.[^1] Lighting parameters are sent over OSC to the GrandMA3 lighting desk installed in the concert hall.
 # Footnotes

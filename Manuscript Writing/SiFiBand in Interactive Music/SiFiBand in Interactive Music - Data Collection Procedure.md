@@ -2,19 +2,19 @@
 
 # General Set-Up
 
-Attach three markers to BioArmband and Myo. Define each as a rigid body within Qualisys.
+Attach three markers to SiFiBand and Myo. Define each as a rigid body within Qualisys.
 
-Prepare a Python Script which receives OSC packets from Qualisys of both EMG (Delsys), IMU (Delsys) and MoCap, Bluetooth packets of EMG and IMU from BioArmband, and EMG and IMU from Myo. Each receiver runs on a separate thread and appends a timestamp upon the reception of each packet.
+Prepare a Python Script which receives OSC packets from Qualisys of both EMG (Delsys), IMU (Delsys) and MoCap, Bluetooth packets of EMG and IMU from SiFiBand, and EMG and IMU from Myo. Each receiver runs on a separate thread and appends a timestamp upon the reception of each packet.
 
 ![[BA_Setup.png]]
 # Technical Evaluation
 
 ## Latency and Jitter
 
-Latency of BioArmband and Myo are measured relative to Delsys and Qualisys.
+Latency of SiFiBand and Myo are measured relative to Delsys and Qualisys.
 ### Set-Up
 
-Modify script to add a timecode log upon packet request for Myo and BioArmband.
+Modify script to add a timecode log upon packet request for Myo and SiFiBand.
 
 ### Conditions
 
@@ -34,15 +34,15 @@ Following MuMyo paper:
 #### IMU
 
 ##### Set Up
-Set BioArmband and Myo on floor.
+Set SiFiBand and Myo on floor.
 
 ##### Procedure
-Log BioArmband, Myo, Qualisys for five minutes.
+Log SiFiBand, Myo, Qualisys for five minutes.
 
 ### EMG
 
 ##### Set Up
-Test the 8 BioArmband, 8 Myo, and Delsys separately.
+Test the 8 SiFiBand, 8 Myo, and Delsys separately.
 
 Place each sensor in the same position on the belly of the extensor digitorum. Mark the position with a pen.
 ##### Conditions
@@ -60,7 +60,7 @@ Hitting a snare drum
 
 ## Procedure
 
-Log each of the devices (BioArmband, Myo, Delsys) separately.
+Log each of the devices (SiFiBand, Myo, Delsys) separately.
 
 
 

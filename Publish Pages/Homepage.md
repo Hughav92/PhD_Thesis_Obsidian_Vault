@@ -22,7 +22,7 @@ These are the sub-projects that I am currently working on, with the aim that the
 - A study of the [[MoCap Latency Perception|perception of latency]] with respect to the visual representation of optical marker-based motion capture data and how this relates to the "human-ness" of the representation's form and the form's motion
 - Developing a method for the processing and analysis of audience motion in live concert research from [[IR Low Light Level Motion Analysis|infra-red videos recorded a low light levels]]
 - A [[Aarhus Lighting Interactive System|system]] to map [[Electrocardiogram|ElectroCardioGram (ECG)]] signals to a lighting system in real-time to visualise aspects of the cardiac dynamics of performers and audiences in symphonic orchestra performance.
-- An [[BioArmband in Interactive Music|evaluation]] of the [[BioArmband]] in interactive music contexts.
+- An [[SiFiBand in Interactive Music|evaluation]] of the [[SiFiBand]] in interactive music contexts.
 - A [[Comparative Analysis of Thermography and IR Signals|comparative analysis]] of how [[Thermography|thermographic]] and [[Infra-Red Imaging|Infra-Red (IR)]] imaging can be used for motion analysis.
 
 # Where to Start
