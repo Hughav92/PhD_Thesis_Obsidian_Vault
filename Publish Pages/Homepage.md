@@ -54,9 +54,9 @@ WHERE date(file.name) = date(today) AND file.name != "Daily Notes"
 ```
 %%
 
-| File                                      | Date              |
-| ----------------------------------------- | ----------------- |
-| [[Daily Notes/2025-02-10.md\|2025-02-10]] | February 10, 2025 |
+| File                                      | Date           |
+| ----------------------------------------- | -------------- |
+| [[Daily Notes/2025-03-31.md\|2025-03-31]] | March 31, 2025 |
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -73,18 +73,18 @@ LIMIT 10
 ```
 %%
 
-| File                                                                                                   | Updated                     |
-| ------------------------------------------------------------------------------------------------------ | --------------------------- |
-| [[Daily Notes/2025-02-10.md\|2025-02-10]]                                                              | 6:39 PM - February 10, 2025 |
-| [[Literature Notes/@tattersallActivityAnalysisThermal2020.md\|@tattersallActivityAnalysisThermal2020]] | 6:39 PM - February 10, 2025 |
-| [[Publish Pages/Homepage.md\|Homepage]]                                                                | 6:07 PM - February 10, 2025 |
-| [[Literature Overview/Works Cited.md\|Works Cited]]                                                    | 5:07 PM - February 10, 2025 |
-| [[Literature Overview/All.md\|All]]                                                                    | 5:07 PM - February 10, 2025 |
-| [[Daily Notes/2025-01-17.md\|2025-01-17]]                                                              | 5:07 PM - February 10, 2025 |
-| [[Daily Notes/2025-01-14.md\|2025-01-14]]                                                              | 5:07 PM - February 10, 2025 |
-| [[Daily Notes/2024-12-09.md\|2024-12-09]]                                                              | 5:07 PM - February 10, 2025 |
-| [[Daily Notes/2024-12-04.md\|2024-12-04]]                                                              | 5:07 PM - February 10, 2025 |
-| [[Daily Notes/2024-12-02.md\|2024-12-02]]                                                              | 5:07 PM - February 10, 2025 |
+| File                                               | Updated                  |
+| -------------------------------------------------- | ------------------------ |
+| [[Daily Notes/2025-03-21.md\|2025-03-21]]          | 5:40 PM - March 31, 2025 |
+| [[Publication Venues/AudioMostly.md\|AudioMostly]] | 5:38 PM - March 31, 2025 |
+| [[Daily Notes/2025-03-22.md\|2025-03-22]]          | 5:38 PM - March 31, 2025 |
+| [[Daily Notes/2025-03-23.md\|2025-03-23]]          | 5:37 PM - March 31, 2025 |
+| [[Daily Notes/2025-03-24.md\|2025-03-24]]          | 5:37 PM - March 31, 2025 |
+| [[Daily Notes/2025-03-25.md\|2025-03-25]]          | 5:20 PM - March 31, 2025 |
+| [[Daily Notes/2025-03-26.md\|2025-03-26]]          | 5:02 PM - March 31, 2025 |
+| [[Fair Wizard Norway.md\|Fair Wizard Norway]]      | 4:57 PM - March 31, 2025 |
+| [[Daily Notes/2025-03-27.md\|2025-03-27]]          | 4:53 PM - March 31, 2025 |
+| [[Daily Notes/2025-03-28.md\|2025-03-28]]          | 4:23 PM - March 31, 2025 |
 
 %% DATAVIEW_PUBLISHER: end %%
 
