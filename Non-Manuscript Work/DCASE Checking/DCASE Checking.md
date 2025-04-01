@@ -8,3 +8,7 @@
 # Method Summaries
 
 
+
+# Terminology
+
+[[Activity-Coupled Cartesian Direction of Arrival]] (ACCDOA) -  
