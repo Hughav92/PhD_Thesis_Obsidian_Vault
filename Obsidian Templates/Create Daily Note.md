@@ -18,7 +18,15 @@
 
 # Literature Read
 
-- 
+%% DATAVIEW_PUBLISHER: start
+```dataview
+TABLE reference as Reference
+FROM "Literature Notes"
+WHERE dateread = date(this.file.name)
+SORT dateread DESC
+```
+%%
+%% DATAVIEW_PUBLISHER: end %%
 
 # Notes Created
 

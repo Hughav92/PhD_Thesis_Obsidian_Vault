@@ -4,8 +4,9 @@
 category:: literaturenote
 tags:: #read 
 status:: read 
+dateread:: 2025-04-01
 reference:: Wang, Q., Chai, L., Wu, H., Nian, Z., Niu, S., Zheng, S., Wang, Y., et al. (2022). _The nerc-slip system for sound event localization and detection of dcase2022 challenge_. DCASE2022 Challenge.
-dateread:
+
 ---
 
 > [!Cite]
@@ -15,9 +16,13 @@ dateread:
 >[!Synth]
 >%% begin synth %%
 >
->**Contribution**:: 
+>**Contribution**:: This technical reports outlines the winning entry for the DCASE 2022 Task 3 challenge (sound event detection and localisation). The authors propose a model applying the multi-[[Activity-Coupled Cartesian Direction of Arriva|ACCDOA]] representation, using audio channel swapping to augment data, a Resnet-Conformer architecture and a model ensemble strategy.
 >
->**Related**::  
+>**Related**::
+>![[@wangNercslipSystemSound2023#^cite]]
+>![[@wangNercslipSystemSound2024#^cite]]
+>![[@wangFourstageDataAugmentation2023#^cite]]
+>![[@shimadaAccdoaActivitycoupledCartesian2021#^cite]]
 >%% end synth %%
 
 >[!md]

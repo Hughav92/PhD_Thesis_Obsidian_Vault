@@ -56,7 +56,7 @@ WHERE date(file.name) = date(today) AND file.name != "Daily Notes"
 
 | File                                      | Date           |
 | ----------------------------------------- | -------------- |
-| [[Daily Notes/2025-03-31.md\|2025-03-31]] | March 31, 2025 |
+| [[Daily Notes/2025-04-01.md\|2025-04-01]] | April 01, 2025 |
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -73,18 +73,18 @@ LIMIT 10
 ```
 %%
 
-| File                                               | Updated                  |
-| -------------------------------------------------- | ------------------------ |
-| [[Daily Notes/2025-03-21.md\|2025-03-21]]          | 5:40 PM - March 31, 2025 |
-| [[Publication Venues/AudioMostly.md\|AudioMostly]] | 5:38 PM - March 31, 2025 |
-| [[Daily Notes/2025-03-22.md\|2025-03-22]]          | 5:38 PM - March 31, 2025 |
-| [[Daily Notes/2025-03-23.md\|2025-03-23]]          | 5:37 PM - March 31, 2025 |
-| [[Daily Notes/2025-03-24.md\|2025-03-24]]          | 5:37 PM - March 31, 2025 |
-| [[Daily Notes/2025-03-25.md\|2025-03-25]]          | 5:20 PM - March 31, 2025 |
-| [[Daily Notes/2025-03-26.md\|2025-03-26]]          | 5:02 PM - March 31, 2025 |
-| [[Fair Wizard Norway.md\|Fair Wizard Norway]]      | 4:57 PM - March 31, 2025 |
-| [[Daily Notes/2025-03-27.md\|2025-03-27]]          | 4:53 PM - March 31, 2025 |
-| [[Daily Notes/2025-03-28.md\|2025-03-28]]          | 4:23 PM - March 31, 2025 |
+| File                                                                                       | Updated                  |
+| ------------------------------------------------------------------------------------------ | ------------------------ |
+| [[Non-Manuscript Work/DCASE Checking/DCASE Checking - Papers.md\|DCASE Checking - Papers]] | 6:07 PM - April 01, 2025 |
+| [[Literature Notes/@wangNercslipSystemSound2022.md\|@wangNercslipSystemSound2022]]         | 6:04 PM - April 01, 2025 |
+| [[Publish Pages/Homepage.md\|Homepage]]                                                    | 6:03 PM - April 01, 2025 |
+| [[Daily Notes/2025-03-31.md\|2025-03-31]]                                                  | 6:03 PM - April 01, 2025 |
+| [[Daily Notes/2025-04-01.md\|2025-04-01]]                                                  | 6:03 PM - April 01, 2025 |
+| [[Daily Notes/2025-02-10.md\|2025-02-10]]                                                  | 6:03 PM - April 01, 2025 |
+| [[Daily Notes/2025-01-14.md\|2025-01-14]]                                                  | 6:03 PM - April 01, 2025 |
+| [[Daily Notes/2025-01-17.md\|2025-01-17]]                                                  | 6:03 PM - April 01, 2025 |
+| [[Daily Notes/2024-12-16.md\|2024-12-16]]                                                  | 6:03 PM - April 01, 2025 |
+| [[Daily Notes/2024-12-12.md\|2024-12-12]]                                                  | 6:03 PM - April 01, 2025 |
 
 %% DATAVIEW_PUBLISHER: end %%
 

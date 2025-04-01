@@ -4,6 +4,7 @@
 category:: literaturenote
 tags:: #Computer-Science---Artificial-Intelligence #Computer-Science---Computation-and-Language #Computer-Science---Machine-Learning #read 
 status:: read 
+dateread::
 reference:: Bai, S., Kolter, J. Z., & Koltun, V. (2018). ‘An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling’. arXiv.
 dateread:
 ---
@@ -51,6 +52,14 @@ dateread:
 
 [Go to annotation](zotero://open-pdf/library/items/DX372JDZ?page=3&annotation=BYUGMJIU) “F (s) = (x ∗d f )(s) = k−1 ∑ i=0 f (i) · xs−d·i” ([Bai et al., 2018, p. 3](zotero://select/library/items/2UF9HWLW)) Formal definition of dilation convolutions..
 
+# Annotations  
+(02/09/2024, 15:51:03)
+
+[Go to annotation](zotero://open-pdf/library/items/DX372JDZ?page=3&annotation=BTAM78YC) “The distinguishing characteristics of TCNs are: 1) the convolutions in the architecture are causal, meaning that there is no information “leakage” from future to past; 2) the architecture can take a sequence of any length and map it to an output sequence of the same length, just as with an RNN.” ([Bai et al., 2018, p. 3](zotero://select/library/items/2UF9HWLW)) The two distinguishing features of the TCN.
+
+[Go to annotation](zotero://open-pdf/library/items/DX372JDZ?page=3&annotation=YWB8P8GZ) “To put it simply: TCN = 1D FCN + causal convolutions.” ([Bai et al., 2018, p. 3](zotero://select/library/items/2UF9HWLW)) Nice and simple definition of a TCN.
+
+[Go to annotation](zotero://open-pdf/library/items/DX372JDZ?page=3&annotation=BYUGMJIU) “F (s) = (x ∗d f )(s) = k−1 ∑ i=0 f (i) · xs−d·i” ([Bai et al., 2018, p. 3](zotero://select/library/items/2UF9HWLW)) Formal definition of dilation convolutions.
 %% end notes %%
 
 
@@ -73,6 +82,27 @@ dateread:
 
 
 
+### Imported: 2025-04-01 5:44 pm
+
+
+<mark style="background-color: #000000">Quote</mark>
+> The distinguishing characteristics of TCNs are: 1) the convolutions in the architecture are causal, meaning that there is no information “leakage” from future to past; 2) the architecture can take a sequence of any length and map it to an output sequence of the same length, just as with an RNN.
+
+<mark style="background-color: #000000">Quote</mark>
+> To put it simply: TCN = 1D FCN + causal convolutions.
+
+<mark style="background-color: #000000">Quote</mark>
+> F (s) = (x ∗d f)(s) = ∑ i=0 f(i) · xs−d·i
+
+
 %% end annotations %%
 
-%% Import Date: 2024-12-13T13:15:20.526+01:00 %%
+
+
+
+
+
+
+
+
+%% Import Date: 2025-04-01T17:44:49.586+02:00 %%

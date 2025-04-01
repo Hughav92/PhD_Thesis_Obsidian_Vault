@@ -4,8 +4,9 @@
 category:: literaturenote
 tags:: {% set tags = allTags.split(',') %}{% for tag in tags %}#{{tag|trim|replace(" ", "-")|replace(".","")|replace("&", "and")}} {% endfor %}
 status:: {% if allTags %}{% if "read" in allTags and "unread" not in allTags %}{{"read"}}{% else %}{{"unread"}}{% endif %} {% else %}{{"unread"}}{% endif %}
+dateread::
 reference:: {{bibliography}}
-dateread:
+
 ---
 
 > [!Cite]

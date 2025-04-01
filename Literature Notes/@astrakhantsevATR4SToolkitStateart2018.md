@@ -3,7 +3,8 @@
 ---
 category:: literaturenote
 tags:: #read 
-status:: read 
+status:: read
+dateread:: 2024-10-03
 reference:: Astrakhantsev, N. (2018). ‘ATR4S: toolkit with state-of-the-art automatic terms recognition methods in Scala’, _Language Resources and Evaluation_, 52/3: 853–72. DOI: [10.1007/s10579-017-9409-4](https://doi.org/10.1007/s10579-017-9409-4)
 dateread:
 ---

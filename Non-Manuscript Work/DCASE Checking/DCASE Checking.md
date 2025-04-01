@@ -11,4 +11,4 @@
 
 # Terminology
 
-[[Activity-Coupled Cartesian Direction of Arrival]] (ACCDOA) -  
+[[Activity-Coupled Cartesian Direction of Arrival]] (ACCDOA)
