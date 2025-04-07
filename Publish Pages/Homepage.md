@@ -56,7 +56,7 @@ WHERE date(file.name) = date(today) AND file.name != "Daily Notes"
 
 | File                                      | Date           |
 | ----------------------------------------- | -------------- |
-| [[Daily Notes/2025-04-01.md\|2025-04-01]] | April 01, 2025 |
+| [[Daily Notes/2025-04-04.md\|2025-04-04]] | April 04, 2025 |
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -73,18 +73,18 @@ LIMIT 10
 ```
 %%
 
-| File                                                                                       | Updated                  |
-| ------------------------------------------------------------------------------------------ | ------------------------ |
-| [[Non-Manuscript Work/DCASE Checking/DCASE Checking - Papers.md\|DCASE Checking - Papers]] | 6:07 PM - April 01, 2025 |
-| [[Literature Notes/@wangNercslipSystemSound2022.md\|@wangNercslipSystemSound2022]]         | 6:04 PM - April 01, 2025 |
-| [[Publish Pages/Homepage.md\|Homepage]]                                                    | 6:03 PM - April 01, 2025 |
-| [[Daily Notes/2025-03-31.md\|2025-03-31]]                                                  | 6:03 PM - April 01, 2025 |
-| [[Daily Notes/2025-04-01.md\|2025-04-01]]                                                  | 6:03 PM - April 01, 2025 |
-| [[Daily Notes/2025-02-10.md\|2025-02-10]]                                                  | 6:03 PM - April 01, 2025 |
-| [[Daily Notes/2025-01-14.md\|2025-01-14]]                                                  | 6:03 PM - April 01, 2025 |
-| [[Daily Notes/2025-01-17.md\|2025-01-17]]                                                  | 6:03 PM - April 01, 2025 |
-| [[Daily Notes/2024-12-16.md\|2024-12-16]]                                                  | 6:03 PM - April 01, 2025 |
-| [[Daily Notes/2024-12-12.md\|2024-12-12]]                                                  | 6:03 PM - April 01, 2025 |
+| File                                                                                                           | Updated                   |
+| -------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| [[Non-Manuscript Work/DCASE Checking/DCASE Checking - Method Summaries.md\|DCASE Checking - Method Summaries]] | 11:56 AM - April 04, 2025 |
+| [[Non-Manuscript Work/DCASE Checking/DCASE Checking.md\|DCASE Checking]]                                       | 11:49 AM - April 04, 2025 |
+| [[Telematic Music.md\|Telematic Music]]                                                                        | 11:47 AM - April 04, 2025 |
+| [[Telematic Performance.md\|Telematic Performance]]                                                            | 11:46 AM - April 04, 2025 |
+| [[Telematic Dance.md\|Telematic Dance]]                                                                        | 11:46 AM - April 04, 2025 |
+| [[Daily Notes/2025-04-04.md\|2025-04-04]]                                                                      | 11:46 AM - April 04, 2025 |
+| [[Daily Notes/2025-03-15.md\|2025-03-15]]                                                                      | 11:34 AM - April 04, 2025 |
+| [[Daily Notes/2025-03-16.md\|2025-03-16]]                                                                      | 11:34 AM - April 04, 2025 |
+| [[Daily Notes/2025-03-17.md\|2025-03-17]]                                                                      | 11:34 AM - April 04, 2025 |
+| [[Daily Notes/2025-03-18.md\|2025-03-18]]                                                                      | 11:34 AM - April 04, 2025 |
 
 %% DATAVIEW_PUBLISHER: end %%
 
