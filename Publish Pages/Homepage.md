@@ -56,7 +56,7 @@ WHERE date(file.name) = date(today) AND file.name != "Daily Notes"
 
 | File                                      | Date           |
 | ----------------------------------------- | -------------- |
-| [[Daily Notes/2025-04-04.md\|2025-04-04]] | April 04, 2025 |
+| [[Daily Notes/2025-04-08.md\|2025-04-08]] | April 08, 2025 |
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -73,18 +73,18 @@ LIMIT 10
 ```
 %%
 
-| File                                                                                                           | Updated                   |
-| -------------------------------------------------------------------------------------------------------------- | ------------------------- |
-| [[Non-Manuscript Work/DCASE Checking/DCASE Checking - Method Summaries.md\|DCASE Checking - Method Summaries]] | 11:56 AM - April 04, 2025 |
-| [[Non-Manuscript Work/DCASE Checking/DCASE Checking.md\|DCASE Checking]]                                       | 11:49 AM - April 04, 2025 |
-| [[Telematic Music.md\|Telematic Music]]                                                                        | 11:47 AM - April 04, 2025 |
-| [[Telematic Performance.md\|Telematic Performance]]                                                            | 11:46 AM - April 04, 2025 |
-| [[Telematic Dance.md\|Telematic Dance]]                                                                        | 11:46 AM - April 04, 2025 |
-| [[Daily Notes/2025-04-04.md\|2025-04-04]]                                                                      | 11:46 AM - April 04, 2025 |
-| [[Daily Notes/2025-03-15.md\|2025-03-15]]                                                                      | 11:34 AM - April 04, 2025 |
-| [[Daily Notes/2025-03-16.md\|2025-03-16]]                                                                      | 11:34 AM - April 04, 2025 |
-| [[Daily Notes/2025-03-17.md\|2025-03-17]]                                                                      | 11:34 AM - April 04, 2025 |
-| [[Daily Notes/2025-03-18.md\|2025-03-18]]                                                                      | 11:34 AM - April 04, 2025 |
+| File                                                                                                     | Updated                   |
+| -------------------------------------------------------------------------------------------------------- | ------------------------- |
+| [[Daily Notes/2025-04-07.md\|2025-04-07]]                                                                | 12:10 PM - April 08, 2025 |
+| [[Publish Pages/Homepage.md\|Homepage]]                                                                  | 12:10 PM - April 08, 2025 |
+| [[Daily Notes/Daily Notes.md\|Daily Notes]]                                                              | 12:10 PM - April 08, 2025 |
+| [[Daily Notes/2025-04-06.md\|2025-04-06]]                                                                | 12:09 PM - April 08, 2025 |
+| [[Daily Notes/2025-04-05.md\|2025-04-05]]                                                                | 12:09 PM - April 08, 2025 |
+| [[Literature Notes/@ahmadUniversitySurreyParticipation1999.md\|@ahmadUniversitySurreyParticipation1999]] | 12:08 PM - April 08, 2025 |
+| [[Daily Notes/2025-04-08.md\|2025-04-08]]                                                                | 12:07 PM - April 08, 2025 |
+| [[Literature Overview/Works Cited.md\|Works Cited]]                                                      | 3:18 PM - April 04, 2025  |
+| [[Literature Overview/All.md\|All]]                                                                      | 3:18 PM - April 04, 2025  |
+| [[Daily Notes/2025-04-03.md\|2025-04-03]]                                                                | 3:18 PM - April 04, 2025  |
 
 %% DATAVIEW_PUBLISHER: end %%
 
