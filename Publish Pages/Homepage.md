@@ -56,7 +56,7 @@ WHERE date(file.name) = date(today) AND file.name != "Daily Notes"
 
 | File                                      | Date           |
 | ----------------------------------------- | -------------- |
-| [[Daily Notes/2025-04-08.md\|2025-04-08]] | April 08, 2025 |
+| [[Daily Notes/2025-04-09.md\|2025-04-09]] | April 09, 2025 |
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -75,16 +75,16 @@ LIMIT 10
 
 | File                                                                                       | Updated                   |
 | ------------------------------------------------------------------------------------------ | ------------------------- |
+| [[Daily Notes/2025-04-07.md\|2025-04-07]]                                                  | 9:55 AM - April 09, 2025  |
+| [[Daily Notes/2025-04-08.md\|2025-04-08]]                                                  | 9:53 AM - April 09, 2025  |
+| [[Daily Notes/2025-04-09.md\|2025-04-09]]                                                  | 9:49 AM - April 09, 2025  |
+| [[Publish Pages/Homepage.md\|Homepage]]                                                    | 12:59 PM - April 08, 2025 |
 | [[Literature Notes/@dastonObjectivity2021.md\|@dastonObjectivity2021]]                     | 12:59 PM - April 08, 2025 |
 | [[Non-Manuscript Work/DCASE Checking/DCASE Checking - Papers.md\|DCASE Checking - Papers]] | 12:11 PM - April 08, 2025 |
 | [[Literature Overview/Works Cited.md\|Works Cited]]                                        | 12:11 PM - April 08, 2025 |
 | [[Literature Overview/All.md\|All]]                                                        | 12:11 PM - April 08, 2025 |
 | [[Daily Notes/2025-04-04.md\|2025-04-04]]                                                  | 12:11 PM - April 08, 2025 |
 | [[Daily Notes/2025-04-01.md\|2025-04-01]]                                                  | 12:11 PM - April 08, 2025 |
-| [[Daily Notes/2025-03-31.md\|2025-03-31]]                                                  | 12:11 PM - April 08, 2025 |
-| [[Daily Notes/2025-01-14.md\|2025-01-14]]                                                  | 12:11 PM - April 08, 2025 |
-| [[Daily Notes/2024-12-09.md\|2024-12-09]]                                                  | 12:11 PM - April 08, 2025 |
-| [[Daily Notes/2024-12-04.md\|2024-12-04]]                                                  | 12:11 PM - April 08, 2025 |
 
 %% DATAVIEW_PUBLISHER: end %%
 
