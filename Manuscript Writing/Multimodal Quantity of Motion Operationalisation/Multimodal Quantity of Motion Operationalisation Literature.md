@@ -13,7 +13,7 @@ contribution as Summary,
 choice(contains(split(status, ", "), "unread"), "unread", choice(contains(split(status, ", "), "read"), "read", "")) as Status 
 from "Literature Notes"
 where contains(tags, "QOMOP")
-SORT year DESC, year DESC
+SORT year ASC, year ASC
 ```
 %%
 

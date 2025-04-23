@@ -5,12 +5,12 @@ category:: literaturenote
 tags:: #unread #QOMOP 
 status:: unread 
 dateread::
-reference:: Camurri, A., De Poli, G., Leman, M., Volpe, G., & others. (2001). ‘A multi-layered conceptual framework for expressive gesture applications’. _Proc. intl MOSART workshop, barcelona_.
+reference:: Camurri, A., De Poli, G., Leman, M., & Volpe, G. (2001). ‘A multi-layered conceptual framework for expressive gesture applications’. _Proc. intl MOSART workshop, barcelona_.
 
 ---
 
 > [!Cite]
-> Camurri, A., De Poli, G., Leman, M., Volpe, G., & others. (2001). ‘A multi-layered conceptual framework for expressive gesture applications’. _Proc. intl MOSART workshop, barcelona_.
+> Camurri, A., De Poli, G., Leman, M., & Volpe, G. (2001). ‘A multi-layered conceptual framework for expressive gesture applications’. _Proc. intl MOSART workshop, barcelona_.
 ^cite
 
 >[!Synth]
@@ -26,7 +26,6 @@ reference:: Camurri, A., De Poli, G., Leman, M., Volpe, G., & others. (2001). �
 > **Author**:: De Poli, Giovanni  
 > **Author**:: Leman, Marc  
 > **Author**:: Volpe, Gualtiero  
-> **Author**:: others  
 ~    
 > **Title**:: A multi-layered conceptual framework for expressive gesture applications  
 > **Year**:: 2001   
@@ -60,4 +59,4 @@ reference:: Camurri, A., De Poli, G., Leman, M., Volpe, G., & others. (2001). �
 
 
 
-%% Import Date: 2025-04-22T17:23:28.035+02:00 %%
+%% Import Date: 2025-04-23T11:24:31.575+02:00 %%
