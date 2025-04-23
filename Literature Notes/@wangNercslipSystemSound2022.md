@@ -4,10 +4,11 @@
 category:: literaturenote
 tags:: #read 
 status:: read 
-dateread:: 2025-04-01
+dateread:: 
 reference:: Wang, Q., Chai, L., Wu, H., Nian, Z., Niu, S., Zheng, S., Wang, Y., et al. (2022). _The nerc-slip system for sound event localization and detection of dcase2022 challenge_. DCASE2022 Challenge.
 
 ---
+
 
 > [!Cite]
 > Wang, Q., Chai, L., Wu, H., Nian, Z., Niu, S., Zheng, S., Wang, Y., et al. (2022). _The nerc-slip system for sound event localization and detection of dcase2022 challenge_. DCASE2022 Challenge.
@@ -73,4 +74,4 @@ reference:: Wang, Q., Chai, L., Wu, H., Nian, Z., Niu, S., Zheng, S., Wang, Y., 
 
 
 
-%% Import Date: 2025-04-01T11:50:37.356+02:00 %%
+%% Import Date: 2025-04-23T15:06:47.742+02:00 %%

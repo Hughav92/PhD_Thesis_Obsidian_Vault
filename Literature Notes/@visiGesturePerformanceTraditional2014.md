@@ -4,10 +4,11 @@
 category:: literaturenote
 tags:: #Gesture #mapping #multimodal #motion-capture #expressiveness #unread #embodied-music-cognition #guitar #QOMOP 
 status:: unread 
-dateread::
+dateread:: 
 reference:: Visi, F., Schramm, R., & Miranda, E. (2014). ‘Gesture in performance with traditional musical instruments and electronics: Use of embodied music cognition and multimodal motion capture to design gestural mapping strategies’. _Proceedings of the 2014 international workshop on movement and computing_, Moco ’14, pp. 100–5. Paris, France and New York, NY, USA: Association for Computing Machinery. DOI: [10.1145/2617995.2618013](https://doi.org/10.1145/2617995.2618013)
 
 ---
+Number of pages: 6
 
 > [!Cite]
 > Visi, F., Schramm, R., & Miranda, E. (2014). ‘Gesture in performance with traditional musical instruments and electronics: Use of embodied music cognition and multimodal motion capture to design gestural mapping strategies’. _Proceedings of the 2014 international workshop on movement and computing_, Moco ’14, pp. 100–5. Paris, France and New York, NY, USA: Association for Computing Machinery. DOI: [10.1145/2617995.2618013](https://doi.org/10.1145/2617995.2618013)
@@ -65,4 +66,4 @@ reference:: Visi, F., Schramm, R., & Miranda, E. (2014). ‘Gesture in performan
 
 
 
-%% Import Date: 2025-04-22T17:23:29.077+02:00 %%
+%% Import Date: 2025-04-23T15:10:01.571+02:00 %%

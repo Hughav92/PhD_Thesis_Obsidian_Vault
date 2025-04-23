@@ -4,19 +4,10 @@
 category:: literaturenote
 tags:: {% set tags = allTags.split(',') %}{% for tag in tags %}#{{tag|trim|replace(" ", "-")|replace(".","")|replace("&", "and")}} {% endfor %}
 status:: {% if allTags %}{% if "read" in allTags and "unread" not in allTags %}{{"read"}}{% else %}{{"unread"}}{% endif %} {% else %}{{"unread"}}{% endif %}
-dateread:: {% set full_note = "" %}
-{% for m in markdownNotes %}
-  {% set full_note = full_note + m %}
-{% endfor %}
-
-{% if "Date Read" in full_note %}
-  {% set date = full_note.split("Date Read")[1] | trim %}
-  Extracted Date: {{ date }}
-{% endif %}
+dateread:: {% set full_note = "" %}{% for m in markdownNotes %}{% set full_note = full_note + m %}{% endfor %}{% if "Date Read" in full_note %}{% set dateread = full_note.split("Date Read")[1] | trim %}{{ dateread}}{% endif %}
 reference:: {{bibliography}}
 
 ---
-{{extra}}
 
 > [!Cite]
 > {{bibliography}}
@@ -28,6 +19,7 @@ reference:: {{bibliography}}
 >**Contribution**:: 
 >
 >**Related**::  {% for relation in relations | selectattr("citekey") %} [[@{{relation.citekey}}]]{% if not loop.last %}, {% endif%} {% endfor %}
+>
 >{% endif %}{% endpersist %}
 
 >[!md]
@@ -61,7 +53,22 @@ reference:: {{bibliography}}
 > {%- if abstractNote %}
 > {{abstractNote}}
 > {%- endif -%}.
-> 
+
+{% if "QOMOP" in allTags %}
+{% persist "QOM" %}{% if isFirstImport %}
+
+> [!Quantity of Motion]
+>**Modality**:: 
+>
+>**Operationalisation**::
+>
+>**Use**::
+>
+>**Other**::
+
+{% endif %}{% endpersist %}
+{% endif %}
+
 # Notes
 
 {% persist "notes" %}{% if isFirstImport %}

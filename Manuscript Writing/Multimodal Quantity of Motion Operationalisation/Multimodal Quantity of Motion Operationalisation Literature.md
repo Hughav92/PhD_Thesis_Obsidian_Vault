@@ -10,7 +10,8 @@ title as Title,
 FirstAuthor as Author,
 year as Year,
 contribution as Summary,
-choice(contains(split(status, ", "), "unread"), "unread", choice(contains(split(status, ", "), "read"), "read", "")) as Status 
+choice(contains(split(status, ", "), "unread"), "unread", choice(contains(split(status, ", "), "read"), "read", "")) as Status,
+"Quantity of Motion Modality"
 from "Literature Notes"
 where contains(tags, "QOMOP")
 SORT year ASC, year ASC
