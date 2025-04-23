@@ -4,10 +4,19 @@
 category:: literaturenote
 tags:: {% set tags = allTags.split(',') %}{% for tag in tags %}#{{tag|trim|replace(" ", "-")|replace(".","")|replace("&", "and")}} {% endfor %}
 status:: {% if allTags %}{% if "read" in allTags and "unread" not in allTags %}{{"read"}}{% else %}{{"unread"}}{% endif %} {% else %}{{"unread"}}{% endif %}
-dateread::
+dateread:: {% set full_note = "" %}
+{% for m in markdownNotes %}
+  {% set full_note = full_note + m %}
+{% endfor %}
+
+{% if "Date Read" in full_note %}
+  {% set date = full_note.split("Date Read")[1] | trim %}
+  Extracted Date: {{ date }}
+{% endif %}
 reference:: {{bibliography}}
 
 ---
+{{extra}}
 
 > [!Cite]
 > {{bibliography}}
