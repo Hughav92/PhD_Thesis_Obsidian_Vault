@@ -56,7 +56,7 @@ WHERE date(file.name) = date(today) AND file.name != "Daily Notes"
 
 | File                                      | Date           |
 | ----------------------------------------- | -------------- |
-| [[Daily Notes/2025-04-22.md\|2025-04-22]] | April 22, 2025 |
+| [[Daily Notes/2025-04-23.md\|2025-04-23]] | April 23, 2025 |
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -73,18 +73,18 @@ LIMIT 10
 ```
 %%
 
-| File                                      | Updated                  |
-| ----------------------------------------- | ------------------------ |
-| [[Literature Overview/All.md\|All]]       | 5:30 PM - April 22, 2025 |
-| [[Daily Notes/2025-04-14.md\|2025-04-14]] | 5:30 PM - April 22, 2025 |
-| [[Daily Notes/2025-04-22.md\|2025-04-22]] | 5:30 PM - April 22, 2025 |
-| [[Daily Notes/2025-04-21.md\|2025-04-21]] | 5:30 PM - April 22, 2025 |
-| [[Daily Notes/2025-04-20.md\|2025-04-20]] | 5:30 PM - April 22, 2025 |
-| [[Daily Notes/2025-04-19.md\|2025-04-19]] | 5:30 PM - April 22, 2025 |
-| [[Daily Notes/2025-04-18.md\|2025-04-18]] | 5:30 PM - April 22, 2025 |
-| [[Daily Notes/2025-04-16.md\|2025-04-16]] | 5:30 PM - April 22, 2025 |
-| [[Daily Notes/2025-04-17.md\|2025-04-17]] | 5:30 PM - April 22, 2025 |
-| [[Daily Notes/2025-04-15.md\|2025-04-15]] | 5:30 PM - April 22, 2025 |
+| File                                                                                                                                                                                                | Updated                  |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
+| [[Manuscript Writing/Multimodal Quantity of Motion Operationalisation/Multimodal Quantity of Motion Operationalisation Literature.md\|Multimodal Quantity of Motion Operationalisation Literature]] | 3:49 PM - April 23, 2025 |
+| [[Publish Pages/Homepage.md\|Homepage]]                                                                                                                                                             | 3:49 PM - April 23, 2025 |
+| [[Literature Overview/All.md\|All]]                                                                                                                                                                 | 3:48 PM - April 23, 2025 |
+| [[Literature Overview/Works Cited.md\|Works Cited]]                                                                                                                                                 | 3:48 PM - April 23, 2025 |
+| [[Daily Notes/2025-04-22.md\|2025-04-22]]                                                                                                                                                           | 3:48 PM - April 23, 2025 |
+| [[Daily Notes/2025-04-08.md\|2025-04-08]]                                                                                                                                                           | 3:48 PM - April 23, 2025 |
+| [[Daily Notes/2025-04-04.md\|2025-04-04]]                                                                                                                                                           | 3:48 PM - April 23, 2025 |
+| [[Daily Notes/2025-03-31.md\|2025-03-31]]                                                                                                                                                           | 3:48 PM - April 23, 2025 |
+| [[Daily Notes/2025-02-10.md\|2025-02-10]]                                                                                                                                                           | 3:48 PM - April 23, 2025 |
+| [[Daily Notes/2025-01-17.md\|2025-01-17]]                                                                                                                                                           | 3:48 PM - April 23, 2025 |
 
 %% DATAVIEW_PUBLISHER: end %%
 
