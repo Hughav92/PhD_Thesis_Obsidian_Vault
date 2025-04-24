@@ -73,6 +73,10 @@ reference:: Camurri, A., De Poli, G., Leman, M., & Volpe, G. (2001). ‘A multi-
 
 2025-04-23
 
+# Figures
+
+![[Pasted image 20250423183352.png]]
+The multi-layer model for the analysis of expressive gesture.
 %% end notes %%
 
 

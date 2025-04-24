@@ -75,16 +75,16 @@ LIMIT 10
 
 | File                                                                                                                                                                                                | Updated                  |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
-| [[Manuscript Writing/Multimodal Quantity of Motion Operationalisation/Multimodal Quantity of Motion Operationalisation Literature.md\|Multimodal Quantity of Motion Operationalisation Literature]] | 3:49 PM - April 23, 2025 |
-| [[Publish Pages/Homepage.md\|Homepage]]                                                                                                                                                             | 3:49 PM - April 23, 2025 |
-| [[Literature Overview/All.md\|All]]                                                                                                                                                                 | 3:48 PM - April 23, 2025 |
-| [[Literature Overview/Works Cited.md\|Works Cited]]                                                                                                                                                 | 3:48 PM - April 23, 2025 |
-| [[Daily Notes/2025-04-22.md\|2025-04-22]]                                                                                                                                                           | 3:48 PM - April 23, 2025 |
-| [[Daily Notes/2025-04-08.md\|2025-04-08]]                                                                                                                                                           | 3:48 PM - April 23, 2025 |
-| [[Daily Notes/2025-04-04.md\|2025-04-04]]                                                                                                                                                           | 3:48 PM - April 23, 2025 |
-| [[Daily Notes/2025-03-31.md\|2025-03-31]]                                                                                                                                                           | 3:48 PM - April 23, 2025 |
-| [[Daily Notes/2025-02-10.md\|2025-02-10]]                                                                                                                                                           | 3:48 PM - April 23, 2025 |
-| [[Daily Notes/2025-01-17.md\|2025-01-17]]                                                                                                                                                           | 3:48 PM - April 23, 2025 |
+| [[Silhouette Motion Image.md\|Silhouette Motion Image]]                                                                                                                                             | 6:37 PM - April 23, 2025 |
+| [[Literature Notes/@camurriImprovingManmachineInterface2002.md\|@camurriImprovingManmachineInterface2002]]                                                                                          | 6:37 PM - April 23, 2025 |
+| [[Literature Notes/@camurriMultilayeredConceptualFramework2001a.md\|@camurriMultilayeredConceptualFramework2001a]]                                                                                  | 6:35 PM - April 23, 2025 |
+| [[Manuscript Writing/Multimodal Quantity of Motion Operationalisation/Multimodal Quantity of Motion Operationalisation Literature.md\|Multimodal Quantity of Motion Operationalisation Literature]] | 6:31 PM - April 23, 2025 |
+| [[Literature Overview/All.md\|All]]                                                                                                                                                                 | 6:31 PM - April 23, 2025 |
+| [[Daily Notes/2025-04-23.md\|2025-04-23]]                                                                                                                                                           | 6:31 PM - April 23, 2025 |
+| [[Daily Notes/2025-04-22.md\|2025-04-22]]                                                                                                                                                           | 6:31 PM - April 23, 2025 |
+| [[Publish Pages/Homepage.md\|Homepage]]                                                                                                                                                             | 6:31 PM - April 23, 2025 |
+| [[Literature Overview/Works Cited.md\|Works Cited]]                                                                                                                                                 | 6:31 PM - April 23, 2025 |
+| [[Contraction Index.md\|Contraction Index]]                                                                                                                                                         | 6:25 PM - April 23, 2025 |
 
 %% DATAVIEW_PUBLISHER: end %%
 
